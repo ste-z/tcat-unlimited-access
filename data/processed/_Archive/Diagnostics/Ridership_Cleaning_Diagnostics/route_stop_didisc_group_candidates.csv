@@ -1,0 +1,971 @@
+route_clean,stop_id_clean,canonical_stop_name,boards,rows,pre_boards,post_boards,pre_cornell_card_rows,pre_rows,post_rows,pre_cornell_card_share,has_balanced_near6_sample,didisc_group
+11,165,Green Commons,7413,7413,3410,4003,132,3410,4003,0.03870967741935484,True,control_low_cornell_exposure
+43,165,Green Commons,7171,7171,4822,2349,416,4822,2349,0.08627125673994193,True,control_low_cornell_exposure
+14,165,Green Commons,6890,6890,3793,3097,190,3793,3097,0.05009227524387029,True,control_low_cornell_exposure
+11,339,Roy Park IC,3039,3039,2250,789,15,2250,789,0.006666666666666667,True,control_low_cornell_exposure
+21,100,Seneca Commons,2973,2973,2103,870,211,2103,870,0.10033285782215882,True,control_low_cornell_exposure
+43,4783,TC3,2697,2697,2354,343,27,2354,343,0.011469838572642312,True,control_low_cornell_exposure
+11,340,Roy Park IC,2611,2611,1566,1045,1,1566,1045,0.0006385696040868455,True,control_low_cornell_exposure
+52,165,Green Commons,2559,2559,1277,1282,127,1277,1282,0.09945184025058731,True,control_low_cornell_exposure
+13,165,Green Commons,2421,2421,1537,884,15,1537,884,0.009759271307742356,True,control_low_cornell_exposure
+37,165,Green Commons,2318,2318,1478,840,219,1478,840,0.14817320703653586,True,control_low_cornell_exposure
+11,349,Towers IC,2158,2158,1392,766,10,1392,766,0.007183908045977011,True,control_low_cornell_exposure
+11,337,Ithaca College,1784,1784,1161,623,4,1161,623,0.0034453057708871662,True,control_low_cornell_exposure
+14,2545,Cayuga Med ER,1589,1589,1195,394,112,1195,394,0.09372384937238494,True,control_low_cornell_exposure
+13,100,Seneca Commons,1394,1394,1034,360,58,1034,360,0.05609284332688588,True,control_low_cornell_exposure
+14,664,State @ Meadow,1309,1309,658,651,13,658,651,0.019756838905775075,True,control_low_cornell_exposure
+32,3785,Airport,1219,1219,892,327,112,892,327,0.12556053811659193,True,control_low_cornell_exposure
+14,679,State/MLK at In,1128,1128,474,654,18,474,654,0.0379746835443038,True,control_low_cornell_exposure
+11,351,Ithaca College,1003,1003,767,236,1,767,236,0.001303780964797914,True,control_low_cornell_exposure
+14,709,Chestnut @ Elm,948,948,890,58,10,890,58,0.011235955056179775,True,control_low_cornell_exposure
+14,713,Elm @ W Vill,946,946,679,267,18,679,267,0.026509572901325478,True,control_low_cornell_exposure
+14,112,Albany at Salva,833,833,556,277,36,556,277,0.06474820143884892,True,control_low_cornell_exposure
+15,535,Titus Towers,810,810,687,123,59,687,123,0.0858806404657933,True,control_low_cornell_exposure
+11,342,Alumni Circ IC,710,710,520,190,1,520,190,0.0019230769230769232,True,control_low_cornell_exposure
+14,2542,Overlook Apts,681,681,501,180,4,501,180,0.007984031936127744,True,control_low_cornell_exposure
+13,1125,Lake @ IHS,640,640,536,104,19,536,104,0.03544776119402985,True,control_low_cornell_exposure
+11,372,College Circle,564,564,243,321,0,243,321,0.0,True,control_low_cornell_exposure
+11,338,Ithaca College,503,503,169,334,0,169,334,0.0,True,control_low_cornell_exposure
+43,4718,Dryden Vill Lib,503,503,426,77,41,426,77,0.09624413145539906,True,control_low_cornell_exposure
+67,564,Elmira Rd @ Wal,503,503,345,158,4,345,158,0.011594202898550725,True,control_low_cornell_exposure
+21,676,Buffalo @ Taugh,493,493,424,69,8,424,69,0.018867924528301886,True,control_low_cornell_exposure
+14,2546,Cayuga Med Ctr,465,465,330,135,16,330,135,0.048484848484848485,True,control_low_cornell_exposure
+11,373,College Circle,454,454,269,185,1,269,185,0.0037174721189591076,True,control_low_cornell_exposure
+67,532,Meadow @ Wood,450,450,270,180,24,270,180,0.08888888888888889,True,control_low_cornell_exposure
+14,2543,Cayuga Meadows,389,389,96,293,0,96,293,0.0,True,control_low_cornell_exposure
+11,374,College Circle,363,363,232,131,1,232,131,0.004310344827586207,True,control_low_cornell_exposure
+11,343,Alumni Circ IC,356,356,244,112,7,244,112,0.028688524590163935,True,control_low_cornell_exposure
+14,669,State/MLK @ Inl,306,306,194,112,7,194,112,0.03608247422680412,True,control_low_cornell_exposure
+11,376,College Circle,300,300,159,141,0,159,141,0.0,True,control_low_cornell_exposure
+11,348,Ithaca College,298,298,236,62,1,236,62,0.00423728813559322,True,control_low_cornell_exposure
+11,352,Ithaca College,292,292,183,109,1,183,109,0.00546448087431694,True,control_low_cornell_exposure
+31,3951,Hanshaw Village,286,286,84,202,0,84,202,0.0,True,control_low_cornell_exposure
+21,2671,Compass MHC,278,278,166,112,3,166,112,0.018072289156626505,True,control_low_cornell_exposure
+21,672,Seneca @ Fulton,278,278,192,86,14,192,86,0.07291666666666667,True,control_low_cornell_exposure
+14,715,W Vill Parking,265,265,111,154,1,111,154,0.009009009009009009,True,control_low_cornell_exposure
+14,668,State @ Fulton,259,259,130,129,3,130,129,0.023076923076923078,True,control_low_cornell_exposure
+13,996,Guthrie Cty Har,256,256,197,59,2,197,59,0.01015228426395939,True,control_low_cornell_exposure
+13,1143,Stewart Park,244,244,154,90,2,154,90,0.012987012987012988,True,control_low_cornell_exposure
+40,4365,Groton Speedway,220,220,148,72,1,148,72,0.006756756756756757,True,control_low_cornell_exposure
+14,663,State/MLK @ Mea,213,213,120,93,13,120,93,0.10833333333333334,True,control_low_cornell_exposure
+67,570,Elmira @ Spence,209,209,123,86,1,123,86,0.008130081300813009,True,control_low_cornell_exposure
+14,128,State/MLK @ Pla,208,208,137,71,5,137,71,0.0364963503649635,True,control_low_cornell_exposure
+11,365,Longview,207,207,80,127,7,80,127,0.0875,True,control_low_cornell_exposure
+43,4717,Dryden Vill PO,202,202,70,132,1,70,132,0.014285714285714285,True,control_low_cornell_exposure
+14,737,Linderman Creek,194,194,144,50,5,144,50,0.034722222222222224,True,control_low_cornell_exposure
+11,314,Hudson @ Columb,182,182,88,94,7,88,94,0.07954545454545454,True,control_low_cornell_exposure
+13,929,Third @ Hancock,174,174,115,59,0,115,59,0.0,True,control_low_cornell_exposure
+51,5552,Skyvue @ Snyder,144,144,72,72,7,72,72,0.09722222222222222,True,control_low_cornell_exposure
+14,738,Conifer Village,126,126,71,55,9,71,55,0.1267605633802817,True,control_low_cornell_exposure
+30,165,Green Commons,38584,38584,22998,15586,5713,22998,15586,0.24841290547004088,True,exclude_or_sensitivity
+30,3588,Ithaca Mall,24158,24158,13536,10622,3793,13536,10622,0.2802157210401891,True,exclude_or_sensitivity
+15,549,WalMart,7271,7271,4414,2857,879,4414,2857,0.1991391028545537,True,exclude_or_sensitivity
+32,165,Green Commons,6593,6593,3143,3450,621,3143,3450,0.19758192809417754,True,exclude_or_sensitivity
+81,1547,Dairy Bar,6392,6392,4507,1885,1598,4507,1885,0.35455957399600624,True,exclude_or_sensitivity
+10,1534,Sage Hall,6240,6240,6240,0,4951,6240,0,0.7934294871794871,False,exclude_or_sensitivity
+51,165,Green Commons,5992,5992,3243,2749,676,3243,2749,0.20844896700585877,True,exclude_or_sensitivity
+15,100,Seneca Commons,5984,5984,4466,1518,1017,4466,1518,0.2277205553067622,True,exclude_or_sensitivity
+30,3593,Tops Supermarke,5850,5850,3213,2637,1095,3213,2637,0.3408029878618114,True,exclude_or_sensitivity
+11,172,Aurora Commons,4339,4339,2072,2267,426,2072,2267,0.2055984555984556,True,exclude_or_sensitivity
+30,100,Seneca Commons,4334,4334,2195,2139,938,2195,2139,0.4273348519362187,True,exclude_or_sensitivity
+82,1774,E Hill Plaza,4230,4230,2635,1595,772,2635,1595,0.29297912713472485,True,exclude_or_sensitivity
+90,165,Green Commons,4139,4139,0,4139,0,0,4139,,False,exclude_or_sensitivity
+10,100,Seneca Commons,4132,4132,4132,0,1387,4132,0,0.3356727976766699,False,exclude_or_sensitivity
+30,3525,Lansing West Ap,4030,4030,2810,1220,846,2810,1220,0.301067615658363,True,exclude_or_sensitivity
+31,1534,Sage Hall,3908,3908,2787,1121,811,2787,1121,0.2909939002511661,True,exclude_or_sensitivity
+10,1524,Goldwin Smith,3607,3607,3607,0,2925,3607,0,0.8109232048794012,False,exclude_or_sensitivity
+14,100,Seneca Commons,3344,3344,2042,1302,740,2042,1302,0.3623898139079334,True,exclude_or_sensitivity
+15,541,Wegmans,3213,3213,2210,1003,566,2210,1003,0.25610859728506785,True,exclude_or_sensitivity
+90,1719,College @ Oak,3160,3160,0,3160,0,0,3160,,False,exclude_or_sensitivity
+30,1355,Jessup @ Tripha,2731,2731,1454,1277,710,1454,1277,0.48830811554332876,True,exclude_or_sensitivity
+67,100,Seneca Commons,2649,2649,1497,1152,422,1497,1152,0.2818971275885104,True,exclude_or_sensitivity
+90,1330,Appel Commons,2516,2516,0,2516,0,0,2516,,False,exclude_or_sensitivity
+30,1714,Catherine Commo,2273,2273,1097,1176,633,1097,1176,0.577028258887876,True,exclude_or_sensitivity
+31,1525,Rockefeller Hal,2190,2190,1505,685,838,1505,685,0.5568106312292359,True,exclude_or_sensitivity
+92,1716,Schwartz CPA,2163,2163,0,2163,0,0,2163,,False,exclude_or_sensitivity
+40,165,Green Commons,2147,2147,2147,0,160,2147,0,0.07452258965999069,False,exclude_or_sensitivity
+30,112,Albany at Salva,1964,1964,1252,712,583,1252,712,0.46565495207667734,True,exclude_or_sensitivity
+92,1512,Baker Flag Slop,1868,1868,0,1868,0,0,1868,,False,exclude_or_sensitivity
+10,1511,Boldt Hall,1839,1839,1839,0,1371,1839,0,0.7455138662316476,False,exclude_or_sensitivity
+21,1542,Kennedy Hall,1653,1653,1633,20,1468,1633,20,0.898958971218616,False,exclude_or_sensitivity
+90,1531,Carpenter Hall,1652,1652,0,1652,0,0,1652,,False,exclude_or_sensitivity
+30,3712,PleasGrove@Hans,1620,1620,1110,510,525,1110,510,0.47297297297297297,True,exclude_or_sensitivity
+90,1534,Sage Hall,1549,1549,0,1549,0,0,1549,,False,exclude_or_sensitivity
+90,1525,Rockefeller Hal,1508,1508,0,1508,0,0,1508,,False,exclude_or_sensitivity
+90,1533,Statler Hall,1505,1505,0,1505,0,0,1505,,False,exclude_or_sensitivity
+30,3579,Cayuga Mall,1396,1396,780,616,261,780,616,0.3346153846153846,True,exclude_or_sensitivity
+20,100,Seneca Commons,1388,1388,1388,0,56,1388,0,0.040345821325648415,False,exclude_or_sensitivity
+90,1524,Goldwin Smith,1382,1382,0,1382,0,0,1382,,False,exclude_or_sensitivity
+67,1534,Sage Hall,1279,1279,1279,0,1044,1279,0,0.8162627052384676,False,exclude_or_sensitivity
+30,1710,College @ Mitch,1246,1246,627,619,261,627,619,0.41626794258373206,True,exclude_or_sensitivity
+15,561,Elmira @ Meadow,1245,1245,768,477,358,768,477,0.4661458333333333,True,exclude_or_sensitivity
+92,1330,Appel Commons,1228,1228,0,1228,0,0,1228,,False,exclude_or_sensitivity
+65,172,Aurora Commons,1156,1156,1119,37,252,1119,37,0.225201072386059,False,exclude_or_sensitivity
+90,1326,Risley Hall - S,1152,1152,0,1152,0,0,1152,,False,exclude_or_sensitivity
+10,103,Tioga @ Court,1117,1117,1117,0,652,1117,0,0.5837063563115488,False,exclude_or_sensitivity
+90,1343,RPCC,1107,1107,0,1107,0,0,1107,,False,exclude_or_sensitivity
+30,1704,State/MLK @ Qua,1079,1079,524,555,248,524,555,0.4732824427480916,True,exclude_or_sensitivity
+21,1540,Uris Hall Acros,1064,1064,1041,23,831,1041,23,0.7982708933717579,False,exclude_or_sensitivity
+15,545,South Meadow Ma,1041,1041,598,443,280,598,443,0.4682274247491639,True,exclude_or_sensitivity
+10,1113,University @ La,1022,1022,1022,0,711,1022,0,0.6956947162426614,False,exclude_or_sensitivity
+92,1513,Baker Flag,1018,1018,0,1018,0,0,1018,,False,exclude_or_sensitivity
+90,1530,Anabel Taylor H,973,973,0,973,0,0,973,,False,exclude_or_sensitivity
+30,3587,Graham@Butler,948,948,568,380,224,568,380,0.39436619718309857,True,exclude_or_sensitivity
+67,1542,Kennedy Hall,939,939,939,0,839,939,0,0.8935037273695421,False,exclude_or_sensitivity
+21,1555,Vet School,934,934,924,10,569,924,10,0.6158008658008658,False,exclude_or_sensitivity
+32,1712,Mitchell @ Coll,876,876,597,279,355,597,279,0.5946398659966499,True,exclude_or_sensitivity
+92,1531,Carpenter Hall,848,848,0,848,0,0,848,,False,exclude_or_sensitivity
+21,1544,Bradfield Hall,840,840,833,7,773,833,7,0.9279711884753902,False,exclude_or_sensitivity
+31,3936,Lab of Ornith,820,820,693,127,288,693,127,0.4155844155844156,True,exclude_or_sensitivity
+90,1716,Schwartz CPA,819,819,0,819,0,0,819,,False,exclude_or_sensitivity
+92,1508,University @ St,807,807,0,807,0,0,807,,False,exclude_or_sensitivity
+37,1543,Corson/Mudd Hal,781,781,779,2,680,779,2,0.8729139922978177,False,exclude_or_sensitivity
+15,110,Geneva @ State/,774,774,600,174,152,600,174,0.25333333333333335,True,exclude_or_sensitivity
+20,1534,Sage Hall,759,759,759,0,656,759,0,0.8642951251646904,False,exclude_or_sensitivity
+37,1555,Vet School,738,738,704,34,513,704,34,0.7286931818181818,False,exclude_or_sensitivity
+92,1326,Risley Hall - S,733,733,0,733,0,0,733,,False,exclude_or_sensitivity
+65,1534,Sage Hall,715,715,715,0,527,715,0,0.737062937062937,False,exclude_or_sensitivity
+14S,549,WalMart,714,714,714,0,12,714,0,0.01680672268907563,False,exclude_or_sensitivity
+11,100,Seneca Commons,711,711,465,246,81,465,246,0.17419354838709677,True,exclude_or_sensitivity
+30,3526,Triphammer Mark,704,704,522,182,177,522,182,0.3390804597701149,True,exclude_or_sensitivity
+40,1541,Uris Hall,704,704,704,0,528,704,0,0.75,False,exclude_or_sensitivity
+36,1525,Rockefeller Hal,696,696,696,0,568,696,0,0.8160919540229885,False,exclude_or_sensitivity
+51,1767,PineTree @ EHP,692,692,467,225,174,467,225,0.37259100642398285,True,exclude_or_sensitivity
+10,1521,Milstein Hall,673,673,673,0,488,673,0,0.725111441307578,False,exclude_or_sensitivity
+32,1325,Thurston at Bal,659,659,351,308,210,351,308,0.5982905982905983,True,exclude_or_sensitivity
+15,543,HomeGoods,658,658,400,258,113,400,258,0.2825,True,exclude_or_sensitivity
+37,1330,Appel Commons,651,651,651,0,561,651,0,0.8617511520737328,False,exclude_or_sensitivity
+43,1534,Sage Hall,634,634,634,0,475,634,0,0.749211356466877,False,exclude_or_sensitivity
+81,1353,A Lot,628,628,439,189,172,439,189,0.3917995444191344,True,exclude_or_sensitivity
+21,1546,Dairy Bar Acros,619,619,605,14,511,605,14,0.8446280991735537,False,exclude_or_sensitivity
+32,3560,Warrenwood Apts,611,611,550,61,126,550,61,0.2290909090909091,True,exclude_or_sensitivity
+10,105,Court @ Linn,610,610,610,0,388,610,0,0.6360655737704918,False,exclude_or_sensitivity
+65,1542,Kennedy Hall,593,593,593,0,489,593,0,0.8246205733558178,False,exclude_or_sensitivity
+37,1524,Goldwin Smith,590,590,586,4,473,586,4,0.8071672354948806,False,exclude_or_sensitivity
+32,1713,Mitchell @ Coll,585,585,291,294,139,291,294,0.47766323024054985,True,exclude_or_sensitivity
+32,1704,State/MLK @ Qua,578,578,414,164,217,414,164,0.5241545893719807,True,exclude_or_sensitivity
+40,1543,Corson/Mudd Hal,564,564,564,0,490,564,0,0.8687943262411347,False,exclude_or_sensitivity
+30,3522,Triphammer at K,545,545,399,146,76,399,146,0.19047619047619047,True,exclude_or_sensitivity
+17,100,Seneca Commons,538,538,215,323,78,215,323,0.3627906976744186,True,exclude_or_sensitivity
+90,1715,CTown Crossing,534,534,0,534,0,0,534,,False,exclude_or_sensitivity
+43,1542,Kennedy Hall,512,512,512,0,399,512,0,0.779296875,False,exclude_or_sensitivity
+65,165,Green Commons,512,512,504,8,36,504,8,0.07142857142857142,False,exclude_or_sensitivity
+90,1355,Jessup @ Tripha,491,491,0,491,0,0,491,,False,exclude_or_sensitivity
+90,1703,State/MLK @ Qua,489,489,0,489,0,0,489,,False,exclude_or_sensitivity
+65,1540,Uris Hall Acros,474,474,474,0,361,474,0,0.7616033755274262,False,exclude_or_sensitivity
+90,100,Seneca Commons,474,474,0,474,0,0,474,,False,exclude_or_sensitivity
+51,100,Seneca Commons,466,466,266,200,106,266,200,0.39849624060150374,True,exclude_or_sensitivity
+67,1544,Bradfield Hall,457,457,457,0,417,457,0,0.912472647702407,False,exclude_or_sensitivity
+15,559,Meadow at Ithac,452,452,275,177,62,275,177,0.22545454545454546,True,exclude_or_sensitivity
+40,1533,Statler Hall,452,452,452,0,336,452,0,0.7433628318584071,False,exclude_or_sensitivity
+30,3711,PleasGrove@Hans,429,429,301,128,129,301,128,0.42857142857142855,True,exclude_or_sensitivity
+37,1541,Uris Hall,420,420,418,2,335,418,2,0.8014354066985646,False,exclude_or_sensitivity
+67,559,Meadow at Ithac,419,419,208,211,108,208,211,0.5192307692307693,True,exclude_or_sensitivity
+36,165,Green Commons,417,417,417,0,86,417,0,0.20623501199040767,False,exclude_or_sensitivity
+15,134,McGraw House,412,412,343,69,63,343,69,0.1836734693877551,True,exclude_or_sensitivity
+36,1533,Statler Hall,404,404,404,0,339,404,0,0.8391089108910891,False,exclude_or_sensitivity
+30,1702,State/MLK @ Ste,397,397,196,201,66,196,201,0.336734693877551,True,exclude_or_sensitivity
+31,1524,Goldwin Smith,388,388,289,99,134,289,99,0.46366782006920415,True,exclude_or_sensitivity
+67,1540,Uris Hall Acros,384,384,384,0,289,384,0,0.7526041666666666,False,exclude_or_sensitivity
+14S,679,State/MLK at In,377,377,377,0,13,377,0,0.034482758620689655,False,exclude_or_sensitivity
+31,3511,Trip @ Hanshaw,375,375,297,78,121,297,78,0.4074074074074074,True,exclude_or_sensitivity
+32,1357,Triphammer @ Je,370,370,189,181,112,189,181,0.5925925925925926,True,exclude_or_sensitivity
+20,1542,Kennedy Hall,364,364,364,0,334,364,0,0.9175824175824175,False,exclude_or_sensitivity
+67,1546,Dairy Bar Acros,358,358,358,0,304,358,0,0.8491620111731844,False,exclude_or_sensitivity
+30,3584,YMCA,357,357,244,113,83,244,113,0.3401639344262295,True,exclude_or_sensitivity
+67,112,Albany at Salva,354,354,214,140,35,214,140,0.16355140186915887,True,exclude_or_sensitivity
+90,1345,Jess@PleasGrove,343,343,0,343,0,0,343,,False,exclude_or_sensitivity
+90,1701,State/MLK @ Ste,341,341,0,341,0,0,341,,False,exclude_or_sensitivity
+37,1547,Dairy Bar,334,334,333,1,284,333,1,0.8528528528528528,False,exclude_or_sensitivity
+51,112,Albany at Salva,334,334,225,109,123,225,109,0.5466666666666666,True,exclude_or_sensitivity
+10,1111,University @ Co,333,333,333,0,223,333,0,0.6696696696696697,False,exclude_or_sensitivity
+15,527,215 Elmira Rd -,331,331,197,134,67,197,134,0.3401015228426396,True,exclude_or_sensitivity
+51,5548,Snyder Hill @ H,328,328,298,30,240,298,30,0.8053691275167785,False,exclude_or_sensitivity
+43,1725,Stewart @ Willi,323,323,229,94,121,229,94,0.5283842794759825,True,exclude_or_sensitivity
+67,1555,Vet School,309,309,309,0,184,309,0,0.5954692556634305,False,exclude_or_sensitivity
+20,1540,Uris Hall Acros,307,307,307,0,258,307,0,0.8403908794788274,False,exclude_or_sensitivity
+32,3794,20 Thornwood Dr,287,287,275,12,48,275,12,0.17454545454545456,False,exclude_or_sensitivity
+40,1725,Stewart @ Willi,285,285,285,0,225,285,0,0.7894736842105263,False,exclude_or_sensitivity
+51,1714,Catherine Commo,284,284,129,155,77,129,155,0.5968992248062015,True,exclude_or_sensitivity
+65,1544,Bradfield Hall,282,282,282,0,249,282,0,0.8829787234042553,False,exclude_or_sensitivity
+15,551,Walmart South E,281,281,172,109,44,172,109,0.2558139534883721,True,exclude_or_sensitivity
+37,1545,Bradfield Hall,278,278,272,6,247,272,6,0.9080882352941176,False,exclude_or_sensitivity
+65,1555,Vet School,277,277,277,0,217,277,0,0.7833935018050542,False,exclude_or_sensitivity
+21,2620,TBurg School,275,275,240,35,1,240,35,0.004166666666666667,False,exclude_or_sensitivity
+10,1726,Stewart @ Willi,272,272,272,0,175,272,0,0.6433823529411765,False,exclude_or_sensitivity
+31,1316,Highland @ Lake,272,272,181,91,101,181,91,0.5580110497237569,True,exclude_or_sensitivity
+51,1774,E Hill Plaza,270,270,188,82,71,188,82,0.3776595744680851,True,exclude_or_sensitivity
+32,1746,Ithaca @ Elmwoo,269,269,204,65,108,204,65,0.5294117647058824,True,exclude_or_sensitivity
+37,1326,Risley Hall - S,264,264,264,0,213,264,0,0.8068181818181818,False,exclude_or_sensitivity
+31,1325,Thurston at Bal,261,261,208,53,80,208,53,0.38461538461538464,True,exclude_or_sensitivity
+82,1771,E Hill Office,256,256,232,24,175,232,24,0.7543103448275862,False,exclude_or_sensitivity
+65,1546,Dairy Bar Acros,254,254,254,0,197,254,0,0.7755905511811023,False,exclude_or_sensitivity
+90,1711,College @ Mitch,249,249,0,249,0,0,249,,False,exclude_or_sensitivity
+17,998,TCAT Office,247,247,247,0,7,247,0,0.02834008097165992,False,exclude_or_sensitivity
+36,3137,Lansing Twn Hl,247,247,210,37,1,210,37,0.004761904761904762,False,exclude_or_sensitivity
+37,1703,State/MLK @ Qua,246,246,212,34,154,212,34,0.7264150943396226,False,exclude_or_sensitivity
+37,3750,Borg Warner,246,246,246,0,0,246,0,0.0,False,exclude_or_sensitivity
+37,1553,Boyce Thomp,244,244,239,5,213,239,5,0.891213389121339,False,exclude_or_sensitivity
+43,1546,Dairy Bar Acros,240,240,240,0,170,240,0,0.7083333333333334,False,exclude_or_sensitivity
+43,1555,Vet School,239,239,239,0,187,239,0,0.7824267782426778,False,exclude_or_sensitivity
+32,3744,Warren @ Northw,237,237,222,15,94,222,15,0.42342342342342343,False,exclude_or_sensitivity
+43,4512,Varna,235,235,191,44,45,191,44,0.2356020942408377,False,exclude_or_sensitivity
+20,679,State/MLK at In,233,233,233,0,5,233,0,0.02145922746781116,False,exclude_or_sensitivity
+67,1726,Stewart @ Willi,232,232,232,0,168,232,0,0.7241379310344828,False,exclude_or_sensitivity
+15,503,Clinton @ Fayet,216,216,197,19,37,197,19,0.18781725888324874,False,exclude_or_sensitivity
+43,1701,State/MLK @ Ste,215,215,138,77,68,138,77,0.4927536231884058,True,exclude_or_sensitivity
+51,1768,PineTree @ EHP,214,214,98,116,45,98,116,0.45918367346938777,True,exclude_or_sensitivity
+20,1555,Vet School,211,211,211,0,87,211,0,0.41232227488151657,False,exclude_or_sensitivity
+43,1544,Bradfield Hall,211,211,211,0,183,211,0,0.8672985781990521,False,exclude_or_sensitivity
+67,512,Clinton @ Corn,210,210,101,109,16,101,109,0.15841584158415842,True,exclude_or_sensitivity
+32,1702,State/MLK @ Ste,209,209,146,63,86,146,63,0.589041095890411,True,exclude_or_sensitivity
+30,3516,Triphammer @ Sp,204,204,119,85,62,119,85,0.5210084033613446,True,exclude_or_sensitivity
+11,361,S Hill Biz Pk,202,202,173,29,24,173,29,0.13872832369942195,False,exclude_or_sensitivity
+17,165,Green Commons,202,202,116,86,38,116,86,0.3275862068965517,True,exclude_or_sensitivity
+13,941,Cayuga Park Ln,198,198,169,29,1,169,29,0.005917159763313609,False,exclude_or_sensitivity
+14,665,State @ Fulton,196,196,151,45,71,151,45,0.47019867549668876,False,exclude_or_sensitivity
+32,1368,Triphammer @ Ir,196,196,153,43,106,153,43,0.6928104575163399,False,exclude_or_sensitivity
+52,1553,Boyce Thomp,193,193,175,18,164,175,18,0.9371428571428572,False,exclude_or_sensitivity
+90,1325,Thurston at Bal,190,190,0,190,0,0,190,,False,exclude_or_sensitivity
+14,736,Linderman Creek,181,181,134,47,1,134,47,0.007462686567164179,False,exclude_or_sensitivity
+15,523,Plain @ Wood,181,181,120,61,57,120,61,0.475,True,exclude_or_sensitivity
+32,3557,Univ Pk Apts,179,179,140,39,39,140,39,0.2785714285714286,False,exclude_or_sensitivity
+67,561,Elmira @ Meadow,176,176,109,67,55,109,67,0.5045871559633027,True,exclude_or_sensitivity
+32,3524,Sheraton @ Trip,175,175,150,25,51,150,25,0.34,False,exclude_or_sensitivity
+32,3784,Culligan @ Brow,175,175,172,3,14,172,3,0.08139534883720931,False,exclude_or_sensitivity
+32,3790,Langmuir Lab,175,175,148,27,76,148,27,0.5135135135135135,False,exclude_or_sensitivity
+22,2961,Taugh Park,174,174,174,0,8,174,0,0.04597701149425287,False,exclude_or_sensitivity
+90,1328,Cradit Farm @ B,174,174,0,174,0,0,174,,False,exclude_or_sensitivity
+67,531,Meadow @ Wood,169,169,78,91,39,78,91,0.5,True,exclude_or_sensitivity
+90,112,Albany at Salva,169,169,0,169,0,0,169,,False,exclude_or_sensitivity
+90,1332,McClintock Hall,169,169,0,169,0,0,169,,False,exclude_or_sensitivity
+14S,2542,Overlook Apts,168,168,168,0,0,168,0,0.0,False,exclude_or_sensitivity
+37,1713,Mitchell @ Coll,168,168,101,67,60,101,67,0.594059405940594,True,exclude_or_sensitivity
+13,107,Cayuga @ Buffal,166,166,130,36,4,130,36,0.03076923076923077,False,exclude_or_sensitivity
+11,323,Hudson @ Prsll,163,163,123,40,17,123,40,0.13821138211382114,False,exclude_or_sensitivity
+20,2309,EcoVillage,163,163,163,0,1,163,0,0.006134969325153374,False,exclude_or_sensitivity
+32,3523,Sheraton @ Trip,163,163,121,42,16,121,42,0.1322314049586777,False,exclude_or_sensitivity
+52,1768,PineTree @ EHP,162,162,121,41,68,121,41,0.5619834710743802,False,exclude_or_sensitivity
+11,112,Albany at Salva,160,160,76,84,21,76,84,0.27631578947368424,True,exclude_or_sensitivity
+13,930,Third @ Hancock,160,160,133,27,2,133,27,0.015037593984962405,False,exclude_or_sensitivity
+21,2628,Main @ Washingt,157,157,131,26,41,131,26,0.31297709923664124,False,exclude_or_sensitivity
+51,1710,College @ Mitch,157,157,82,75,46,82,75,0.5609756097560976,True,exclude_or_sensitivity
+30,3601,Triphammer @ Gr,156,156,102,54,29,102,54,0.28431372549019607,True,exclude_or_sensitivity
+31,1314,Highland@Wyck,155,155,82,73,49,82,73,0.5975609756097561,True,exclude_or_sensitivity
+37,3728,Warren at Warre,155,155,155,0,59,155,0,0.38064516129032255,False,exclude_or_sensitivity
+52,1547,Dairy Bar,152,152,132,20,108,132,20,0.8181818181818182,False,exclude_or_sensitivity
+40,1547,Dairy Bar,151,151,151,0,109,151,0,0.7218543046357616,False,exclude_or_sensitivity
+13,1129,Lake St at Boyn,150,150,144,6,2,144,6,0.013888888888888888,False,exclude_or_sensitivity
+13,1123,Falls @ Lake,147,147,121,26,2,121,26,0.01652892561983471,False,exclude_or_sensitivity
+15,520,Plain @ Center,146,146,115,31,12,115,31,0.10434782608695652,False,exclude_or_sensitivity
+43,1752,Humphreys Servi,146,146,39,107,26,39,107,0.6666666666666666,False,exclude_or_sensitivity
+32,3781,Thornwood @ Bro,145,145,127,18,43,127,18,0.33858267716535434,False,exclude_or_sensitivity
+30,3520,Triphammer @ Wi,144,144,116,28,45,116,28,0.3879310344827586,False,exclude_or_sensitivity
+67,569,Elmira @ Spence,144,144,101,43,17,101,43,0.16831683168316833,False,exclude_or_sensitivity
+67,565,323 Elmira Rd -,143,143,85,58,39,85,58,0.4588235294117647,True,exclude_or_sensitivity
+20,672,Seneca @ Fulton,142,142,142,0,3,142,0,0.02112676056338028,False,exclude_or_sensitivity
+21,113,Seneca @ Albany,141,141,106,35,7,106,35,0.0660377358490566,False,exclude_or_sensitivity
+43,1540,Uris Hall Acros,141,141,141,0,95,141,0,0.6737588652482269,False,exclude_or_sensitivity
+65,339,Roy Park IC,140,140,140,0,0,140,0,0.0,False,exclude_or_sensitivity
+15,547,Fairgrounds Mem,139,139,76,63,21,76,63,0.27631578947368424,True,exclude_or_sensitivity
+32,3521,Triphammer at K,139,139,37,102,4,37,102,0.10810810810810811,False,exclude_or_sensitivity
+43,100,Seneca Commons,138,138,138,0,65,138,0,0.47101449275362317,False,exclude_or_sensitivity
+81,1347,PleasGrove@Jess,137,137,98,39,42,98,39,0.42857142857142855,False,exclude_or_sensitivity
+90,1714,Catherine Commo,137,137,0,137,0,0,137,,False,exclude_or_sensitivity
+20,1546,Dairy Bar Acros,136,136,136,0,109,136,0,0.8014705882352942,False,exclude_or_sensitivity
+92,1328,Cradit Farm @ B,134,134,0,134,0,0,134,,False,exclude_or_sensitivity
+32,3522,Triphammer at K,132,132,108,24,26,108,24,0.24074074074074073,False,exclude_or_sensitivity
+52,1701,State/MLK @ Ste,132,132,62,70,30,62,70,0.4838709677419355,True,exclude_or_sensitivity
+81,1329,Helen Newman Ha,130,130,73,57,42,73,57,0.5753424657534246,True,exclude_or_sensitivity
+15,528,214 Elmira Rd -,129,129,103,26,15,103,26,0.14563106796116504,False,exclude_or_sensitivity
+37,3744,Warren @ Northw,129,129,129,0,42,129,0,0.32558139534883723,False,exclude_or_sensitivity
+13,940,Cayuga Park @ M,127,127,107,20,0,107,20,0.0,False,exclude_or_sensitivity
+32,3548,Cinema @ Sherat,127,127,103,24,43,103,24,0.4174757281553398,False,exclude_or_sensitivity
+32,3783,Brown @ Culliga,127,127,127,0,22,127,0,0.1732283464566929,False,exclude_or_sensitivity
+10,1722,Stewart @ Senec,125,125,125,0,76,125,0,0.608,False,exclude_or_sensitivity
+67,562,Meadow @ Elmira,125,125,77,48,6,77,48,0.07792207792207792,False,exclude_or_sensitivity
+67,6713,Elmira Rd @ 7 M,125,125,82,43,0,82,43,0.0,False,exclude_or_sensitivity
+14S,541,Wegmans,122,122,122,0,6,122,0,0.04918032786885246,False,exclude_or_sensitivity
+21,1726,Stewart @ Willi,120,120,116,4,58,116,4,0.5,False,exclude_or_sensitivity
+32,3745,Northwood Apts,119,119,90,29,53,90,29,0.5888888888888889,False,exclude_or_sensitivity
+67,511,Clinton West,119,119,95,24,26,95,24,0.2736842105263158,False,exclude_or_sensitivity
+30,3586,Butler@Graham,118,118,80,38,29,80,38,0.3625,False,exclude_or_sensitivity
+37,1751,Humphreys Servi,118,118,103,15,75,103,15,0.7281553398058253,False,exclude_or_sensitivity
+20,1544,Bradfield Hall,117,117,117,0,99,117,0,0.8461538461538461,False,exclude_or_sensitivity
+21,2550,Trumansburg Rd,116,116,94,22,24,94,22,0.2553191489361702,False,exclude_or_sensitivity
+31,1310,Highland @ Thur,116,116,62,54,28,62,54,0.45161290322580644,True,exclude_or_sensitivity
+43,4544,Dryden @ Kirk,115,115,108,7,7,108,7,0.06481481481481481,False,exclude_or_sensitivity
+21,661,Green @ Meadow,114,114,39,75,23,39,75,0.5897435897435898,False,exclude_or_sensitivity
+32,1747,Ithaca @ Elmwoo,112,112,61,51,24,61,51,0.39344262295081966,True,exclude_or_sensitivity
+37,1701,State/MLK @ Ste,112,112,68,44,50,68,44,0.7352941176470589,False,exclude_or_sensitivity
+52,1721,Stewart @ Senec,112,112,34,78,24,34,78,0.7058823529411765,False,exclude_or_sensitivity
+82,1751,Humphreys Servi,112,112,80,32,49,80,32,0.6125,False,exclude_or_sensitivity
+43,4773,Poets Landing A,111,111,111,0,1,111,0,0.009009009009009009,False,exclude_or_sensitivity
+31,3512,Trip @ Hanshaw,109,109,87,22,37,87,22,0.42528735632183906,False,exclude_or_sensitivity
+40,1545,Bradfield Hall,108,108,108,0,90,108,0,0.8333333333333334,False,exclude_or_sensitivity
+21,2627,Main @ Washingt,106,106,99,7,39,99,7,0.3939393939393939,False,exclude_or_sensitivity
+11,327,Coddington @ Hu,102,102,61,41,13,61,41,0.21311475409836064,False,exclude_or_sensitivity
+43,4715,Main @ Rocheste,101,101,61,40,0,61,40,0.0,False,exclude_or_sensitivity
+36,1520,Milstein Hall,99,99,99,0,84,99,0,0.8484848484848485,False,exclude_or_sensitivity
+52,100,Seneca Commons,99,99,19,80,10,19,80,0.5263157894736842,False,exclude_or_sensitivity
+13,934,Third @ Adams,98,98,66,32,4,66,32,0.06060606060606061,False,exclude_or_sensitivity
+13,946,401 Cayuga Pk,98,98,72,26,0,72,26,0.0,False,exclude_or_sensitivity
+10,1702,State/MLK @ Ste,97,97,97,0,70,97,0,0.7216494845360825,False,exclude_or_sensitivity
+14S,543,HomeGoods,97,97,97,0,1,97,0,0.010309278350515464,False,exclude_or_sensitivity
+65,100,Seneca Commons,97,97,51,46,15,51,46,0.29411764705882354,False,exclude_or_sensitivity
+14,2533,1229 Trumansbur,96,96,13,83,0,13,83,0.0,False,exclude_or_sensitivity
+21,2574,Trumansburg Rd,96,96,95,1,1,95,1,0.010526315789473684,False,exclude_or_sensitivity
+37,3764,Vill Solars N,96,96,85,11,39,85,11,0.4588235294117647,False,exclude_or_sensitivity
+11,324,Hudson @ Gdview,95,95,55,40,1,55,40,0.01818181818181818,False,exclude_or_sensitivity
+43,112,Albany at Salva,94,94,94,0,42,94,0,0.44680851063829785,False,exclude_or_sensitivity
+37,1327,Cradit Farm @ T,93,93,79,14,47,79,14,0.5949367088607594,False,exclude_or_sensitivity
+14,2514,Trumansburg Rd,92,92,66,26,3,66,26,0.045454545454545456,False,exclude_or_sensitivity
+32,3512,Trip @ Hanshaw,92,92,77,15,35,77,15,0.45454545454545453,False,exclude_or_sensitivity
+81,1331,McClintock Hall,92,92,72,20,31,72,20,0.4305555555555556,False,exclude_or_sensitivity
+21,1722,Stewart @ Senec,91,91,85,6,19,85,6,0.2235294117647059,False,exclude_or_sensitivity
+37,3763,Village Solars,90,90,87,3,13,87,3,0.14942528735632185,False,exclude_or_sensitivity
+43,4716,Main @ Rocheste,90,90,67,23,2,67,23,0.029850746268656716,False,exclude_or_sensitivity
+14,705,Chestnut Hill A,89,89,69,20,3,69,20,0.043478260869565216,False,exclude_or_sensitivity
+32,3556,Gaslight Villag,89,89,70,19,16,70,19,0.22857142857142856,False,exclude_or_sensitivity
+22,801,Cass Park,88,88,88,0,0,88,0,0.0,False,exclude_or_sensitivity
+37,3748,Warren @ Bomax,88,88,88,0,17,88,0,0.19318181818181818,False,exclude_or_sensitivity
+43,1557,Vet Medical Cen,88,88,60,28,43,60,28,0.7166666666666667,False,exclude_or_sensitivity
+92,1530,Anabel Taylor H,88,88,0,88,0,0,88,,False,exclude_or_sensitivity
+37,3749,Tompkins County,87,87,86,1,3,86,1,0.03488372093023256,False,exclude_or_sensitivity
+65,6367,South Danby Par,87,87,82,5,0,82,5,0.0,False,exclude_or_sensitivity
+11,328,Hudson @ Coddin,86,86,48,38,0,48,38,0.0,False,exclude_or_sensitivity
+14S,2543,Cayuga Meadows,86,86,86,0,0,86,0,0.0,False,exclude_or_sensitivity
+15,519,Plain @ Center,86,86,54,32,18,54,32,0.3333333333333333,False,exclude_or_sensitivity
+43,4510,Dryden Rd @ For,85,85,61,24,23,61,24,0.3770491803278688,False,exclude_or_sensitivity
+43,4750,43 North St - V,85,85,52,33,3,52,33,0.057692307692307696,False,exclude_or_sensitivity
+67,6779,Main @ Bridge,84,84,73,11,1,73,11,0.0136986301369863,False,exclude_or_sensitivity
+43,4365,Groton Speedway,83,83,83,0,5,83,0,0.060240963855421686,False,exclude_or_sensitivity
+11,329,Coddington at I,82,82,53,29,3,53,29,0.05660377358490566,False,exclude_or_sensitivity
+30,3515,Triphammer @ Te,81,81,62,19,28,62,19,0.45161290322580644,False,exclude_or_sensitivity
+43,1712,Mitchell @ Coll,81,81,12,69,5,12,69,0.4166666666666667,False,exclude_or_sensitivity
+14S,737,Linderman Creek,79,79,79,0,0,79,0,0.0,False,exclude_or_sensitivity
+37,1347,PleasGrove@Jess,79,79,68,11,13,68,11,0.19117647058823528,False,exclude_or_sensitivity
+14,729,WarrenPl@Hector,78,78,78,0,0,78,0,0.0,False,exclude_or_sensitivity
+14S,715,W Vill Parking,78,78,78,0,2,78,0,0.02564102564102564,False,exclude_or_sensitivity
+65,349,Towers IC,78,78,78,0,0,78,0,0.0,False,exclude_or_sensitivity
+21,2584,Jacksonville PO,77,77,69,8,4,69,8,0.057971014492753624,False,exclude_or_sensitivity
+31,3906,Hanshaw @ Salem,77,77,68,9,13,68,9,0.19117647058823528,False,exclude_or_sensitivity
+13,928,Third @ Cascadi,76,76,68,8,2,68,8,0.029411764705882353,False,exclude_or_sensitivity
+37,1752,Humphreys Servi,76,76,75,1,55,75,1,0.7333333333333333,False,exclude_or_sensitivity
+32,3511,Trip @ Hanshaw,75,75,51,24,18,51,24,0.35294117647058826,False,exclude_or_sensitivity
+30,3521,Triphammer at K,74,74,58,16,16,58,16,0.27586206896551724,False,exclude_or_sensitivity
+92,1349,Hasbrouck Apts,73,73,0,73,0,0,73,,False,exclude_or_sensitivity
+32,1361,Triphammer @ Co,72,72,49,23,24,49,23,0.4897959183673469,False,exclude_or_sensitivity
+15,531,Meadow @ Wood,71,71,49,22,23,49,22,0.46938775510204084,False,exclude_or_sensitivity
+13,112,Albany at Salva,70,70,58,12,3,58,12,0.05172413793103448,False,exclude_or_sensitivity
+14,2547,Museum of the E,70,70,49,21,31,49,21,0.6326530612244898,False,exclude_or_sensitivity
+14,2511,Candlewyck Park,69,69,37,32,0,37,32,0.0,False,exclude_or_sensitivity
+32,1756,Dryden @ Synchr,69,69,48,21,39,48,21,0.8125,False,exclude_or_sensitivity
+51,5538,Snyder Hill @ P,69,69,48,21,1,48,21,0.020833333333333332,False,exclude_or_sensitivity
+65,340,Roy Park IC,69,69,59,10,0,59,10,0.0,False,exclude_or_sensitivity
+92,1520,Milstein Hall,69,69,0,69,0,0,69,,False,exclude_or_sensitivity
+21,2615,E Main @ Cemete,68,68,55,13,0,55,13,0.0,False,exclude_or_sensitivity
+30,3519,Triphammer @ Wi,68,68,51,17,14,51,17,0.27450980392156865,False,exclude_or_sensitivity
+43,1704,State/MLK @ Qua,67,67,11,56,8,11,56,0.7272727272727273,False,exclude_or_sensitivity
+92,1332,McClintock Hall,67,67,0,67,0,0,67,,False,exclude_or_sensitivity
+17,996,Guthrie Cty Har,66,66,66,0,2,66,0,0.030303030303030304,False,exclude_or_sensitivity
+15,133,McGraw House,65,65,46,19,13,46,19,0.2826086956521739,False,exclude_or_sensitivity
+90,1710,College @ Mitch,65,65,0,65,0,0,65,,False,exclude_or_sensitivity
+67,6714,Elmira Rd @ 7 M,64,64,29,35,1,29,35,0.034482758620689655,False,exclude_or_sensitivity
+67,6784,Newfield School,64,64,59,5,1,59,5,0.01694915254237288,False,exclude_or_sensitivity
+14,732,Mecklenburg Rd,63,63,54,9,0,54,9,0.0,False,exclude_or_sensitivity
+36,3316,Triphammer @ Pe,63,63,63,0,3,63,0,0.047619047619047616,False,exclude_or_sensitivity
+43,4506,Dryden Rd @ Gam,63,63,49,14,34,49,14,0.6938775510204082,False,exclude_or_sensitivity
+21,117,Seneca @ Corn,62,62,47,15,1,47,15,0.02127659574468085,False,exclude_or_sensitivity
+37,1348,PleasGrove@Jess,62,62,56,6,49,56,6,0.875,False,exclude_or_sensitivity
+40,4512,Varna,62,62,49,13,11,49,13,0.22448979591836735,False,exclude_or_sensitivity
+36,1725,Stewart @ Willi,61,61,61,0,34,61,0,0.5573770491803278,False,exclude_or_sensitivity
+37,3712,PleasGrove@Hans,61,61,61,0,28,61,0,0.45901639344262296,False,exclude_or_sensitivity
+51,1754,Maplewood Apts,61,61,0,61,0,0,61,,False,exclude_or_sensitivity
+40,4387,Cortland St @ C,59,59,53,6,0,53,6,0.0,False,exclude_or_sensitivity
+43,4528,Dryden Rd @ Bak,59,59,53,6,14,53,6,0.2641509433962264,False,exclude_or_sensitivity
+52,5771,Caroline Turn,58,58,38,20,0,38,20,0.0,False,exclude_or_sensitivity
+67,6789,Elmira Rd @ Mai,58,58,46,12,0,46,12,0.0,False,exclude_or_sensitivity
+21,2619,TBurg School,57,57,37,20,0,37,20,0.0,False,exclude_or_sensitivity
+20,661,Green @ Meadow,56,56,56,0,38,56,0,0.6785714285714286,False,exclude_or_sensitivity
+21,2556,TBurg@ProfBldg,56,56,50,6,6,50,6,0.12,False,exclude_or_sensitivity
+43,1556,Vet Medical Cen,56,56,56,0,44,56,0,0.7857142857142857,False,exclude_or_sensitivity
+37,3711,PleasGrove@Hans,55,55,47,8,16,47,8,0.3404255319148936,False,exclude_or_sensitivity
+37,1332,McClintock Hall,54,54,54,0,48,54,0,0.8888888888888888,False,exclude_or_sensitivity
+67,6532,Newfield Depot,54,54,40,14,4,40,14,0.1,False,exclude_or_sensitivity
+11,330,Coddington at I,53,53,24,29,1,24,29,0.041666666666666664,False,exclude_or_sensitivity
+13,953,Hancock @ First,53,53,46,7,1,46,7,0.021739130434782608,False,exclude_or_sensitivity
+40,1721,Stewart @ Senec,53,53,53,0,37,53,0,0.6981132075471698,False,exclude_or_sensitivity
+51,5712,Slaterville Rd,53,53,44,9,16,44,9,0.36363636363636365,False,exclude_or_sensitivity
+65,112,Albany at Salva,53,53,32,21,13,32,21,0.40625,False,exclude_or_sensitivity
+21,2624,Main @ South (T,52,52,44,8,4,44,8,0.09090909090909091,False,exclude_or_sensitivity
+31,3932,Sapsucker Woods,52,52,40,12,6,40,12,0.15,False,exclude_or_sensitivity
+43,4752,North @ Freevil,52,52,32,20,2,32,20,0.0625,False,exclude_or_sensitivity
+52,5759,Caroline Town,52,52,30,22,0,30,22,0.0,False,exclude_or_sensitivity
+67,567,359 Elmira Rd -,52,52,39,13,1,39,13,0.02564102564102564,False,exclude_or_sensitivity
+67,6515,West Danby Rd @,51,51,34,17,0,34,17,0.0,False,exclude_or_sensitivity
+21,1702,State/MLK @ Ste,50,50,48,2,21,48,2,0.4375,False,exclude_or_sensitivity
+21,2611,Trumansburg Rd,50,50,45,5,0,45,5,0.0,False,exclude_or_sensitivity
+22,165,Green Commons,49,49,49,0,11,49,0,0.22448979591836735,False,exclude_or_sensitivity
+43,4312,Freeville Rd at,49,49,49,0,2,49,0,0.04081632653061224,False,exclude_or_sensitivity
+43,4749,36 North St - D,49,49,25,24,1,25,24,0.04,False,exclude_or_sensitivity
+65,337,Ithaca College,49,49,49,0,0,49,0,0.0,False,exclude_or_sensitivity
+11,313,Hudson @ Columb,48,48,27,21,3,27,21,0.1111111111111111,False,exclude_or_sensitivity
+21,2555,TBurg@ProfBldg,48,48,39,9,0,39,9,0.0,False,exclude_or_sensitivity
+32,1755,Dryden @ Pine T,48,48,24,24,15,24,24,0.625,False,exclude_or_sensitivity
+37,3900,Warren @ Hansha,48,48,48,0,23,48,0,0.4791666666666667,False,exclude_or_sensitivity
+51,5545,Regency @ Snyde,48,48,34,14,27,34,14,0.7941176470588235,False,exclude_or_sensitivity
+15,504,Clinton @ Fayet,47,47,40,7,10,40,7,0.25,False,exclude_or_sensitivity
+51,5719,Pine Tree @ Sla,46,46,37,9,8,37,9,0.21621621621621623,False,exclude_or_sensitivity
+52,112,Albany at Salva,46,46,10,36,4,10,36,0.4,False,exclude_or_sensitivity
+13,925,Tioga @ Falls,45,45,41,4,0,41,4,0.0,False,exclude_or_sensitivity
+43,4511,Varna Auto,45,45,21,24,0,21,24,0.0,False,exclude_or_sensitivity
+51,5525,318 Pine Tree -,45,45,19,26,14,19,26,0.7368421052631579,False,exclude_or_sensitivity
+11,369,Danby @ Vista,44,44,35,9,3,35,9,0.08571428571428572,False,exclude_or_sensitivity
+32,3559,Warrenwood Apts,44,44,34,10,4,34,10,0.11764705882352941,False,exclude_or_sensitivity
+36,3154,Lansing MS,44,44,44,0,0,44,0,0.0,False,exclude_or_sensitivity
+43,4755,North @ Brightd,44,44,33,11,0,33,11,0.0,False,exclude_or_sensitivity
+20,669,State/MLK @ Inl,43,43,40,3,24,40,3,0.6,False,exclude_or_sensitivity
+36,3587,Graham@Butler,43,43,43,0,26,43,0,0.6046511627906976,False,exclude_or_sensitivity
+51,5716,Slater @ Lois,43,43,38,5,4,38,5,0.10526315789473684,False,exclude_or_sensitivity
+32,3516,Triphammer @ Sp,42,42,28,14,16,28,14,0.5714285714285714,False,exclude_or_sensitivity
+40,1553,Boyce Thomp,42,42,42,0,32,42,0,0.7619047619047619,False,exclude_or_sensitivity
+40,1752,Humphreys Servi,42,42,21,21,15,21,21,0.7142857142857143,False,exclude_or_sensitivity
+17,107,Cayuga @ Buffal,41,41,17,24,9,17,24,0.5294117647058824,False,exclude_or_sensitivity
+31,3954,Guthrie Hanshaw,41,41,28,13,2,28,13,0.07142857142857142,False,exclude_or_sensitivity
+37,3740,Warren @ Dart,41,41,41,0,4,41,0,0.0975609756097561,False,exclude_or_sensitivity
+14,127,State/MLK @ Pla,39,39,25,14,14,25,14,0.56,False,exclude_or_sensitivity
+21,2514,Trumansburg Rd,39,39,30,9,1,30,9,0.03333333333333333,False,exclude_or_sensitivity
+43,1756,Dryden @ Synchr,39,39,15,24,11,15,24,0.7333333333333333,False,exclude_or_sensitivity
+51,5531,Pine Tree @ Hon,39,39,29,10,6,29,10,0.20689655172413793,False,exclude_or_sensitivity
+65,1726,Stewart @ Willi,39,39,39,0,25,39,0,0.6410256410256411,False,exclude_or_sensitivity
+13,108,Cayuga @ Buffal,38,38,32,6,1,32,6,0.03125,False,exclude_or_sensitivity
+40,4516,Dryden Rd @ Fre,38,38,21,17,7,21,17,0.3333333333333333,False,exclude_or_sensitivity
+43,4518,1062 Dryden Rd,38,38,31,7,13,31,7,0.41935483870967744,False,exclude_or_sensitivity
+43,4708,Dryden @ Johnsn,38,38,36,2,5,36,2,0.1388888888888889,False,exclude_or_sensitivity
+90,1704,State/MLK @ Qua,38,38,0,38,0,0,38,,False,exclude_or_sensitivity
+11,318,Hudson at South,37,37,26,11,0,26,11,0.0,False,exclude_or_sensitivity
+14S,736,Linderman Creek,37,37,37,0,0,37,0,0.0,False,exclude_or_sensitivity
+21,2616,E Main @ Cemete,37,37,25,12,2,25,12,0.08,False,exclude_or_sensitivity
+36,1721,Stewart @ Senec,37,37,37,0,21,37,0,0.5675675675675675,False,exclude_or_sensitivity
+92,1327,Cradit Farm @ T,37,37,0,37,0,0,37,,False,exclude_or_sensitivity
+15,524,Plain @ Wood,36,36,29,7,9,29,7,0.3103448275862069,False,exclude_or_sensitivity
+40,1756,Dryden @ Synchr,36,36,15,21,7,15,21,0.4666666666666667,False,exclude_or_sensitivity
+43,4756,North @ Brightd,36,36,25,11,0,25,11,0.0,False,exclude_or_sensitivity
+51,5536,Honness at Itha,36,36,21,15,6,21,15,0.2857142857142857,False,exclude_or_sensitivity
+20,2339,Enfield Highway,35,35,33,2,0,33,2,0.0,False,exclude_or_sensitivity
+43,1702,State/MLK @ Ste,35,35,13,22,9,13,22,0.6923076923076923,False,exclude_or_sensitivity
+43,1746,Ithaca @ Elmwoo,35,35,12,23,8,12,23,0.6666666666666666,False,exclude_or_sensitivity
+43,4318,Freeville Stn P,35,35,35,0,2,35,0,0.05714285714285714,False,exclude_or_sensitivity
+67,1702,State/MLK @ Ste,35,35,35,0,25,35,0,0.7142857142857143,False,exclude_or_sensitivity
+11,368,Terrace Apts So,34,34,17,17,0,17,17,0.0,False,exclude_or_sensitivity
+13,927,Cascadilla @ Th,34,34,22,12,1,22,12,0.045454545454545456,False,exclude_or_sensitivity
+22,100,Seneca Commons,34,34,34,0,22,34,0,0.6470588235294118,False,exclude_or_sensitivity
+43,4509,Dryden Rd @ For,34,34,30,4,14,30,4,0.4666666666666667,False,exclude_or_sensitivity
+51,1702,State/MLK @ Ste,34,34,17,17,11,17,17,0.6470588235294118,False,exclude_or_sensitivity
+67,1722,Stewart @ Senec,34,34,34,0,22,34,0,0.6470588235294118,False,exclude_or_sensitivity
+31,3937,Lab of Ornith,33,33,19,14,3,19,14,0.15789473684210525,False,exclude_or_sensitivity
+31,4553,Creekwood Apts,33,33,7,26,0,7,26,0.0,False,exclude_or_sensitivity
+82,1769,CISER,33,33,27,6,16,27,6,0.5925925925925926,False,exclude_or_sensitivity
+14,2534,1229 Trumansbur,32,32,21,11,4,21,11,0.19047619047619047,False,exclude_or_sensitivity
+14S,2533,1229 Trumansbur,32,32,32,0,0,32,0,0.0,False,exclude_or_sensitivity
+32,1372,Triphammer @ No,32,32,25,7,8,25,7,0.32,False,exclude_or_sensitivity
+32,3733,22 Arrowwood,32,32,32,0,14,32,0,0.4375,False,exclude_or_sensitivity
+43,1726,Stewart @ Willi,32,32,32,0,9,32,0,0.28125,False,exclude_or_sensitivity
+43,4776,Dryden Central,32,32,13,19,0,13,19,0.0,False,exclude_or_sensitivity
+52,5795,Boiceville Cott,32,32,19,13,1,19,13,0.05263157894736842,False,exclude_or_sensitivity
+43,4527,Dryden Rd @ Bak,31,31,20,11,3,20,11,0.15,False,exclude_or_sensitivity
+65,6321,Danby @ King,31,31,15,16,2,15,16,0.13333333333333333,False,exclude_or_sensitivity
+67,504,Clinton @ Fayet,31,31,27,4,6,27,4,0.2222222222222222,False,exclude_or_sensitivity
+90,1702,State/MLK @ Ste,31,31,0,31,0,0,31,,False,exclude_or_sensitivity
+92,1347,PleasGrove@Jess,31,31,0,31,0,0,31,,False,exclude_or_sensitivity
+14,710,Chestnut @ Hook,30,30,17,13,1,17,13,0.058823529411764705,False,exclude_or_sensitivity
+20,1726,Stewart @ Willi,30,30,30,0,23,30,0,0.7666666666666667,False,exclude_or_sensitivity
+32,3547,Cinema @ Sherat,30,30,25,5,6,25,5,0.24,False,exclude_or_sensitivity
+43,4516,Dryden Rd @ Fre,30,30,20,10,6,20,10,0.3,False,exclude_or_sensitivity
+13,903,Cascadilla @ Ca,29,29,20,9,2,20,9,0.1,False,exclude_or_sensitivity
+14,706,Chestnut Hill A,29,29,15,14,0,15,14,0.0,False,exclude_or_sensitivity
+14S,559,Meadow at Ithac,29,29,29,0,2,29,0,0.06896551724137931,False,exclude_or_sensitivity
+21,2631,TBurg P+R,29,29,17,12,0,17,12,0.0,False,exclude_or_sensitivity
+31,1317,Highland @ Lake,29,29,22,7,4,22,7,0.18181818181818182,False,exclude_or_sensitivity
+32,1367,Triphammer @ Ir,29,29,17,12,7,17,12,0.4117647058823529,False,exclude_or_sensitivity
+43,4522,Dryden Rd @ Tur,29,29,25,4,9,25,4,0.36,False,exclude_or_sensitivity
+51,5710,Honness @ Slate,29,29,18,11,4,18,11,0.2222222222222222,False,exclude_or_sensitivity
+17,112,Albany at Salva,28,28,28,0,14,28,0,0.5,False,exclude_or_sensitivity
+17,906,Cayuga @ Tompki,28,28,28,0,17,28,0,0.6071428571428571,False,exclude_or_sensitivity
+20,2316,Mecklenburg Rd,28,28,1,27,0,1,27,0.0,False,exclude_or_sensitivity
+21,2623,Main @ South (T,28,28,20,8,0,20,8,0.0,False,exclude_or_sensitivity
+31,3902,Hanshaw @ Warre,28,28,25,3,4,25,3,0.16,False,exclude_or_sensitivity
+31,4567,Upper Creek @ E,28,28,27,1,5,27,1,0.18518518518518517,False,exclude_or_sensitivity
+40,1557,Vet Medical Cen,28,28,28,0,23,28,0,0.8214285714285714,False,exclude_or_sensitivity
+65,342,Alumni Circ IC,28,28,25,3,0,25,3,0.0,False,exclude_or_sensitivity
+14,2557,Professional Bu,27,27,24,3,4,24,3,0.16666666666666666,False,exclude_or_sensitivity
+37,1329,Helen Newman Ha,27,27,19,8,6,19,8,0.3157894736842105,False,exclude_or_sensitivity
+43,4710,Dryden Rd @ Geo,27,27,24,3,3,24,3,0.125,False,exclude_or_sensitivity
+13,901,Cayuga @ Cascad,26,26,18,8,0,18,8,0.0,False,exclude_or_sensitivity
+14,734,Hector @ Warren,26,26,21,5,0,21,5,0.0,False,exclude_or_sensitivity
+14S,738,Conifer Village,26,26,26,0,1,26,0,0.038461538461538464,False,exclude_or_sensitivity
+21,2573,Trumansburg Rd,26,26,24,2,0,24,2,0.0,False,exclude_or_sensitivity
+32,3553,Uptown Village,26,26,19,7,7,19,7,0.3684210526315789,False,exclude_or_sensitivity
+37,3727,Warren at Warre,26,26,17,9,3,17,9,0.17647058823529413,False,exclude_or_sensitivity
+43,4543,Dryden @ Mineah,26,26,17,9,0,17,9,0.0,False,exclude_or_sensitivity
+14,115,State/MLK @ Alb,25,25,17,8,4,17,8,0.23529411764705882,False,exclude_or_sensitivity
+40,4322,Freeville P+R,25,25,15,10,1,15,10,0.06666666666666667,False,exclude_or_sensitivity
+51,5549,Snyder Hill @ D,25,25,11,14,7,11,14,0.6363636363636364,False,exclude_or_sensitivity
+52,1704,State/MLK @ Qua,25,25,12,13,7,12,13,0.5833333333333334,False,exclude_or_sensitivity
+82,1772,E Hill Office,25,25,23,2,20,23,2,0.8695652173913043,False,exclude_or_sensitivity
+92,1309,Thurston @ High,25,25,0,25,0,0,25,,False,exclude_or_sensitivity
+14,755,Westhaven Road,24,24,15,9,12,15,9,0.8,False,exclude_or_sensitivity
+14S,545,South Meadow Ma,24,24,24,0,5,24,0,0.20833333333333334,False,exclude_or_sensitivity
+21,2560,Trumansburg Rd,24,24,7,17,3,7,17,0.42857142857142855,False,exclude_or_sensitivity
+32,3549,Cinema @ Uptown,24,24,21,3,7,21,3,0.3333333333333333,False,exclude_or_sensitivity
+36,1508,University @ St,24,24,24,0,13,24,0,0.5416666666666666,False,exclude_or_sensitivity
+40,4522,Dryden Rd @ Tur,24,24,19,5,5,19,5,0.2631578947368421,False,exclude_or_sensitivity
+67,568,366 Elmira Rd -,24,24,12,12,0,12,12,0.0,False,exclude_or_sensitivity
+17,900,Cayuga @ Cascad,23,23,23,0,15,23,0,0.6521739130434783,False,exclude_or_sensitivity
+40,1704,State/MLK @ Qua,23,23,14,9,8,14,9,0.5714285714285714,False,exclude_or_sensitivity
+52,5715,Slater @ Lois,23,23,21,2,17,21,2,0.8095238095238095,False,exclude_or_sensitivity
+65,341,Main Entrnce IC,23,23,23,0,0,23,0,0.0,False,exclude_or_sensitivity
+65,351,Ithaca College,23,23,23,0,0,23,0,0.0,False,exclude_or_sensitivity
+65,6329,Danby Rd @ Comf,23,23,21,2,1,21,2,0.047619047619047616,False,exclude_or_sensitivity
+65,6374,Hillview Terr,23,23,14,9,0,14,9,0.0,False,exclude_or_sensitivity
+82,1756,Dryden @ Synchr,23,23,21,2,5,21,2,0.23809523809523808,False,exclude_or_sensitivity
+92,1323,Risley Hall - F,23,23,0,23,0,0,23,,False,exclude_or_sensitivity
+32,1373,Triphammer @ No,22,22,17,5,3,17,5,0.17647058823529413,False,exclude_or_sensitivity
+37,3726,Dewitt Middle S,22,22,22,0,14,22,0,0.6363636363636364,False,exclude_or_sensitivity
+40,4570,Etna Mills Apts,22,22,14,8,4,14,8,0.2857142857142857,False,exclude_or_sensitivity
+21,135,Green @ Fayette,21,21,13,8,9,13,8,0.6923076923076923,False,exclude_or_sensitivity
+21,2612,Trumansburg Rd,21,21,16,5,0,16,5,0.0,False,exclude_or_sensitivity
+37,3747,Warren Rd Post,21,21,21,0,0,21,0,0.0,False,exclude_or_sensitivity
+67,6781,Main @ Pearl,21,21,16,5,1,16,5,0.0625,False,exclude_or_sensitivity
+82,1755,Dryden@Pine Tre,21,21,18,3,4,18,3,0.2222222222222222,False,exclude_or_sensitivity
+20,113,Seneca @ Albany,20,20,20,0,2,20,0,0.1,False,exclude_or_sensitivity
+20,2333,Enfield P+R,20,20,20,0,0,20,0,0.0,False,exclude_or_sensitivity
+20,2334,Enfield P+R,20,20,20,0,0,20,0,0.0,False,exclude_or_sensitivity
+21,2564,Trumansburg Rd,20,20,19,1,8,19,1,0.42105263157894735,False,exclude_or_sensitivity
+32,3558,Univ Pk Apts,20,20,17,3,2,17,3,0.11764705882352941,False,exclude_or_sensitivity
+40,4506,Dryden Rd @ Gam,20,20,18,2,11,18,2,0.6111111111111112,False,exclude_or_sensitivity
+52,5734,Slater @ BDale,20,20,4,16,0,4,16,0.0,False,exclude_or_sensitivity
+67,6767,Newfield Depot,20,20,17,3,0,17,3,0.0,False,exclude_or_sensitivity
+92,1301,Thurston @ Stew,20,20,0,20,0,0,20,,False,exclude_or_sensitivity
+14S,673,Buffalo @ Fulto,19,19,19,0,3,19,0,0.15789473684210525,False,exclude_or_sensitivity
+17,913,Lincoln @ Cayug,19,19,19,0,7,19,0,0.3684210526315789,False,exclude_or_sensitivity
+31,1311,Highland @ Thur,19,19,16,3,4,16,3,0.25,False,exclude_or_sensitivity
+40,4321,Freeville P+R,19,19,19,0,0,19,0,0.0,False,exclude_or_sensitivity
+40,4362,Main@RR Groton,19,19,14,5,0,14,5,0.0,False,exclude_or_sensitivity
+67,6718,Elmira Rd @ Enf,19,19,18,1,0,18,1,0.0,False,exclude_or_sensitivity
+13,911,Cayuga @ Lincol,18,18,15,3,0,15,3,0.0,False,exclude_or_sensitivity
+20,2324,Mecklenburg Rd,18,18,18,0,0,18,0,0.0,False,exclude_or_sensitivity
+21,2568,Trumansburg Rd,18,18,15,3,1,15,3,0.06666666666666667,False,exclude_or_sensitivity
+32,3782,Brown @ Thornwo,18,18,18,0,4,18,0,0.2222222222222222,False,exclude_or_sensitivity
+37,1704,State/MLK @ Qua,18,18,14,4,7,14,4,0.5,False,exclude_or_sensitivity
+51,5540,Tower View @ Sl,18,18,13,5,0,13,5,0.0,False,exclude_or_sensitivity
+51,5546,Snyder Hill @ R,18,18,14,4,5,14,4,0.35714285714285715,False,exclude_or_sensitivity
+31,4554,Creekwood Apts,17,17,10,7,0,10,7,0.0,False,exclude_or_sensitivity
+37,3733,22 Arrowwood,17,17,17,0,4,17,0,0.23529411764705882,False,exclude_or_sensitivity
+40,1556,Vet Medical Cen,17,17,17,0,13,17,0,0.7647058823529411,False,exclude_or_sensitivity
+65,314,Hudson @ Columb,17,17,16,1,4,16,1,0.25,False,exclude_or_sensitivity
+11,317,Hudson at South,16,16,8,8,0,8,8,0.0,False,exclude_or_sensitivity
+14,757,Westhaven Road,16,16,15,1,5,15,1,0.3333333333333333,False,exclude_or_sensitivity
+14S,2514,Trumansburg Rd,16,16,16,0,0,16,0,0.0,False,exclude_or_sensitivity
+14S,531,Meadow @ Wood,16,16,16,0,1,16,0,0.0625,False,exclude_or_sensitivity
+14S,668,State @ Fulton,16,16,16,0,1,16,0,0.0625,False,exclude_or_sensitivity
+31,3915,Winston Court,16,16,14,2,2,14,2,0.14285714285714285,False,exclude_or_sensitivity
+32,3555,Gaslight Villag,16,16,11,5,2,11,5,0.18181818181818182,False,exclude_or_sensitivity
+36,3314,Triphammer @ As,16,16,14,2,8,14,2,0.5714285714285714,False,exclude_or_sensitivity
+40,4510,Dryden Rd @ For,16,16,14,2,4,14,2,0.2857142857142857,False,exclude_or_sensitivity
+43,4517,1062 Dryden Rd,16,16,14,2,0,14,2,0.0,False,exclude_or_sensitivity
+81,1328,Balch-CraditFrm,16,16,13,3,12,13,3,0.9230769230769231,False,exclude_or_sensitivity
+14,730,Warren Pl @ Hec,15,15,11,4,0,11,4,0.0,False,exclude_or_sensitivity
+14S,2534,1229 Trumansbur,15,15,15,0,0,15,0,0.0,False,exclude_or_sensitivity
+31,1315,Highland@Wyck,15,15,12,3,3,12,3,0.25,False,exclude_or_sensitivity
+32,1362,Triphammer @ Oa,15,15,8,7,7,8,7,0.875,False,exclude_or_sensitivity
+40,1746,Ithaca @ Elmwoo,15,15,10,5,6,10,5,0.6,False,exclude_or_sensitivity
+40,4528,Dryden Rd @ Bak,15,15,15,0,4,15,0,0.26666666666666666,False,exclude_or_sensitivity
+43,4540,Dryden Rd @ Mai,15,15,14,1,0,14,1,0.0,False,exclude_or_sensitivity
+65,6351,Danby TH P+R,15,15,11,4,0,11,4,0.0,False,exclude_or_sensitivity
+14,704,Chestnut @ Sunr,14,14,9,5,0,9,5,0.0,False,exclude_or_sensitivity
+14S,754,Westhaven Road,14,14,14,0,11,14,0,0.7857142857142857,False,exclude_or_sensitivity
+20,733,Mecklenburg Rd,14,14,14,0,0,14,0,0.0,False,exclude_or_sensitivity
+37,1331,McClintock Hall,14,14,11,3,5,11,3,0.45454545454545453,False,exclude_or_sensitivity
+37,1746,Ithaca @ Elmwoo,14,14,13,1,10,13,1,0.7692307692307693,False,exclude_or_sensitivity
+37,1747,Ithaca @ Elmwoo,14,14,10,4,3,10,4,0.3,False,exclude_or_sensitivity
+37,1755,Dryden @ Pine T,14,14,11,3,8,11,3,0.7272727272727273,False,exclude_or_sensitivity
+37,3716,Hanshaw @ Black,14,14,14,0,5,14,0,0.35714285714285715,False,exclude_or_sensitivity
+92,1307,Thurston @ Bart,14,14,0,14,0,0,14,,False,exclude_or_sensitivity
+14S,551,Walmart South E,13,13,13,0,0,13,0,0.0,False,exclude_or_sensitivity
+22,2631,TBurg P+R,13,13,13,0,0,13,0,0.0,False,exclude_or_sensitivity
+32,3550,Uptown @ Cinema,13,13,12,1,6,12,1,0.5,False,exclude_or_sensitivity
+32,3554,Uptown Village,13,13,10,3,3,10,3,0.3,False,exclude_or_sensitivity
+32,3741,Warren @ Dart,13,13,13,0,0,13,0,0.0,False,exclude_or_sensitivity
+43,4362,Main@RR Groton,13,13,13,0,1,13,0,0.07692307692307693,False,exclude_or_sensitivity
+65,343,Alumni Circ IC,13,13,13,0,1,13,0,0.07692307692307693,False,exclude_or_sensitivity
+67,503,Clinton @ Fayet,13,13,11,2,6,11,2,0.5454545454545454,False,exclude_or_sensitivity
+14S,2511,Candlewyck Park,12,12,12,0,0,12,0,0.0,False,exclude_or_sensitivity
+14S,710,Chestnut @ Hook,12,12,12,0,0,12,0,0.0,False,exclude_or_sensitivity
+31,3716,Hanshaw @ Black,12,12,11,1,3,11,1,0.2727272727272727,False,exclude_or_sensitivity
+32,1363,Triphammer @ Oa,12,12,10,2,3,10,2,0.3,False,exclude_or_sensitivity
+32,3520,Triphammer @ Wi,12,12,12,0,8,12,0,0.6666666666666666,False,exclude_or_sensitivity
+40,4336,Groton Rd @ Per,12,12,12,0,0,12,0,0.0,False,exclude_or_sensitivity
+43,4326,Rte38 @ Main (F,12,12,12,0,0,12,0,0.0,False,exclude_or_sensitivity
+43,4387,Cortland St @ C,12,12,12,0,0,12,0,0.0,False,exclude_or_sensitivity
+43,4707,Dryden @ Ylw Br,12,12,7,5,0,7,5,0.0,False,exclude_or_sensitivity
+52,5760,Caroline Town,12,12,10,2,0,10,2,0.0,False,exclude_or_sensitivity
+67,6717,Elmira Rd @ Enf,12,12,6,6,1,6,6,0.16666666666666666,False,exclude_or_sensitivity
+14S,538,Cecil Malone Dr,11,11,11,0,0,11,0,0.0,False,exclude_or_sensitivity
+20,1722,Stewart @ Senec,11,11,11,0,4,11,0,0.36363636363636365,False,exclude_or_sensitivity
+20,2330,Enfield Element,11,11,11,0,0,11,0,0.0,False,exclude_or_sensitivity
+31,1376,The Parkway @ U,11,11,6,5,3,6,5,0.5,False,exclude_or_sensitivity
+32,3740,Warren @ Dart,11,11,8,3,2,8,3,0.25,False,exclude_or_sensitivity
+43,4375,Groton Town Hal,11,11,11,0,1,11,0,0.09090909090909091,False,exclude_or_sensitivity
+43,4751,North @ Lee,11,11,9,2,0,9,2,0.0,False,exclude_or_sensitivity
+51,1753,Maplewood Apts,11,11,0,11,0,0,11,,False,exclude_or_sensitivity
+51,5542,Snyder Hill @ S,11,11,11,0,1,11,0,0.09090909090909091,False,exclude_or_sensitivity
+17,1703,State/MLK @ Qua,10,10,10,0,7,10,0,0.7,False,exclude_or_sensitivity
+21,2511,Candlewyck Park,10,10,4,6,0,4,6,0.0,False,exclude_or_sensitivity
+36,1121,Lake @ Falls,10,10,10,0,4,10,0,0.4,False,exclude_or_sensitivity
+37,3725,Warren @ BOCES,10,10,10,0,0,10,0,0.0,False,exclude_or_sensitivity
+40,1712,Mitchell @ Coll,10,10,5,5,5,5,5,1.0,False,exclude_or_sensitivity
+51,5530,Honness @ Pine,10,10,8,2,1,8,2,0.125,False,exclude_or_sensitivity
+51,5559,Eastern Heights,10,10,5,5,1,5,5,0.2,False,exclude_or_sensitivity
+52,5788,BDale P+R,10,10,3,7,0,3,7,0.0,False,exclude_or_sensitivity
+14,703,Chestnut @ Sunr,9,9,7,2,0,7,2,0.0,False,exclude_or_sensitivity
+14,768,Campbell @ Hect,9,9,9,0,0,9,0,0.0,False,exclude_or_sensitivity
+32,3515,Triphammer @ Te,9,9,6,3,2,6,3,0.3333333333333333,False,exclude_or_sensitivity
+40,4335,Groton Rd @ Per,9,9,9,0,0,9,0,0.0,False,exclude_or_sensitivity
+40,4360,Main @ South (G,9,9,6,3,0,6,3,0.0,False,exclude_or_sensitivity
+40,4375,Groton Town Hal,9,9,6,3,0,6,3,0.0,False,exclude_or_sensitivity
+65,1702,State/MLK @ Ste,9,9,9,0,2,9,0,0.2222222222222222,False,exclude_or_sensitivity
+65,352,Ithaca College,9,9,9,0,0,9,0,0.0,False,exclude_or_sensitivity
+65,6368,South Danby Par,9,9,8,1,0,8,1,0.0,False,exclude_or_sensitivity
+17,108,Cayuga @ Buffal,8,8,8,0,3,8,0,0.375,False,exclude_or_sensitivity
+17,1701,State/MLK @ Ste,8,8,8,0,6,8,0,0.75,False,exclude_or_sensitivity
+17,1713,Mitchell @ Coll,8,8,8,0,5,8,0,0.625,False,exclude_or_sensitivity
+17,1751,Humphreys Servi,8,8,8,0,3,8,0,0.375,False,exclude_or_sensitivity
+20,2325,Mecklenburg Rd,8,8,8,0,0,8,0,0.0,False,exclude_or_sensitivity
+21,786,TBurg @ Hopkins,8,8,8,0,0,8,0,0.0,False,exclude_or_sensitivity
+37,3761,Sbrook @ Farrel,8,8,8,0,5,8,0,0.625,False,exclude_or_sensitivity
+40,1701,State@Stewart,8,8,8,0,2,8,0,0.25,False,exclude_or_sensitivity
+40,4326,Rte38 @ Main (F,8,8,6,2,0,6,2,0.0,False,exclude_or_sensitivity
+40,4527,Dryden Rd @ Bak,8,8,8,0,0,8,0,0.0,False,exclude_or_sensitivity
+40,4569,Etna Mills Apts,8,8,8,0,0,8,0,0.0,False,exclude_or_sensitivity
+43,4328,RR@Main Fville,8,8,1,7,0,1,7,0.0,False,exclude_or_sensitivity
+43,4505,Dryden Rd @ Gam,8,8,4,4,0,4,4,0.0,False,exclude_or_sensitivity
+43,4515,Dryden Rd @ Mt,8,8,2,6,0,2,6,0.0,False,exclude_or_sensitivity
+43,4709,Dryden Rd @ Iri,8,8,5,3,0,5,3,0.0,False,exclude_or_sensitivity
+51,5526,318 Pine Tree -,8,8,4,4,3,4,4,0.75,False,exclude_or_sensitivity
+65,373,College Circle,8,8,8,0,0,8,0,0.0,False,exclude_or_sensitivity
+65,6322,Danby @ King,8,8,5,3,0,5,3,0.0,False,exclude_or_sensitivity
+67,6721,Elmira Rd @ Enf,8,8,8,0,8,8,0,1.0,False,exclude_or_sensitivity
+14,2549,Biggs Memorial,7,7,3,4,0,3,4,0.0,False,exclude_or_sensitivity
+14,753,Westhaven Road,7,7,6,1,5,6,1,0.8333333333333334,False,exclude_or_sensitivity
+14S,537,Cherry St @ Art,7,7,7,0,0,7,0,0.0,False,exclude_or_sensitivity
+14S,561,Elmira @ Meadow,7,7,7,0,1,7,0,0.14285714285714285,False,exclude_or_sensitivity
+20,135,Green @ Fayette,7,7,7,0,6,7,0,0.8571428571428571,False,exclude_or_sensitivity
+20,2326,Mecklenburg Rd,7,7,7,0,0,7,0,0.0,False,exclude_or_sensitivity
+32,3519,Triphammer @ Wi,7,7,4,3,1,4,3,0.25,False,exclude_or_sensitivity
+37,3741,Warren @ Dart,7,7,6,1,0,6,1,0.0,False,exclude_or_sensitivity
+43,1722,Stewart @ Senec,7,7,7,0,3,7,0,0.42857142857142855,False,exclude_or_sensitivity
+43,4359,South @ Main (G,7,7,3,4,1,3,4,0.3333333333333333,False,exclude_or_sensitivity
+43,4360,Main @ South (G,7,7,7,0,0,7,0,0.0,False,exclude_or_sensitivity
+51,5547,Joanne @ Easter,7,7,0,7,0,0,7,,False,exclude_or_sensitivity
+52,5721,Slaterville Rd,7,7,4,3,2,4,3,0.5,False,exclude_or_sensitivity
+52,5786,Brooktondale St,7,7,5,2,0,5,2,0.0,False,exclude_or_sensitivity
+65,338,Ithaca College,7,7,3,4,0,3,4,0.0,False,exclude_or_sensitivity
+67,6511,West Danby Rd @,7,7,6,1,0,6,1,0.0,False,exclude_or_sensitivity
+67,6711,Elmira Rd @ Fiv,7,7,0,7,0,0,7,,False,exclude_or_sensitivity
+14,754,Westhaven Road,6,6,1,5,0,1,5,0.0,False,exclude_or_sensitivity
+20,731,Hector @ Warren,6,6,6,0,0,6,0,0.0,False,exclude_or_sensitivity
+21,2559,Trumansburg Rd,6,6,6,0,0,6,0,0.0,False,exclude_or_sensitivity
+21,779,Cliff @ Vinegar,6,6,4,2,1,4,2,0.25,False,exclude_or_sensitivity
+31,1378,Northway @ The,6,6,3,3,0,3,3,0.0,False,exclude_or_sensitivity
+31,3901,Hanshaw @ Warre,6,6,4,2,0,4,2,0.0,False,exclude_or_sensitivity
+31,3921,Rose Hill @ Mur,6,6,5,1,2,5,1,0.4,False,exclude_or_sensitivity
+36,1125,Lake @ IHS,6,6,6,0,0,6,0,0.0,False,exclude_or_sensitivity
+37,1712,Mitchell @ Coll,6,6,6,0,3,6,0,0.5,False,exclude_or_sensitivity
+40,4325,Rte 38 @ Fall C,6,6,6,0,0,6,0,0.0,False,exclude_or_sensitivity
+40,4518,1062 Dryden Rd,6,6,5,1,4,5,1,0.8,False,exclude_or_sensitivity
+43,4355,Peru Rd @ Hamil,6,6,6,0,2,6,0,0.3333333333333333,False,exclude_or_sensitivity
+51,5534,Grandview Park,6,6,4,2,3,4,2,0.75,False,exclude_or_sensitivity
+51,5543,Park Ln @ Tudor,6,6,0,6,0,0,6,,False,exclude_or_sensitivity
+65,356,Aurora @ Hillvi,6,6,1,5,1,1,5,1.0,False,exclude_or_sensitivity
+65,358,Aurora @ Outloo,6,6,3,3,2,3,3,0.6666666666666666,False,exclude_or_sensitivity
+65,6349,Danby Fire Stat,6,6,4,2,1,4,2,0.25,False,exclude_or_sensitivity
+14S,706,Chestnut Hill A,5,5,5,0,0,5,0,0.0,False,exclude_or_sensitivity
+20,2323,Mecklenburg Rd,5,5,5,0,0,5,0,0.0,False,exclude_or_sensitivity
+21,780,Cliff @ Vinegar,5,5,4,1,2,4,1,0.5,False,exclude_or_sensitivity
+31,3715,Hanshaw @ Black,5,5,2,3,0,2,3,0.0,False,exclude_or_sensitivity
+31,4568,Lower Crk @ Etn,5,5,4,1,3,4,1,0.75,False,exclude_or_sensitivity
+32,3735,10 Brentwood Dr,5,5,5,0,1,5,0,0.2,False,exclude_or_sensitivity
+40,4539,Main St @ Dryde,5,5,3,2,0,3,2,0.0,False,exclude_or_sensitivity
+43,4714,W Main @ Hilton,5,5,4,1,1,4,1,0.25,False,exclude_or_sensitivity
+51,1751,Humphreys Servi,5,5,0,5,0,0,5,,False,exclude_or_sensitivity
+65,318,Hudson at South,5,5,4,1,0,4,1,0.0,False,exclude_or_sensitivity
+65,328,Hudson @ Coddin,5,5,5,0,1,5,0,0.2,False,exclude_or_sensitivity
+65,6353,Danby Rd @ Bald,5,5,1,4,0,1,4,0.0,False,exclude_or_sensitivity
+67,6712,Elmira Rd @ Fiv,5,5,2,3,0,2,3,0.0,False,exclude_or_sensitivity
+92,1331,McClintock Hall,5,5,0,5,0,0,5,,False,exclude_or_sensitivity
+13,905,Tompkins @ Cayu,4,4,4,0,1,4,0,0.25,False,exclude_or_sensitivity
+14,751,Elm Street @ El,4,4,4,0,1,4,0,0.25,False,exclude_or_sensitivity
+14,767,Campbell @ Hect,4,4,1,3,0,1,3,0.0,False,exclude_or_sensitivity
+14S,547,Fairgrounds Mem,4,4,4,0,1,4,0,0.25,False,exclude_or_sensitivity
+20,1702,State/MLK @ Ste,4,4,4,0,2,4,0,0.5,False,exclude_or_sensitivity
+20,2315,Mecklenburg Rd,4,4,4,0,0,4,0,0.0,False,exclude_or_sensitivity
+20,2319,Mecklenburg Rd,4,4,4,0,2,4,0,0.5,False,exclude_or_sensitivity
+21,2670,Seneca @ Main (,4,4,2,2,0,2,2,0.0,False,exclude_or_sensitivity
+31,3911,Salem @ Birchwo,4,4,2,2,0,2,2,0.0,False,exclude_or_sensitivity
+36,1120,Auden Ithaca,4,4,4,0,2,4,0,0.5,False,exclude_or_sensitivity
+36,3111,EShore@Burd Hil,4,4,4,0,0,4,0,0.0,False,exclude_or_sensitivity
+36,3115,East Shore Dr @,4,4,4,0,0,4,0,0.0,False,exclude_or_sensitivity
+37,1702,State/MLK @ Ste,4,4,4,0,3,4,0,0.75,False,exclude_or_sensitivity
+40,4318,Freeville Stn P,4,4,2,2,0,2,2,0.0,False,exclude_or_sensitivity
+40,4359,South @ Main (G,4,4,4,0,0,4,0,0.0,False,exclude_or_sensitivity
+51,5539,Snyder Hill @ P,4,4,1,3,0,1,3,0.0,False,exclude_or_sensitivity
+51,5561,Eastern Heights,4,4,4,0,1,4,0,0.25,False,exclude_or_sensitivity
+14,718,Haller @ Elm,3,3,3,0,0,3,0,0.0,False,exclude_or_sensitivity
+14,774,Campbell @ Hopk,3,3,1,2,0,1,2,0.0,False,exclude_or_sensitivity
+14S,2547,Museum of the E,3,3,3,0,1,3,0,0.3333333333333333,False,exclude_or_sensitivity
+14S,704,Chestnut @ Sunr,3,3,3,0,0,3,0,0.0,False,exclude_or_sensitivity
+14S,719,Haller @ Hook,3,3,3,0,0,3,0,0.0,False,exclude_or_sensitivity
+20,117,Seneca @ Corn,3,3,3,0,0,3,0,0.0,False,exclude_or_sensitivity
+20,2320,Mecklenburg Rd,3,3,3,0,0,3,0,0.0,False,exclude_or_sensitivity
+20,734,Hector @ Warren,3,3,3,0,0,3,0,0.0,False,exclude_or_sensitivity
+20,748,412 Hector St,3,3,3,0,2,3,0,0.6666666666666666,False,exclude_or_sensitivity
+22,2620,TBurg School,3,3,3,0,0,3,0,0.0,False,exclude_or_sensitivity
+31,1372,Triphammer @ No,3,3,2,1,1,2,1,0.5,False,exclude_or_sensitivity
+31,1375,The Parkway @ U,3,3,3,0,0,3,0,0.0,False,exclude_or_sensitivity
+31,3909,Salem @ Maplewo,3,3,1,2,0,1,2,0.0,False,exclude_or_sensitivity
+31,3917,Winston @ Rose,3,3,2,1,1,2,1,0.5,False,exclude_or_sensitivity
+31,3931,Hanshaw @ Sapsu,3,3,1,2,0,1,2,0.0,False,exclude_or_sensitivity
+31,4565,Etna Rd @ Wood,3,3,2,1,0,2,1,0.0,False,exclude_or_sensitivity
+37,1328,Balch-CraditFrm,3,3,0,3,0,0,3,,False,exclude_or_sensitivity
+37,3735,10 Brentwood Dr,3,3,3,0,1,3,0,0.3333333333333333,False,exclude_or_sensitivity
+40,1702,State/MLK @ Ste,3,3,2,1,1,2,1,0.5,False,exclude_or_sensitivity
+40,4355,Peru Rd @ Hamil,3,3,3,0,0,3,0,0.0,False,exclude_or_sensitivity
+40,4515,Dryden Rd @ Mt,3,3,3,0,2,3,0,0.6666666666666666,False,exclude_or_sensitivity
+43,4780,Freeville Rd @,3,3,3,0,0,3,0,0.0,False,exclude_or_sensitivity
+51,5560,Eastern Heights,3,3,3,0,1,3,0,0.3333333333333333,False,exclude_or_sensitivity
+51,5722,Slaterville Rd,3,3,3,0,1,3,0,0.3333333333333333,False,exclude_or_sensitivity
+52,1709,State/MLK @ Cor,3,3,1,2,0,1,2,0.0,False,exclude_or_sensitivity
+52,5711,Rt79 @ Tower Vi,3,3,2,1,0,2,1,0.0,False,exclude_or_sensitivity
+52,5722,Slaterville Rd,3,3,0,3,0,0,3,,False,exclude_or_sensitivity
+65,1722,Stewart @ Senec,3,3,3,0,2,3,0,0.6666666666666666,False,exclude_or_sensitivity
+65,327,Coddington @ Hu,3,3,3,0,0,3,0,0.0,False,exclude_or_sensitivity
+65,330,Coddington at I,3,3,1,2,0,1,2,0.0,False,exclude_or_sensitivity
+65,348,Ithaca College,3,3,3,0,0,3,0,0.0,False,exclude_or_sensitivity
+65,355,Aurora @ Hillvi,3,3,3,0,1,3,0,0.3333333333333333,False,exclude_or_sensitivity
+65,376,College Circle,3,3,3,0,0,3,0,0.0,False,exclude_or_sensitivity
+65,6338,Danby Rd @ Muzz,3,3,3,0,0,3,0,0.0,False,exclude_or_sensitivity
+65,6343,Danby Rd @ Mill,3,3,3,0,0,3,0,0.0,False,exclude_or_sensitivity
+67,572,Elmira @ Butter,3,3,0,3,0,0,3,,False,exclude_or_sensitivity
+67,6519,West Danby Rd @,3,3,2,1,1,2,1,0.5,False,exclude_or_sensitivity
+92,1329,Helen Newman Ha,3,3,0,3,0,0,3,,False,exclude_or_sensitivity
+14,719,Haller @ Hook,2,2,0,2,0,0,2,,False,exclude_or_sensitivity
+14,720,Hook @ Haller,2,2,2,0,0,2,0,0.0,False,exclude_or_sensitivity
+14,722,Warren Pl @ Hoo,2,2,2,0,0,2,0,0.0,False,exclude_or_sensitivity
+14,726,Warren Pl @ Sun,2,2,2,0,0,2,0,0.0,False,exclude_or_sensitivity
+14,756,Westhaven Road,2,2,2,0,0,2,0,0.0,False,exclude_or_sensitivity
+14S,729,Warren Pl @ Hec,2,2,2,0,0,2,0,0.0,False,exclude_or_sensitivity
+14S,780,Cliff @ Vinegar,2,2,2,0,2,2,0,1.0,False,exclude_or_sensitivity
+17,901,Cayuga @ Cascad,2,2,0,2,0,0,2,,False,exclude_or_sensitivity
+17,911,Cayuga @ Lincol,2,2,0,2,0,0,2,,False,exclude_or_sensitivity
+17,920,Lincoln @ Dey,2,2,0,2,0,0,2,,False,exclude_or_sensitivity
+20,2329,Enfield Element,2,2,2,0,0,2,0,0.0,False,exclude_or_sensitivity
+20,2338,Enfield Main Rd,2,2,2,0,0,2,0,0.0,False,exclude_or_sensitivity
+21,2534,1229 Trumansbur,2,2,2,0,1,2,0,0.5,False,exclude_or_sensitivity
+21,2583,Jacksonville PO,2,2,1,1,0,1,1,0.0,False,exclude_or_sensitivity
+22,1145,Stewart Park 22,2,2,2,0,0,2,0,0.0,False,exclude_or_sensitivity
+22,2627,Main @ Washingt,2,2,2,0,0,2,0,0.0,False,exclude_or_sensitivity
+22,661,Green @ Meadow,2,2,2,0,1,2,0,0.5,False,exclude_or_sensitivity
+22,672,Seneca @ Fulton,2,2,2,0,0,2,0,0.0,False,exclude_or_sensitivity
+31,1377,The Parkway @ N,2,2,0,2,0,0,2,,False,exclude_or_sensitivity
+31,3904,Muriel @ Hansha,2,2,2,0,0,2,0,0.0,False,exclude_or_sensitivity
+31,3923,128 Muriel St,2,2,1,1,0,1,1,0.0,False,exclude_or_sensitivity
+37,3752,Warren @ Dutch,2,2,2,0,2,2,0,1.0,False,exclude_or_sensitivity
+40,4511,Varna Auto,2,2,2,0,0,2,0,0.0,False,exclude_or_sensitivity
+40,4517,1061 Dryden Roa,2,2,2,0,1,2,0,0.5,False,exclude_or_sensitivity
+40,4521,Dryden Rd @ Tur,2,2,2,0,2,2,0,1.0,False,exclude_or_sensitivity
+43,4311,Freeville Rd at,2,2,0,2,0,0,2,,False,exclude_or_sensitivity
+43,4336,Groton Rd @ Per,2,2,2,0,1,2,0,0.5,False,exclude_or_sensitivity
+43,4356,Peru Rd @ Hamil,2,2,2,0,2,2,0,1.0,False,exclude_or_sensitivity
+43,4779,Freeville Rd @,2,2,2,0,1,2,0,0.5,False,exclude_or_sensitivity
+51,1752,Humphreys Servi,2,2,0,2,0,0,2,,False,exclude_or_sensitivity
+51,1758,Pine Tree Rd @,2,2,2,0,2,2,0,1.0,False,exclude_or_sensitivity
+51,5541,Snyder Hill @ S,2,2,2,0,0,2,0,0.0,False,exclude_or_sensitivity
+52,1702,State/MLK @ Ste,2,2,1,1,0,1,1,0.0,False,exclude_or_sensitivity
+52,5532,Pine Tree @ Hon,2,2,1,1,0,1,1,0.0,False,exclude_or_sensitivity
+52,5733,Sltrvl@BdaleRd,2,2,2,0,0,2,0,0.0,False,exclude_or_sensitivity
+65,323,Hudson @ Prsll,2,2,2,0,1,2,0,0.5,False,exclude_or_sensitivity
+65,324,Hudson @ Gdview,2,2,2,0,0,2,0,0.0,False,exclude_or_sensitivity
+65,329,Coddington at I,2,2,2,0,0,2,0,0.0,False,exclude_or_sensitivity
+65,369,Danby @ Vista,2,2,2,0,0,2,0,0.0,False,exclude_or_sensitivity
+65,6337,Danby Rd @ Muzz,2,2,2,0,0,2,0,0.0,False,exclude_or_sensitivity
+65,6358,Danby Rd @ Mich,2,2,1,1,0,1,1,0.0,False,exclude_or_sensitivity
+67,571,Elmira @ Butter,2,2,2,0,0,2,0,0.0,False,exclude_or_sensitivity
+14,725,Warren Pl @ Sun,1,1,0,1,0,0,1,,False,exclude_or_sensitivity
+14,750,Elm Street @ Ha,1,1,0,1,0,0,1,,False,exclude_or_sensitivity
+14,773,Campbell @ Hopk,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+14S,539,Cecil Malone Dr,1,1,1,0,1,1,0,1.0,False,exclude_or_sensitivity
+14S,731,Hector @ Warren,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+14S,767,Campbell @ Hect,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+17,918,Dey @ Lincoln,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+20,2337,Enfield Main Rd,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+20,745,Hector @ Fairvi,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+20,747,413 Hector St,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+21,2533,1229 Trumansbur,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+21,2567,Trumansburg Rd,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+21,2578,Trumansburg Rd,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+21,2582,Trumansburg Rd,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+21,2669,Main @ Seneca (,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+22,112,Albany at Salva,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+22,2619,TBurg School,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+22,2624,Main @ South (T,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+22,2972,Taugh Overlook,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+22,900,Cayuga @ Cascad,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+31,3919,Rose Hill @ Tar,1,1,0,1,0,0,1,,False,exclude_or_sensitivity
+31,4561,Etna Rd @ Pinck,1,1,0,1,0,0,1,,False,exclude_or_sensitivity
+31,4572,Lower Creek @ C,1,1,0,1,0,0,1,,False,exclude_or_sensitivity
+36,1137,East Shore @ Ja,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+36,3614,Triphammer @ Wa,1,1,0,1,0,0,1,,False,exclude_or_sensitivity
+37,3305,Warren @ Asbury,1,1,0,1,0,0,1,,False,exclude_or_sensitivity
+37,3312,Asbury @ Tripha,1,1,0,1,0,0,1,,False,exclude_or_sensitivity
+37,3715,Hanshaw @ Black,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+37,3722,Warren @ Christ,1,1,1,0,1,1,0,1.0,False,exclude_or_sensitivity
+37,3759,Warren @ Farrel,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+37,3901,Hanshaw @ Warre,1,1,1,0,1,1,0,1.0,False,exclude_or_sensitivity
+40,4509,Dryd@ForestHome,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+43,4335,Groton Rd @ Per,1,1,0,1,0,0,1,,False,exclude_or_sensitivity
+43,4521,Dryden Rd @ Tur,1,1,0,1,0,0,1,,False,exclude_or_sensitivity
+43,4538,Dryden Rd @ Mai,1,1,0,1,0,0,1,,False,exclude_or_sensitivity
+52,5526,318 Pine Tree -,1,1,0,1,0,0,1,,False,exclude_or_sensitivity
+52,5707,Slaterville Rd,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+52,5720,Pine Tree @ Sla,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+52,5729,Sltrvl@GermanCr,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+52,5754,Boiceville @ Sl,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+65,313,Hudson @ Columb,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+65,317,Hudson at South,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+65,6330,Danby Rd @ Comf,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+65,6350,Danby Fire Stat,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+65,6357,Danby Rd @ Mich,1,1,0,1,0,0,1,,False,exclude_or_sensitivity
+65,6363,Danby Rd @ Stea,1,1,1,0,0,1,0,0.0,False,exclude_or_sensitivity
+30,1534,Sage Hall,27231,27231,15019,12212,11679,15019,12212,0.7776150209734336,True,treated_high_cornell_exposure
+30,1719,College @ Oak,23791,23791,11399,12392,8263,11399,12392,0.7248881480831652,True,treated_high_cornell_exposure
+30,1524,Goldwin Smith,23437,23437,13078,10359,10291,13078,10359,0.7868940204924301,True,treated_high_cornell_exposure
+30,1525,Rockefeller Hal,22456,22456,14269,8187,11125,14269,8187,0.7796622047795921,True,treated_high_cornell_exposure
+81,1540,Uris Hall Acros,21046,21046,14257,6789,11837,14257,6789,0.8302588202286596,True,treated_high_cornell_exposure
+81,1542,Kennedy Hall,18520,18520,12670,5850,10712,12670,5850,0.8454617205998421,True,treated_high_cornell_exposure
+30,1531,Carpenter Hall,18358,18358,10387,7971,7699,10387,7971,0.7412149802637913,True,treated_high_cornell_exposure
+81,1525,Rockefeller Hal,16333,16333,10778,5555,8938,10778,5555,0.8292818704768974,True,treated_high_cornell_exposure
+30,1530,Anabel Taylor H,14243,14243,7819,6424,6085,7819,6424,0.7782325105512213,True,treated_high_cornell_exposure
+30,1344,RPCC,14222,14222,6729,7493,5334,6729,7493,0.7926883637984842,True,treated_high_cornell_exposure
+30,1533,Statler Hall,14218,14218,8133,6085,6291,8133,6085,0.7735153080044264,True,treated_high_cornell_exposure
+30,1326,Risley Hall - S,14013,14013,5963,8050,4217,5963,8050,0.7071943652523898,True,treated_high_cornell_exposure
+81,1330,Appel Commons,13207,13207,7582,5625,6233,7582,5625,0.8220786072276445,True,treated_high_cornell_exposure
+30,1716,Schwartz CPA,12874,12874,6496,6378,4340,6496,6378,0.6681034482758621,True,treated_high_cornell_exposure
+30,1356,Jessup @ Tripha,10424,10424,4779,5645,3338,4779,5645,0.6984724837832182,True,treated_high_cornell_exposure
+81,1546,Dairy Bar Acros,7143,7143,5704,1439,4467,5704,1439,0.7831346423562412,True,treated_high_cornell_exposure
+30,1343,RPCC,6144,6144,3299,2845,2460,3299,2845,0.7456805092452258,True,treated_high_cornell_exposure
+30,1346,Jess@PleasGrove,5857,5857,3455,2402,2615,3455,2402,0.7568740955137482,True,treated_high_cornell_exposure
+82,1534,Sage Hall,5629,5629,2965,2664,2257,2965,2664,0.7612141652613827,True,treated_high_cornell_exposure
+30,1703,State/MLK @ Qua,5503,5503,3117,2386,2012,3117,2386,0.6454924606993905,True,treated_high_cornell_exposure
+30,1715,CTown Crossing,5365,5365,2641,2724,1631,2641,2724,0.6175691026126467,True,treated_high_cornell_exposure
+32,1540,Uris Hall Acros,5143,5143,2970,2173,2438,2970,2173,0.8208754208754209,True,treated_high_cornell_exposure
+30,1325,Thurston at Bal,4766,4766,2689,2077,1749,2689,2077,0.6504276682781703,True,treated_high_cornell_exposure
+32,1525,Rockefeller Hal,4676,4676,2530,2146,2080,2530,2146,0.8221343873517787,True,treated_high_cornell_exposure
+32,1542,Kennedy Hall,4594,4594,2866,1728,2530,2866,1728,0.8827634333565946,True,treated_high_cornell_exposure
+30,1345,Jess@PleasGrove,4446,4446,2720,1726,1947,2720,1726,0.7158088235294118,True,treated_high_cornell_exposure
+32,1543,Corson/Mudd Hal,4316,4316,2614,1702,2181,2614,1702,0.8343534812547819,True,treated_high_cornell_exposure
+81,1544,Bradfield Hall,3916,3916,2744,1172,2238,2744,1172,0.815597667638484,True,treated_high_cornell_exposure
+51,1542,Kennedy Hall,3371,3371,1998,1373,1672,1998,1373,0.8368368368368369,True,treated_high_cornell_exposure
+51,1534,Sage Hall,3334,3334,2038,1296,1656,2038,1296,0.8125613346418057,True,treated_high_cornell_exposure
+30,1701,State/MLK @ Ste,3332,3332,1849,1483,1137,1849,1483,0.6149269875608437,True,treated_high_cornell_exposure
+81,1326,Risley Hall - S,3197,3197,1548,1649,1149,1548,1649,0.7422480620155039,True,treated_high_cornell_exposure
+82,1542,Kennedy Hall,3141,3141,2152,989,1891,2152,989,0.8787174721189591,True,treated_high_cornell_exposure
+82,1754,Maplewood Apts,3069,3069,2226,843,1785,2226,843,0.8018867924528302,True,treated_high_cornell_exposure
+30,1711,College @ Mitch,3035,3035,1577,1458,1013,1577,1458,0.6423589093214965,True,treated_high_cornell_exposure
+82,1531,Carpenter Hall,2928,2928,1765,1163,1432,1765,1163,0.8113314447592068,True,treated_high_cornell_exposure
+82,1541,Uris Hall,2915,2915,2019,896,1683,2019,896,0.8335809806835067,True,treated_high_cornell_exposure
+82,1543,Corson/Mudd Hal,2898,2898,1949,949,1711,1949,949,0.8778860954335557,True,treated_high_cornell_exposure
+82,1540,Uris Hall Acros,2878,2878,1794,1084,1524,1794,1084,0.8494983277591973,True,treated_high_cornell_exposure
+81,1343,RPCC,2872,2872,1856,1016,1431,1856,1016,0.7710129310344828,True,treated_high_cornell_exposure
+37,1540,Uris Hall Acros,2671,2671,2130,541,1794,2130,541,0.8422535211267606,True,treated_high_cornell_exposure
+32,1553,Boyce Thomp,2516,2516,1687,829,1422,1687,829,0.8429164196799052,True,treated_high_cornell_exposure
+32,1524,Goldwin Smith,2507,2507,1494,1013,1154,1494,1013,0.7724230254350736,True,treated_high_cornell_exposure
+81,1541,Uris Hall,2477,2477,1972,505,1510,1972,505,0.7657200811359026,True,treated_high_cornell_exposure
+32,1555,Vet School,2414,2414,1608,806,1247,1608,806,0.775497512437811,True,treated_high_cornell_exposure
+51,1530,Anabel Taylor H,2321,2321,1303,1018,1095,1303,1018,0.8403683806600154,True,treated_high_cornell_exposure
+32,1546,Dairy Bar Acros,2215,2215,1580,635,1288,1580,635,0.8151898734177215,True,treated_high_cornell_exposure
+32,1547,Dairy Bar,2186,2186,1556,630,1282,1556,630,0.8239074550128535,True,treated_high_cornell_exposure
+32,1544,Bradfield Hall,2173,2173,1389,784,1221,1389,784,0.8790496760259179,True,treated_high_cornell_exposure
+81,1553,Boyce Thomp,2101,2101,1624,477,1252,1624,477,0.770935960591133,True,treated_high_cornell_exposure
+82,1555,Vet School,2038,2038,1404,634,1232,1404,634,0.8774928774928775,True,treated_high_cornell_exposure
+32,1541,Uris Hall,1867,1867,1365,502,1033,1365,502,0.7567765567765568,True,treated_high_cornell_exposure
+51,1716,Schwartz CPA,1859,1859,1085,774,787,1085,774,0.7253456221198157,True,treated_high_cornell_exposure
+21,1534,Sage Hall,1749,1749,1682,67,1211,1682,67,0.7199762187871581,True,treated_high_cornell_exposure
+82,1717,Oak @ College,1718,1718,909,809,691,909,809,0.7601760176017601,True,treated_high_cornell_exposure
+82,1546,Dairy Bar Acros,1637,1637,1323,314,1092,1323,314,0.8253968253968254,True,treated_high_cornell_exposure
+32,1326,Risley Hall - S,1623,1623,872,751,621,872,751,0.7121559633027523,True,treated_high_cornell_exposure
+81,1349,Hasbrouck Apts,1608,1608,1213,395,835,1213,395,0.6883759274525969,True,treated_high_cornell_exposure
+51,1555,Vet School,1572,1572,978,594,775,978,594,0.7924335378323109,True,treated_high_cornell_exposure
+81,1327,Cradit Farm @ T,1509,1509,1026,483,680,1026,483,0.6627680311890838,True,treated_high_cornell_exposure
+51,1719,College @ Oak,1483,1483,599,884,441,599,884,0.7362270450751253,True,treated_high_cornell_exposure
+31,1549,Garden@Tower,1478,1478,1211,267,782,1211,267,0.6457473162675474,True,treated_high_cornell_exposure
+81,1543,Corson/Mudd Hal,1461,1461,1216,245,966,1216,245,0.7944078947368421,True,treated_high_cornell_exposure
+32,1545,Bradfield Hall,1446,1446,974,472,859,974,472,0.8819301848049281,True,treated_high_cornell_exposure
+37,1525,Rockefeller Hal,1418,1418,975,443,806,975,443,0.8266666666666667,True,treated_high_cornell_exposure
+43,1541,Uris Hall,1417,1417,1027,390,789,1027,390,0.7682570593963,True,treated_high_cornell_exposure
+37,1542,Kennedy Hall,1414,1414,1143,271,991,1143,271,0.8670166229221348,True,treated_high_cornell_exposure
+51,1546,Dairy Bar Acros,1404,1404,939,465,765,939,465,0.8146964856230032,True,treated_high_cornell_exposure
+81,1345,Jess@PleasGrove,1391,1391,1014,377,791,1014,377,0.7800788954635108,True,treated_high_cornell_exposure
+81,1342,Northcross @ Je,1375,1375,828,547,610,828,547,0.7367149758454107,True,treated_high_cornell_exposure
+43,1543,Corson/Mudd Hal,1367,1367,1002,365,870,1002,365,0.8682634730538922,True,treated_high_cornell_exposure
+82,1533,Statler Hall,1344,1344,918,426,713,918,426,0.7766884531590414,True,treated_high_cornell_exposure
+51,1543,Corson/Mudd Hal,1304,1304,729,575,622,729,575,0.8532235939643347,True,treated_high_cornell_exposure
+51,1531,Carpenter Hall,1232,1232,604,628,447,604,628,0.7400662251655629,True,treated_high_cornell_exposure
+43,1533,Statler Hall,1208,1208,853,355,588,853,355,0.6893317702227433,True,treated_high_cornell_exposure
+51,1541,Uris Hall,1177,1177,673,504,560,673,504,0.8320950965824666,True,treated_high_cornell_exposure
+81,1524,Goldwin Smith,1114,1114,847,267,668,847,267,0.7886658795749705,True,treated_high_cornell_exposure
+81,1332,McClintock Hall,1090,1090,731,359,643,731,359,0.8796169630642955,True,treated_high_cornell_exposure
+82,1544,Bradfield Hall,1047,1047,796,251,721,796,251,0.9057788944723618,True,treated_high_cornell_exposure
+51,1544,Bradfield Hall,1020,1020,625,395,552,625,395,0.8832,True,treated_high_cornell_exposure
+31,1540,Uris Hall Acros,986,986,728,258,469,728,258,0.6442307692307693,True,treated_high_cornell_exposure
+81,1562,Campus @ Tower,983,983,732,251,590,732,251,0.8060109289617486,True,treated_high_cornell_exposure
+51,1540,Uris Hall Acros,946,946,503,443,401,503,443,0.7972166998011928,True,treated_high_cornell_exposure
+32,1358,Triphammer @ De,945,945,609,336,390,609,336,0.6403940886699507,True,treated_high_cornell_exposure
+82,1553,Boyce Thomp,942,942,603,339,535,603,339,0.8872305140961857,True,treated_high_cornell_exposure
+52,1543,Corson/Mudd Hal,934,934,821,113,722,821,113,0.879415347137637,True,treated_high_cornell_exposure
+37,1544,Bradfield Hall,918,918,840,78,659,840,78,0.7845238095238095,True,treated_high_cornell_exposure
+52,1541,Uris Hall,908,908,759,149,647,759,149,0.852437417654809,True,treated_high_cornell_exposure
+51,1553,Boyce Thomp,853,853,552,301,502,552,301,0.9094202898550725,True,treated_high_cornell_exposure
+51,1703,State/MLK @ Qua,774,774,417,357,289,417,357,0.6930455635491607,True,treated_high_cornell_exposure
+51,1533,Statler Hall,765,765,424,341,327,424,341,0.7712264150943396,True,treated_high_cornell_exposure
+82,1547,Dairy Bar,763,763,582,181,484,582,181,0.8316151202749141,True,treated_high_cornell_exposure
+32,1752,Humphreys Servi,742,742,505,237,343,505,237,0.6792079207920793,True,treated_high_cornell_exposure
+37,1546,Dairy Bar Acros,656,656,575,81,488,575,81,0.8486956521739131,True,treated_high_cornell_exposure
+32,1703,State/MLK @ Qua,635,635,337,298,222,337,298,0.658753709198813,True,treated_high_cornell_exposure
+82,1536,Hoy @ Hoy Field,621,621,319,302,249,319,302,0.780564263322884,True,treated_high_cornell_exposure
+51,1715,CTown Crossing,599,599,277,322,181,277,322,0.6534296028880866,True,treated_high_cornell_exposure
+82,1545,Bradfield Hall,554,554,333,221,285,333,221,0.8558558558558559,True,treated_high_cornell_exposure
+31,1326,Risley Hall - S,505,505,235,270,154,235,270,0.6553191489361702,True,treated_high_cornell_exposure
+51,1545,Bradfield Hall,492,492,309,183,274,309,183,0.8867313915857605,True,treated_high_cornell_exposure
+82,1753,Maplewood Apts,480,480,291,189,183,291,189,0.6288659793814433,True,treated_high_cornell_exposure
+52,1533,Statler Hall,447,447,347,100,292,347,100,0.8414985590778098,True,treated_high_cornell_exposure
+51,1711,College @ Mitch,426,426,197,229,124,197,229,0.6294416243654822,True,treated_high_cornell_exposure
+32,1701,State/MLK @ Ste,424,424,194,230,125,194,230,0.6443298969072165,True,treated_high_cornell_exposure
+51,1547,Dairy Bar,409,409,320,89,280,320,89,0.875,True,treated_high_cornell_exposure
+51,1701,State/MLK @ Ste,405,405,199,206,128,199,206,0.6432160804020101,True,treated_high_cornell_exposure
+82,1770,CISER,405,405,314,91,191,314,91,0.60828025477707,True,treated_high_cornell_exposure
+32,1751,Humphreys Servi,388,388,203,185,132,203,185,0.6502463054187192,True,treated_high_cornell_exposure
+43,1547,Dairy Bar,373,373,247,126,172,247,126,0.6963562753036437,True,treated_high_cornell_exposure
+43,1545,Bradfield Hall,314,314,241,73,217,241,73,0.9004149377593361,True,treated_high_cornell_exposure
+31,1535,Campus @ Gates,290,290,155,135,93,155,135,0.6,True,treated_high_cornell_exposure
+52,1545,Bradfield Hall,278,278,217,61,189,217,61,0.8709677419354839,True,treated_high_cornell_exposure
+52,1725,Stewart @ Willi,278,278,200,78,173,200,78,0.865,True,treated_high_cornell_exposure
+81,1545,Bradfield Hall,247,247,193,54,160,193,54,0.8290155440414507,True,treated_high_cornell_exposure
+81,1564,Campus @ Judd F,244,244,171,73,136,171,73,0.7953216374269005,True,treated_high_cornell_exposure
+82,1752,Humphreys Servi,237,237,151,86,98,151,86,0.6490066225165563,True,treated_high_cornell_exposure
+32,1360,Triphammer @ Co,236,236,165,71,121,165,71,0.7333333333333333,True,treated_high_cornell_exposure
+21,673,Buffalo @ Fulto,222,222,149,73,94,149,73,0.6308724832214765,True,treated_high_cornell_exposure
+43,1553,Boyce Thomp,220,220,149,71,112,149,71,0.7516778523489933,True,treated_high_cornell_exposure
+43,1721,Stewart @ Senec,167,167,96,71,69,96,71,0.71875,True,treated_high_cornell_exposure
+51,1704,State/MLK @ Qua,121,121,63,58,41,63,58,0.6507936507936508,True,treated_high_cornell_exposure

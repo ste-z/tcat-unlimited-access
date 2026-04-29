@@ -1,0 +1,7 @@
+left_column,right_column,both_canonical_rows,agreement_rows,disagreement_rows,disagreement_share_when_both_canonical
+Route_vhist,swiftly_route_id,0,0,0,0.0
+corrected_route,Route_vhist,2761914,2761914,0,0.0
+corrected_route,swiftly_route_id,0,0,0,0.0
+route,Route_vhist,2103797,2036234,67563,0.03211479054300391
+route,corrected_route,2492366,2373139,119227,0.04783687468052445
+route,swiftly_route_id,0,0,0,0.0

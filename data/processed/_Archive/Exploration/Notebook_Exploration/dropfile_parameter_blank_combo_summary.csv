@@ -1,0 +1,36 @@
+text,description,media_text,is_cornell,rows
+,,,,594977
+Got fare,Second Left Arrow 16,Cornell,False,220550
+Got fare,,,False,187333
+Mobile Ticket Transaction,Ithaca College Pass,IC Pass,False,92108
+Mobile Ticket Transaction,15 Ride Pass Mobile,15 RIDE,False,49115
+Mobile Ticket Transaction,1 Day Pass Mobile,1DAYPASS,False,36925
+Mobile Ticket Transaction,Pay As You Go,PayAsUGo,False,36747
+Mobile Ticket Transaction,Monthly Pass Mobile,MONTHLY,False,33238
+Smart card usage - period,31-DAY TCARD,31 DAY,False,32867
+Got fare,RA1 Adult 18-59,TCARD,False,30299
+Got fare,RA2  Senior 60 & Up,HalfFare,False,21135
+Mobile Ticket Transaction,1 Ride Pass Mobile,1 RIDE,False,20164
+Got fare,LA1 Youth,Youth,False,19310
+Smart card usage - ride,15 RIDE TCARD,15 RIDE,False,13675
+Got fare,RA4  Transfer,Transfer,False,10187
+Got fare,Third Left Arrow 17,IC,False,9338
+Smart card usage - ride,15 RIDE HALF-FARE TCARD,15 RIDE,False,6781
+Mobile Ticket Transaction,2 Ride Pass Mobile,2 RIDE,False,6143
+Smart card usage - period,1-DAY TCARD,1 DAY,False,6134
+Got fare,RA3  Disabled,CityPass,False,3714
+Mobile Ticket Transaction,Weekly Pass Mobile,7DAYPASS,False,3691
+Mobile Ticket Transaction,2 Day Pass Mobile,2DAYPASS,False,3260
+Special card,Cornell Card,Cornell,False,3246
+Mobile Ticket Transaction,5 Day Pass Mobile,5DAYPASS,False,2615
+Mobile Ticket Transaction,ANNUAL PASS,ANNUAL,False,2529
+Mobile Ticket Transaction,15 Ride Pass Half Fare Mobile,15 RIDE,False,1583
+Smart card usage - period,5-DAY TCARD,5 DAY,False,1289
+Auto logoff (no activity),,,False,1202
+Smart card usage - period,2-DAY TCARD,2 DAY,False,335
+Got fare,Fourth Left Arrow 18,TC3,False,227
+Mobile Ticket Transaction,PayAsYouGo,PayAsUGo,False,130
+Direction change,,,False,107
+Mobile Ticket Transaction,1 Ride Half Mobile,1 RIDE,False,102
+Mobile Ticket Transaction,2 Ride Half Mobile,2 RIDE,False,75
+Got fare,Empty TTP,,False,3

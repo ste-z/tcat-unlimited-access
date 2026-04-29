@@ -1,0 +1,7 @@
+normalized_route_source,rows
+Route_vhist_normalized,2761859
+corrected_route_gtfs_route,413079
+unresolved_corrected_route_not_in_gtfs,26388
+unresolved_corrected_route_is_gtfs_stop_id,3648
+excluded_text_removed,1309
+unresolved_through_run_dropped,932

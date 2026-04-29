@@ -206,3 +206,7 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 .DS_Store
+
+scripts/_archive_notebook_update_helpers/
+data/raw/
+data/processed/Analysis_Ready/route_stop_15min_panel.csv

@@ -1,0 +1,644 @@
+stop_id_clean,canonical_stop_name,canonical_name_rows,stop_name_variant_count,total_named_rows,stop_name_examples
+1512,Baker Flag Slop,15656,4,17678,Baker Flag Slop | BakerFlag Slope | Baker Flagpole | Baker Flag NB
+4318,Freeville Stn P,239,4,363,Freeville Stn P | Stn Pk Freevill | Station Park | Station Park -
+4328,RR@Main (Fville,10,4,25,RR@Main (Fville | RR@Main Fville | Railroad@Main | Railroad @ Main
+165,Green Commons,300041,3,338068,Green Commons | Commons-GreenSt | Ithaca Commons
+100,Seneca Commons,121077,3,138049,Seneca Commons | Commons-Seneca | Ithaca Commons
+1524,Goldwin Smith,58783,3,68041,Goldwin Smith | GoldwinSmithHl | Goldwin Smith H
+1716,Schwartz CPA,49224,3,55578,Schwartz CPA | SchwrtzPrfArCtr | Schwartz Perfor
+1344,RPCC,48532,3,54988,RPCC | RPCC-Jessup | Robert Purcell
+1343,RPCC,30924,3,35523,RPCC | RPCC-Jessup | Robert Purcell
+1530,Anabel Taylor H,31387,3,34641,Anabel Taylor H | Anab Taylr Hall | Anabel Taylor
+1754,Maplewood Apts,30059,3,34228,Maplewood Apts | Maplewd Apts | Maple @ Veteran
+1346,Jess@PleasGrove,25684,3,29397,Jess@PleasGrove | Jessup@PleasGrv | Jessup @ Pleasa
+1353,A Lot,23594,3,27319,A Lot | A Lot-LowerStop | A Lot - Lower S
+1774,E Hill Plaza,22735,3,26111,E Hill Plaza | EHP | East Hill Plaza
+1543,Corson/Mudd Hal,23487,3,25931,Corson/Mudd Hal | Corson-Mudd | Corson/Mudd
+1715,CTown Crossing,22825,3,25889,CTown Crossing | Collegtwn Crsng | Collegetown Cro
+1345,Jess@PleasGrove,20194,3,22947,Jess@PleasGrove | Jessup@PleasGrv | Jessup @ Pleasa
+172,Aurora Commons,15587,3,17441,Aurora Commons | Commons-Aurora | Ithaca Commons
+1513,Baker Flag,11442,3,13065,Baker Flag | Baker Flagpole | Baker Flag SB
+1553,Boyce Thomp,10674,3,11977,Boyce Thomp | BTI | Boyce Thompson
+3712,PleasGrove@Hans,10237,3,11810,PleasGrove@Hans | PlstGrv@Hanshaw | Pleasant Grove
+349,Towers IC,8076,3,8861,Towers IC | IC-TheTowers | Ithaca College
+339,Roy Park IC,7126,3,8075,Roy Park IC | IC-RoyParkSchoo | Ithaca College
+713,Elm @ W Vill,4978,3,5666,Elm @ W Vill | Elm@WVillage | Elm @ West Vill
+340,Roy Park IC,4781,3,5462,Roy Park IC | IC-RoyParkSchoo | Ithaca College
+4718,Dryden Vill Lib,3790,3,4432,Dryden Vill Lib | DrydnVilMainLib | Dryden Village
+2545,Cayuga Med ER,3831,3,4054,Cayuga Med ER | CayugaMedER | Cayuga Medical
+3557,Univ Pk Apts,3654,3,4052,Univ Pk Apts | UniversityPkApt | University Park
+1508,University @ St,3197,3,3488,University @ St | Univ@Stewart | Univ @ Stewart
+664,State @ Meadow,2739,3,3082,State @ Meadow | State@Meadow | State/MLK @ Mea
+3765,Vill Solars N,2263,3,2643,Vill Solars N | VillageSolarN | Village Solars
+1767,PineTree @ EHP,2400,3,2628,PineTree @ EHP | Pine Tr@E Hil P | Pine Tree at Ea
+1771,E Hill Office,2227,3,2517,E Hill Office | EHOB | East Hill Offic
+715,W Vill Parking,2094,3,2451,W Vill Parking | West Village | West Village Pa
+1125,Lake @ IHS,2136,3,2385,Lake @ IHS | Lake St@IHS | Lake St at Itha
+1368,Triphammer @ Ir,1791,3,2020,Triphammer @ Ir | Triphamr@Irqois | Tripham @ Iroq
+996,Guthrie Cty Har,1794,3,1886,Guthrie Cty Har | GuthrieCityHarb | Guthrie - Ithac
+3512,Trip @ Hanshaw,1567,3,1780,Trip @ Hanshaw | Trphammr@Hansh | Triphammer @ Ha
+3711,PleasGrove@Hans,1437,3,1671,PleasGrove@Hans | PlstGrv@Hanshaw | Pleasant Grove
+342,Alumni Circ IC,1300,3,1516,Alumni Circ IC | IC-AlumniCircle | Ithaca College
+323,Hudson @ Prsll,1193,3,1493,Hudson @ Prsll | Hudson@Pearsall | Hudson @ Pearsa
+2631,TBurg P+R,1298,3,1487,TBurg P+R | Tburg Park&Ride | Trumansburg Par
+4544,Dryden @ Kirk,1305,3,1457,Dryden @ Kirk | Rt 13 @ Kirk | Dryden Rd @ Kir
+2620,TBurg School,1162,3,1298,TBurg School | TbrgCentralSc | Trumansburg Cen
+1314,Highland@Wyck,1091,3,1256,Highland@Wyck | Highland@Wyckof | Highland @ Wyck
+2546,Cayuga Med Ctr,787,3,1208,Cayuga Med Ctr | CayugaMedCtr | Cayuga Medical
+3137,Lansing Twn Hl,1031,3,1205,Lansing Twn Hl | LansingTwnHl | Lansing Town Ha
+1753,Maplewood Apts,982,3,1115,Maplewood Apts | Maplewd Apts | Maple @ Veteran
+3936,Lab of Ornith,989,3,1086,Lab of Ornith | Lab of O | Lab of Ornithol
+1372,Triphammer @ No,849,3,971,Triphammer @ No | Triphamr@Nrthwy | Tripham @ Nway
+4717,Dryden Vill PO,827,3,949,Dryden Vill PO | DrydnVil@PostOf | Dryden Village
+3915,Winston Court,793,3,905,Winston Court | Winston Ct | Winston Court A
+324,Hudson @ Gdview,798,3,882,Hudson @ Gdview | Hudson@Grandvi | Hudson @ Grandv
+1347,PleasGrove@Jess,786,3,862,PleasGrove@Jess | PlsntGrv@Jessup | Pleasant Grove
+1126,Lake @ IHS,728,3,818,Lake @ IHS | Lake St@IHS | Lake St at Itha
+5759,Caroline Town,714,3,802,Caroline Town | CarolineTownHal | Caroline Town H
+3511,Trip @ Hanshaw,689,3,788,Trip @ Hanshaw | Triphamr@Hansha | Triphammer @ Ha
+1768,PineTree @ EHP,724,3,775,PineTree @ EHP | Pine Tr@E Hil P | Pine Tree at Ea
+1143,Stewart Park,733,3,755,Stewart Park | StewartPkEntry | Stewart Park En
+343,Alumni Circ IC,619,3,748,Alumni Circ IC | IC-AlumniCircle | Ithaca College
+5787,BDale P+R,565,3,654,BDale P+R | Brktndale Pk/Ri | Brooktondale Pa
+5771,Caroline Turn,552,3,602,Caroline Turn | CarolineTurnAr | Caroline Turn-A
+511,Clinton West,535,3,601,Clinton West | Clinton W Plaza | Clinton West Pl
+1348,PleasGrove@Jess,475,3,578,PleasGrove@Jess | PlsntGrv@Jessup | Pleasant Grove
+2584,Jacksonville PO,505,3,561,Jacksonville PO | JacksonviPostOf | Jacksonville Po
+361,S Hill Biz Pk,479,3,555,S Hill Biz Pk | SoHilBusinessPk | South Hill Busi
+5716,Slater @ Lois,525,3,554,Slater @ Lois | Sltrvl@Lois Ln | Slaterville Rd
+665,State @ Fulton,478,3,553,State @ Fulton | Stat@Fulton | State/MLK @ Ful
+171,Aurora @ State,399,3,478,Aurora @ State | Aurora@State | Aurora @ State/
+6784,Newfield School,340,3,395,Newfield School | NewfieldCtrlSch | Newfield Centra
+946,401 Cayuga Pk,354,3,390,401 Cayuga Pk | Cayuga Park Med | 401 Cayuga Park
+2334,Enfield P+R,312,3,373,Enfield P+R | EnfieldParkRide | Enfield Park an
+6374,Hillview Terr,279,3,343,Hillview Terr | HillviewTrc MHC | Hillview Terrac
+4322,Freeville P+R,273,3,322,Freeville P+R | FreevilParkRide | Freeville Park
+4321,Freeville P+R,277,3,302,Freeville P+R | FreevilParkRide | Freeville Park
+2555,TBurg@ProfBldg,225,3,250,TBurg@ProfBldg | Tbrg@ProfBldg | Trumansburg Rd
+3733,22 Arrowwood,217,3,250,22 Arrowwood | 22Arrowwood Dri | 22 Arrowwood Dr
+2619,TBurg School,216,3,239,TBurg School | TbrgCentralSc | Trumansburg Cen
+3761,Sbrook @ Farrel,198,3,229,Sbrook @ Farrel | Sprngbrk@Farrel | Springbrook @ F
+6321,Danby @ King,182,3,211,Danby @ King | DanbyRd @ King | Danby Rd @ King
+4708,Dryden @ Johnsn,195,3,202,Dryden @ Johnsn | Rt 13@Johnson | Dryden Rd @ Joh
+3558,Univ Pk Apts,155,3,199,Univ Pk Apts | UniversityPkApt | University Park
+2556,TBurg@ProfBldg,169,3,196,TBurg@ProfBldg | Tbrg@ProfBldg | Trumansburg Rd
+2557,Professional Bu,108,3,184,Professional Bu | Prof Bldg | ProfessionalBld
+2333,Enfield P+R,162,3,176,Enfield P+R | Enfield Park an | EnfieldParkRide
+5760,Caroline Town,154,3,169,Caroline Town | CarolineTownHal | Caroline Town H
+3764,Vill Solars N,138,3,163,Vill Solars N | VillageSolarN | Village Solars
+4543,Dryden @ Mineah,147,3,163,Dryden @ Mineah | Rt 13 @ Mineah | Dryden Rd @ Min
+4362,Main@RR Groton,127,3,160,Main@RR Groton | Groton@Railroad | Main @ Railroad
+1367,Triphammer @ Ir,116,3,130,Triphammer @ Ir | Triphamr@Irqois | Tripham @ Iroq
+1315,Highland@Wyck,90,3,119,Highland@Wyck | Highland@Wyckof | Highland @ Wyck
+1772,E Hill Office,91,3,106,E Hill Office | EHOB | East Hill Offic
+4707,Dryden @ Ylw Br,85,3,100,Dryden @ Ylw Br | Rt13@Yellowbarn | Dryden Rd @ Yel
+2583,Jacksonville PO,87,3,93,Jacksonville PO | Jacksonville Po | JacksonviPostOf
+6351,Danby TH P+R,80,3,87,Danby TH P+R | DanbyTownHall | Danby Town Hall
+4517,1062 Dryden Rd,42,3,74,1062 Dryden Rd | 1061 Dryden Roa | Pineridge Apts
+1373,Triphammer @ No,66,3,68,Triphammer @ No | Tripham @ Nway | Triphamr@Nrthwy
+786,TBurg @ Hopkins,48,3,53,TBurg @ Hopkins | Tburg@Hopkins | Trumansburg Rd
+4568,Lower Crk @ Etn,25,3,29,Lower Crk @ Etn | Etna Post Offic | Lower Creek @ E
+6322,Danby @ King,19,3,21,Danby @ King | Danby Rd @ King | DanbyRd @ King
+1525,Rockefeller Hal,81315,2,89632,Rockefeller Hal | Rockefeller Hl
+1326,Risley Hall - S,71979,2,78892,Risley Hall - S | Risley-Shelter
+3588,Ithaca Mall,66649,2,68109,Ithaca Mall | The Shops at It
+1531,Carpenter Hall,64534,2,64932,Carpenter Hall | Carpenter
+1540,Uris Hall Acros,52975,2,59305,Uris Hall Acros | UrisHallAcross
+1542,Kennedy Hall,56266,2,56506,Kennedy Hall | Kennedy
+1703,State/MLK @ Qua,43143,2,47123,State/MLK @ Qua | State@Quarry
+1533,Statler Hall,43431,2,43688,Statler Hall | Statler
+1356,Jessup @ Tripha,36531,2,39359,Jessup @ Tripha | Jessup@Trphamr
+1701,State/MLK @ Ste,29280,2,31898,State/MLK @ Ste | State@Stewart
+549,WalMart,23403,2,25947,WalMart | Walmart
+1511,Boldt Hall,23610,2,23712,Boldt Hall | Boldt
+3593,Tops Supermarke,18365,2,20291,Tops Supermarke | Tops Lansing
+3525,Lansing West Ap,17529,2,19383,Lansing West Ap | LansingWestApts
+1711,College @ Mitch,17791,2,19282,College @ Mitch | College@Mitchel
+112,Albany at Salva,17647,2,19100,Albany at Salva | Albany@SalvArmy
+1113,University @ La,16429,2,18541,University @ La | University@Lake
+1349,Hasbrouck Apts,14208,2,15805,Hasbrouck Apts | HasbrouckApts
+1325,Thurston at Bal,13135,2,14152,Thurston at Bal | Thurston@Balch
+1342,Northcross @ Je,8763,2,9736,Northcross @ Je | Northcrs@Jessup
+1355,Jessup @ Tripha,8709,2,9484,Jessup @ Tripha | Jessup@Trphamr
+1111,University @ Co,8052,2,8952,University @ Co | Univ@CornellAv
+1358,Triphammer @ De,7540,2,8277,Triphammer @ De | Trphamr@Dearbrn
+1332,McClintock Hall,7476,2,8164,McClintock Hall | McClintHall
+337,Ithaca College,6243,2,6609,Ithaca College | IC-Garden Apts
+3560,Warrenwood Apts,5624,2,6327,Warrenwood Apts | Uptwn@WarrenwAp
+1545,Bradfield Hall,5158,2,5678,Bradfield Hall | BradfieldHal-Ac
+1704,State/MLK @ Qua,5003,2,5494,State/MLK @ Qua | State@Quarry
+561,Elmira @ Meadow,4775,2,5172,Elmira @ Meadow | Elmira@Meadow
+3579,Cayuga Mall,4203,2,4600,Cayuga Mall | Trphamr@CayuMal
+1713,Mitchell @ Coll,4026,2,4536,Mitchell @ Coll | Mitchel@College
+372,College Circle,4272,2,4501,College Circle | Coll Cir N Ent
+1360,Triphammer @ Co,3867,2,4315,Triphammer @ Co | Triphamr@CntryC
+1751,Humphreys Servi,3705,2,4161,Humphreys Servi | HumphrySvceBldg
+1752,Humphreys Servi,3690,2,4078,Humphreys Servi | HumphrySvceBldg
+373,College Circle,3162,2,3985,College Circle | CCA-Community
+679,State/MLK at In,3650,2,3954,State/MLK at In | State@Inlet Isl
+1702,State/MLK @ Ste,3508,2,3916,State/MLK @ Ste | State@Stewart
+3522,Triphammer at K,3486,2,3757,Triphammer at K | Trphmr@Kendal
+351,Ithaca College,3427,2,3663,Ithaca College | IC-Terrace Apts
+3744,Warren @ Northw,3552,2,3591,Warren @ Northw | Warren@Northwo
+1710,College @ Mitch,3098,2,3542,College @ Mitch | College@Mitchel
+545,South Meadow Ma,3055,2,3386,South Meadow Ma | S Meadow Mkt
+110,Geneva @ State/,2923,2,3255,Geneva @ State/ | Geneva @ State
+1721,Stewart @ Senec,2960,2,3226,Stewart @ Senec | Stewart@Seneca
+1725,Stewart @ Willi,2927,2,3219,Stewart @ Willi | Stewart@William
+1712,Mitchell @ Coll,2790,2,3120,Mitchell @ Coll | Mitchel@College
+3556,Gaslight Villag,2680,2,3068,Gaslight Villag | GasltVillagApts
+736,Linderman Creek,2846,2,3052,Linderman Creek | LindermanCrkApt
+1726,Stewart @ Willi,2707,2,3000,Stewart @ Willi | Stewart@William
+3548,Cinema @ Sherat,2644,2,2976,Cinema @ Sherat | Cinema@Sheraton
+1316,Highland @ Lake,2560,2,2838,Highland @ Lake | Highlnd@Lakelnd
+1327,Cradit Farm @ T,2537,2,2795,Cradit Farm @ T | Cradit@Thurston
+2543,Cayuga Meadows,2414,2,2671,Cayuga Meadows | CayugaMeadows
+338,Ithaca College,2435,2,2591,Ithaca College | IC-Garden Apts
+376,College Circle,2175,2,2418,College Circle | CollCir-North
+3524,Sheraton @ Trip,2106,2,2326,Sheraton @ Trip | Sheraton@Tripha
+3526,Triphammer Mark,2092,2,2304,Triphammer Mark | Triphammer Mrlt
+709,Chestnut @ Elm,2104,2,2304,Chestnut @ Elm | Chstnt@Elm
+3745,Northwood Apts,1573,2,2284,Northwood Apts | Northwoods Apts
+1722,Stewart @ Senec,1904,2,2094,Stewart @ Senec | Stewart@Seneca
+3516,Triphammer @ Sp,1907,2,2077,Triphammer @ Sp | Tripham@Spruce
+737,Linderman Creek,1874,2,2051,Linderman Creek | LindermanCrkApt
+3553,Uptown Village,1764,2,1981,Uptown Village | UptownVillApt
+559,Meadow at Ithac,1793,2,1946,Meadow at Ithac | Medow@IthShopPl
+4510,Dryden Rd @ For,1696,2,1862,Dryden Rd @ For | Dryd@ForestHome
+3951,Hanshaw Village,1630,2,1803,Hanshaw Village | HanshaVillage
+2628,Main @ Washingt,1600,2,1758,Main @ Washingt | Main@Washington
+1328,Cradit Farm @ B,1634,2,1705,Cradit Farm @ B | Balch-CraditFrm
+527,215 Elmira Rd -,1428,2,1571,215 Elmira Rd - | 215Elmira-Pudgi
+1564,Campus @ Judd F,1439,2,1544,Campus @ Judd F | Campus@JuddFall
+3762,Village Solars,1345,2,1510,Village Solars | VillageSolarS
+1746,Ithaca @ Elmwoo,1338,2,1478,Ithaca @ Elmwoo | Ithaca@Elmwood
+5552,Skyvue @ Snyder,1313,2,1393,Skyvue @ Snyder | Skyvue@SnyHill
+3520,Triphammer @ Wi,1142,2,1378,Triphammer @ Wi | Triphmr@Winthro
+1357,Triphammer @ Je,1240,2,1346,Triphammer @ Je | Trphamr@Jessup
+314,Hudson @ Columb,1236,2,1331,Hudson @ Columb | Hudson@Columbia
+673,Buffalo @ Fulto,1149,2,1265,Buffalo @ Fulto | Buffalo@Fulton
+941,Cayuga Park Ln,1176,2,1232,Cayuga Park Ln | Cayuga Park @ 3
+669,State/MLK @ Inl,1090,2,1193,State/MLK @ Inl | State@InletIsln
+6713,Elmira Rd @ 7 M,1152,2,1173,Elmira Rd @ 7 M | Elmira @ 7 Mile
+4506,Dryden Rd @ Gam,1095,2,1153,Dryden Rd @ Gam | Dryden@GameFarm
+676,Buffalo @ Taugh,1078,2,1152,Buffalo @ Taugh | Buffalo@Taughan
+2627,Main @ Washingt,997,2,1106,Main @ Washingt | Main@Washington
+135,Green @ Fayette,1000,2,1063,Green @ Fayette | Green@Fayette
+352,Ithaca College,1009,2,1056,Ithaca College | IC-Terrace Apts
+4387,Cortland St @ C,880,2,969,Cortland St @ C | Cortland_Cayuga
+5536,Honness at Itha,878,2,961,Honness at Itha | Honnss@IthRecWa
+663,State/MLK @ Mea,866,2,944,State/MLK @ Mea | State@Meadow
+668,State @ Fulton,871,2,942,State @ Fulton | StateFulton
+906,Cayuga @ Tompki,845,2,939,Cayuga @ Tompki | Cayuga@Tompkins
+564,Elmira Rd @ Wal,827,2,923,Elmira Rd @ Wal | Elmira @Walmart
+5719,Pine Tree @ Sla,805,2,919,Pine Tree @ Sla | PineTree@Sltrvl
+328,Hudson @ Coddin,840,2,914,Hudson @ Coddin | Hudson@Coddingt
+6515,West Danby Rd @,821,2,899,West Danby Rd @ | WDanby@Melody
+1747,Ithaca @ Elmwoo,781,2,867,Ithaca @ Elmwoo | Ithaca@Elmwood
+3728,Warren at Warre,803,2,861,Warren at Warre | Warr@WarrWoodAp
+5531,Pine Tree @ Hon,689,2,840,Pine Tree @ Hon | Pine Tr@Honness
+672,Seneca @ Fulton,759,2,839,Seneca @ Fulton | Seneca@Fulton
+4516,Dryden Rd @ Fre,714,2,828,Dryden Rd @ Fre | Dryden@Freese
+6789,Elmira Rd @ Mai,721,2,824,Elmira Rd @ Mai | Elmra@Main
+329,Coddington at I,751,2,794,Coddington at I | Coddington@IC
+503,Clinton @ Fayet,716,2,789,Clinton @ Fayet | Clinton@Fayette
+5548,Snyder Hill @ H,739,2,782,Snyder Hill @ H | SnydrHl@Hungrfd
+128,State/MLK @ Pla,730,2,781,State/MLK @ Pla | State @ Plain
+705,Chestnut Hill A,764,2,779,Chestnut Hill A | ChestnutHilApts
+569,Elmira @ Spence,703,2,778,Elmira @ Spence | Elmira@Spencer
+107,Cayuga @ Buffal,660,2,686,Cayuga @ Buffal | Cayuga@Buffalo
+5796,Boiceville Cott,598,2,679,Boiceville Cott | BoiceviCottages
+913,Lincoln @ Cayug,588,2,671,Lincoln @ Cayug | Lincoln@Cayuga
+2624,Main @ South (T,614,2,658,Main @ South (T | Main@South
+327,Coddington @ Hu,598,2,654,Coddington @ Hu | Coddington@Huds
+3909,Salem @ Maplewo,597,2,646,Salem @ Maplewo | Salem@Maplewd
+2514,Trumansburg Rd,580,2,638,Trumansburg Rd | Tbrg@ Bundy
+661,Green @ Meadow,571,2,609,Green @ Meadow | Green@Meadow
+3523,Sheraton @ Trip,558,2,608,Sheraton @ Trip | Sheraton@Tripha
+1307,Thurston @ Bart,583,2,606,Thurston @ Bart | Thurston@Barton
+519,Plain @ Center,565,2,606,Plain @ Center | Plain@Center
+3521,Triphammer at K,571,2,601,Triphammer at K | Trphmr@Kendal
+3740,Warren @ Dart,517,2,596,Warren @ Dart | WarrenRd@DartDr
+348,Ithaca College,541,2,594,Ithaca College | IC-Butterfield
+3716,Hanshaw @ Black,531,2,593,Hanshaw @ Black | Hanshaw@Blackst
+900,Cayuga @ Cascad,510,2,577,Cayuga @ Cascad | Cayug@Cascadill
+940,Cayuga Park @ M,527,2,565,Cayuga Park @ M | Marketview Apt
+4518,1062 Dryden Rd,523,2,559,1062 Dryden Rd | Pineridge Apts
+3601,Triphammer @ Gr,429,2,532,Triphammer @ Gr | Tripr@Graham
+4755,North @ Brightd,441,2,530,North @ Brightd | North@Brightday
+1310,Highland @ Thur,478,2,522,Highland @ Thur | Highlnd@Thurstn
+113,Seneca @ Albany,463,2,502,Seneca @ Albany | Seneca@Albany
+2511,Candlewyck Park,419,2,480,Candlewyck Park | Tbrg@Candlewyck
+547,Fairgrounds Mem,442,2,476,Fairgrounds Mem | Fairgrnds@Lowes
+565,323 Elmira Rd -,444,2,476,323 Elmira Rd - | 323Elmira-Byrne
+313,Hudson @ Columb,424,2,473,Hudson @ Columb | Hudson@Columbia
+3932,Sapsucker Woods,410,2,455,Sapsucker Woods | SapsuWds@Hanshw
+1755,Dryden @ Pine T,392,2,444,Dryden @ Pine T | Dryden@Pine Tre
+4750,43 North St - V,406,2,444,43 North St - V | DrydnNorthVlero
+528,214 Elmira Rd -,403,2,435,214 Elmira Rd - | 214Elmira-Reuse
+570,Elmira @ Spence,392,2,431,Elmira @ Spence | Elmira@Spencer
+5710,Honness @ Slate,351,2,429,Honness @ Slate | Honness@Sltrvl
+3726,Dewitt Middle S,392,2,426,Dewitt Middle S | Dewitt MS
+4570,Etna Mills Apts,412,2,423,Etna Mills Apts | Main @ Etna Ln
+6714,Elmira Rd @ 7 M,382,2,412,Elmira Rd @ 7 M | Elmira @ 7 Mile
+6532,Newfield Depot,371,2,400,Newfield Depot | NewfldDep@ValMa
+4375,Groton Town Hal,361,2,399,Groton Town Hal | GrotonTownHall
+2623,Main @ South (T,384,2,398,Main @ South (T | Main@South
+5560,Eastern Heights,369,2,397,Eastern Heights | EastHts@Landmrk
+1535,Campus @ Gates,313,2,384,Campus @ Gates | Campus@Gates
+928,Third @ Cascadi,352,2,377,Third @ Cascadi | Third@Cascadlla
+127,State/MLK @ Pla,342,2,370,State/MLK @ Pla | State@Plain
+4716,Main @ Rocheste,348,2,370,Main @ Rocheste | Main@Rochester
+520,Plain @ Center,342,2,359,Plain @ Center | Plain@Center
+3515,Triphammer @ Te,326,2,356,Triphammer @ Te | Tripham@Texas
+5549,Snyder Hill @ D,338,2,356,Snyder Hill @ D | SnyderHill@Dove
+2615,E Main @ Cemete,285,2,349,E Main @ Cemete | EMain@Cemetary
+4773,Poets Landing A,304,2,347,Poets Landing A | PoetsLndgApts
+1756,Dryden @ Synchr,313,2,338,Dryden @ Synchr | Dryden@Synchrot
+1309,Thurston @ High,323,2,335,Thurston @ High | Thrstn@Highland
+5712,Slaterville Rd,266,2,328,Slaterville Rd | Sltrvil@TwrView
+3906,Hanshaw @ Salem,303,2,323,Hanshaw @ Salem | Hanshaw@Salem
+6519,West Danby Rd @,290,2,322,West Danby Rd @ | WDanby@ShltrVal
+3559,Warrenwood Apts,292,2,321,Warrenwood Apts | Uptwn@WarrenwAp
+5746,Slaterville Rd,299,2,320,Slaterville Rd | Sltrvl@Lounsbry
+3794,20 Thornwood Dr,296,2,313,20 Thornwood Dr | 20 Thornwood
+2550,Trumansburg Rd,292,2,309,Trumansburg Rd | Tbrg@CayMedCtr
+330,Coddington at I,278,2,308,Coddington at I | Coddington@IC
+504,Clinton @ Fayet,270,2,302,Clinton @ Fayet | Clinton@Fayette
+3900,Warren @ Hansha,277,2,300,Warren @ Hansha | Warren@Hanshaw
+703,Chestnut @ Sunr,283,2,297,Chestnut @ Sunr | Chestnt@Sunrise
+4715,Main @ Rocheste,273,2,291,Main @ Rocheste | Main@Rochester
+6367,South Danby Par,275,2,289,South Danby Par | SDanbyParkRide
+4528,Dryden Rd @ Bak,261,2,284,Dryden Rd @ Bak | Dryden@BakerHil
+5559,Eastern Heights,257,2,279,Eastern Heights | EastrnHts@Sharl
+1329,Helen Newman Ha,238,2,277,Helen Newman Ha | HelenNewmanHall
+4756,North @ Brightd,237,2,273,North @ Brightd | North@Brightday
+4752,North @ Freevil,241,2,265,North @ Freevil | North@Freeville
+567,359 Elmira Rd -,243,2,264,359 Elmira Rd - | 359Elmira-Frfld
+4511,Varna Auto,251,2,259,Varna Auto | 933 Dryden Rd -
+2533,1229 Trumansbur,239,2,254,1229 Trumansbur | Tbrg@CayuRidge
+562,Meadow @ Elmira,240,2,252,Meadow @ Elmira | Meadow@Elmira
+1362,Triphammer @ Oa,228,2,250,Triphammer @ Oa | Trip@OakHill
+3519,Triphammer @ Wi,191,2,242,Triphammer @ Wi | Triphmr@Winthro
+108,Cayuga @ Buffal,222,2,240,Cayuga @ Buffal | Cayuga@Buffalo
+1331,McClintock Hall,214,2,239,McClintock Hall | McClintHall Acr
+4522,Dryden Rd @ Tur,211,2,234,Dryden Rd @ Tur | Dryd@Trky Hill
+4749,36 North St - D,210,2,233,36 North St - D | DrydnNorthDunkn
+3784,Culligan @ Brow,212,2,231,Culligan @ Brow | Culligan@Brown
+4326,Rte38 @ Main (F,168,2,228,Rte38 @ Main (F | Rte38@Main
+1301,Thurston @ Stew,215,2,225,Thurston @ Stew | Thurston@Stewar
+3904,Muriel @ Hansha,201,2,222,Muriel @ Hansha | Muriel@Hanshaw
+4540,Dryden Rd @ Mai,205,2,219,Dryden Rd @ Mai | Rt 13@Rt 366
+2330,Enfield Element,197,2,217,Enfield Element | EnfieldElemntry
+6511,West Danby Rd @,140,2,210,West Danby Rd @ | WDanby @ Decker
+1556,Vet Medical Cen,192,2,209,Vet Medical Cen | Vet Med Center
+1361,Triphammer @ Co,188,2,206,Triphammer @ Co | Triphamr@CntryC
+2324,Mecklenburg Rd,178,2,206,Mecklenburg Rd | Mcklbrg@Aplgate
+5538,Snyder Hill @ P,204,2,206,Snyder Hill @ P | SnyderHill@Trai
+2564,Trumansburg Rd,192,2,205,Trumansburg Rd | Tbrg@Woolf
+6524,Newfield Depot,183,2,204,Newfield Depot | NewflDep@WDanby
+3921,Rose Hill @ Mur,179,2,202,Rose Hill @ Mur | RoseHill@Muriel
+2339,Enfield Highway,189,2,201,Enfield Highway | Enfield HiwyDep
+2616,E Main @ Cemete,193,2,200,E Main @ Cemete | EMain@Cemetery
+3911,Salem @ Birchwo,182,2,200,Salem @ Birchwo | Salem@Birchwood
+1129,Lake St at Boyn,179,2,198,Lake St at Boyn | LakeSt@Boynton
+2329,Enfield Element,174,2,198,Enfield Element | EnfieldElemntry
+6337,Danby Rd @ Muzz,178,2,194,Danby Rd @ Muzz | DanbyRd@Muzzy
+2326,Mecklenburg Rd,173,2,191,Mecklenburg Rd | Mcklbrg@SndyCrk
+3902,Hanshaw @ Warre,183,2,190,Hanshaw @ Warre | Hanshaw@Warren
+1323,Risley Hall - F,179,2,189,Risley Hall - F | Risley-Front
+318,Hudson at South,179,2,189,Hudson at South | SouthHillSchool
+911,Cayuga @ Lincol,177,2,185,Cayuga @ Lincol | Cayuga@Lincoln
+953,Hancock @ First,158,2,184,Hancock @ First | Hancock@First
+2547,Museum of the E,120,2,182,Museum of the E | Museum of Earth
+5561,Eastern Heights,156,2,179,Eastern Heights | EastrnHts@Joann
+3119,East Shore Dr @,157,2,174,East Shore Dr @ | EShore@Asbury
+5779,Brooktondale Rd,148,2,173,Brooktondale Rd | BdaleRd@Besem
+2325,Mecklenburg Rd,150,2,171,Mecklenburg Rd | Mcklbrg@SndyCrk
+6767,Newfield Depot,146,2,171,Newfield Depot | NwfldDepot@Mill
+3781,Thornwood @ Bro,156,2,170,Thornwood @ Bro | Thornwd@Brown
+3547,Cinema @ Sherat,154,2,163,Cinema @ Sherat | Cinema@Sheraton
+3783,Brown @ Culliga,134,2,162,Brown @ Culliga | Brown@Culligan
+4515,Dryden Rd @ Mt,149,2,160,Dryden Rd @ Mt | Dryden@MtPlsnt
+5545,Regency @ Snyde,152,2,160,Regency @ Snyde | Rgncy@SnydrHil
+710,Chestnut @ Hook,151,2,160,Chestnut @ Hook | Chestnut@Hook
+5794,Boiceville @ Va,149,2,158,Boiceville @ Va | Boiceville@Vall
+1557,Vet Medical Cen,145,2,155,Vet Medical Cen | Vet Med Center
+731,Hector @ Warren,147,2,154,Hector @ Warren | Hector@WarrenPl
+729,Warren Pl @ Hec,77,2,153,Warren Pl @ Hec | WarrenPl@Hector
+780,Cliff @ Vinegar,130,2,149,Cliff @ Vinegar | Clif@VinegarHil
+4359,South @ Main (G,123,2,142,South @ Main (G | South @ Main
+317,Hudson at South,128,2,141,Hudson at South | SouthHillSchool
+5785,Brooktondale St,128,2,140,Brooktondale St | Brktndale Store
+2560,Trumansburg Rd,128,2,139,Trumansburg Rd | Tbrg@Dubois
+3917,Winston @ Rose,118,2,137,Winston @ Rose | Winston@RoseHil
+2574,Trumansburg Rd,133,2,136,Trumansburg Rd | Tbrg@KrumsCor
+5525,318 Pine Tree -,129,2,135,318 Pine Tree - | PinTre@EquesCtr
+3116,East Shore Dr @,114,2,134,East Shore Dr @ | EShore@Waterwag
+2319,Mecklenburg Rd,116,2,132,Mecklenburg Rd | Mcklbrg@VanDorn
+903,Cascadilla @ Ca,113,2,130,Cascadilla @ Ca | Cascadil@Cayug
+3154,Lansing MS,108,2,128,Lansing MS | Lansing Middle
+5542,Snyder Hill @ S,121,2,123,Snyder Hill @ S | SnydrHil@Sugarb
+6329,Danby Rd @ Comf,115,2,122,Danby Rd @ Comf | DanbyRd@Comfort
+3722,Warren @ Christ,103,2,112,Warren @ Christ | WarrenRd@Chris
+4509,Dryden Rd @ For,96,2,112,Dryden Rd @ For | Dryd@ForestHome
+2534,1229 Trumansbur,108,2,110,1229 Trumansbur | Tbrg@CayuRidge
+4356,Peru Rd @ Hamil,101,2,110,Peru Rd @ Hamil | Peru @ Hamilton
+4737,Lake @ Kimberly,99,2,110,Lake @ Kimberly | LakeRd@KmbrlyDr
+2611,Trumansburg Rd,99,2,109,Trumansburg Rd | Tbrg ShrSav
+1317,Highland @ Lake,101,2,107,Highland @ Lake | Highlnd@Lakelnd
+722,Warren Pl @ Hoo,87,2,107,Warren Pl @ Hoo | WarrenPl@Hook
+3763,Village Solars,103,2,106,Village Solars | VillageSolarS
+6343,Danby Rd @ Mill,102,2,104,Danby Rd @ Mill | DanbyRd@Miller
+706,Chestnut Hill A,97,2,103,Chestnut Hill A | ChestnutHilApts
+927,Cascadilla @ Th,94,2,101,Cascadilla @ Th | Cascadlla@Third
+115,State/MLK @ Alb,93,2,100,State/MLK @ Alb | State @ Albany
+1378,Northway @ The,91,2,100,Northway @ The | Nrthway@Parkway
+4710,Dryden Rd @ Geo,84,2,99,Dryden Rd @ Geo | Rt13@George
+3313,Triphammer @ As,90,2,96,Triphammer @ As | Trip@Asbury
+6357,Danby Rd @ Mich,93,2,96,Danby Rd @ Mich | Danby@MichgnHol
+4355,Peru Rd @ Hamil,94,2,95,Peru Rd @ Hamil | Peru @ Hamilton
+1363,Triphammer @ Oa,72,2,93,Triphammer @ Oa | Trip@OakHill
+3749,Tompkins County,77,2,92,Tompkins County | TomCtyJail
+5526,318 Pine Tree -,80,2,87,318 Pine Tree - | PinTre@EquesCtr
+1311,Highland @ Thur,83,2,86,Highland @ Thur | Highlnd@Thurstn
+1130,Lake St at Boyn,81,2,84,Lake St at Boyn | LakeSt@Boynton
+3919,Rose Hill @ Tar,72,2,84,Rose Hill @ Tar | RoseH@Tarytn
+1376,The Parkway @ U,70,2,83,The Parkway @ U | Parkway@Upland
+2612,Trumansburg Rd,75,2,83,Trumansburg Rd | Tbrg Kinney
+3316,Triphammer @ Pe,61,2,77,Triphammer @ Pe | Triphamr@Peruvi
+726,Warren Pl @ Sun,68,2,77,Warren Pl @ Sun | WarrenPl@Snrise
+768,Campbell @ Hect,64,2,77,Campbell @ Hect | Campbl@Hector
+3314,Triphammer @ As,73,2,75,Triphammer @ As | Trphamr@Asbury
+3937,Lab of Ornith,74,2,75,Lab of Ornith | Lab of Ornithol
+4776,Dryden Central,59,2,74,Dryden Central | DrydenCntrlSchl
+901,Cayuga @ Cascad,66,2,74,Cayuga @ Cascad | Cayug@Cascadill
+4527,Dryden Rd @ Bak,65,2,72,Dryden Rd @ Bak | Dryden@BakerHil
+4732,Dryden Harford,47,2,70,Dryden Harford | 38@BeamHill
+4539,Main St @ Dryde,63,2,68,Main St @ Dryde | Rt 366 @ Rt 13
+5541,Snyder Hill @ S,59,2,68,Snyder Hill @ S | SnydrHil@Sugarb
+2568,Trumansburg Rd,61,2,66,Trumansburg Rd | Tbrg@Iradell
+5546,Snyder Hill @ R,59,2,64,Snyder Hill @ R | SnydrHil@Rgncy
+4336,Groton Rd @ Per,56,2,63,Groton Rd @ Per | Groton@Peruvill
+4714,W Main @ Hilton,57,2,63,W Main @ Hilton | WMain@Hltn
+568,366 Elmira Rd -,62,2,63,366 Elmira Rd - | 366Elmira-Spdwy
+2323,Mecklenburg Rd,52,2,61,Mecklenburg Rd | Mcklbrg@Aplgate
+4709,Dryden Rd @ Iri,49,2,60,Dryden Rd @ Iri | Rt13@IrishStlmt
+2315,Mecklenburg Rd,58,2,59,Mecklenburg Rd | Mcklbrg@Shefld
+3947,Guthrie Ithaca,54,2,59,Guthrie Ithaca | Guthrie
+3555,Gaslight Villag,51,2,58,Gaslight Villag | GasltVillagApts
+5734,Slater @ BDale,56,2,58,Slater @ BDale | Slaterville Rd
+4360,Main @ South (G,53,2,57,Main @ South (G | Main @ South
+3903,Hanshaw @ Murie,36,2,52,Hanshaw @ Murie | Hanshaw@Muriel
+5530,Honness @ Pine,43,2,52,Honness @ Pine | Honness@Pine Tr
+905,Tompkins @ Cayu,45,2,52,Tompkins @ Cayu | Tompkins@Cayuga
+2573,Trumansburg Rd,47,2,49,Trumansburg Rd | Tbrg@KrumsCor
+3727,Warren at Warre,42,2,49,Warren at Warre | Warr@WarrWoodAp
+3554,Uptown Village,35,2,48,Uptown Village | UptownVillApt
+730,Warren Pl @ Hec,35,2,48,Warren Pl @ Hec | WarrenPl@Hector
+537,Cherry St @ Art,40,2,46,Cherry St @ Art | Cherry @ Arthau
+2337,Enfield Main Rd,40,2,45,Enfield Main Rd | EnfdMnRd@Bostwk
+2582,Trumansburg Rd,42,2,45,Trumansburg Rd | Tbrg@Colegrove
+538,Cecil Malone Dr,42,2,45,Cecil Malone Dr | Cecil @ Mary WB
+704,Chestnut @ Sunr,39,2,45,Chestnut @ Sunr | Chestnt@Sunrise
+5721,Slaterville Rd,31,2,44,Slaterville Rd | Rt79@ParkLn WB
+3741,Warren @ Dart,39,2,41,Warren @ Dart | WarrenRd@DartDr
+3725,Warren at BOCES,31,2,39,Warren at BOCES | Warren @ BOCES
+5729,Slaterville Rd,35,2,39,Slaterville Rd | Sltrvl@GermanCr
+5752,Slaterville Rd,36,2,38,Slaterville Rd | Sltrvl@Boicevil
+3782,Brown @ Thornwo,34,2,36,Brown @ Thornwo | Brown@Thornwd
+3901,Hanshaw @ Warre,30,2,35,Hanshaw @ Warre | Hanshaw@Warren
+2338,Enfield Main Rd,29,2,34,Enfield Main Rd | EnfdMnRd@Bostwk
+341,Main Entrnce IC,33,2,34,Main Entrnce IC | IC-MainEntrance
+5715,Slater @ Lois,31,2,34,Slater @ Lois | Sltrvl@Lois Ln
+5753,Slaterville Rd,29,2,34,Slaterville Rd | Sltrvl@Boicevil
+748,412 Hector St,29,2,30,412 Hector St | 412 Hector
+3747,Warren Rd Post,26,2,29,Warren Rd Post | Warren@Post Off
+733,Mecklenburg Rd,26,2,28,Mecklenburg Rd | Meckbrg@Conifer
+4335,Groton Rd @ Per,20,2,26,Groton Rd @ Per | Groton@Peruvill
+3721,Warren @ Christ,21,2,25,Warren @ Christ | WarrenRd@Chris
+3735,10 Brentwood Dr,22,2,25,10 Brentwood Dr | 10Brentwood
+4779,Freeville Rd @,24,2,25,Freeville Rd @ | Freeville@Lewis
+6368,South Danby Par,20,2,22,South Danby Par | SDanbyParkRide
+4728,South @ Ferguso,13,2,20,South @ Ferguso | South@Ferguson
+1708,State/MLK @ Gil,16,2,18,State/MLK @ Gil | State@Giles
+2559,Trumansburg Rd,12,2,15,Trumansburg Rd | Tbrg@Dubois
+1375,Parkway@Upland,9,2,14,Parkway@Upland | The Parkway @ U
+6711,Elmira Rd @ Fiv,13,2,14,Elmira Rd @ Fiv | Elmira@FiveMile
+744,Hector @ N Tayl,9,2,14,Hector @ N Tayl | Hector@Taylor
+779,Cliff @ Vinegar,12,2,13,Cliff @ Vinegar | Clif@VinegarHil
+1377,The Parkway @ N,11,2,12,The Parkway @ N | Parkway @ Nway
+3715,Hanshaw @ Black,10,2,11,Hanshaw @ Black | Hanshaw@Blackst
+5539,Snyder Hill @ P,9,2,11,Snyder Hill @ P | SnyderHill@Trai
+5736,BDale @ Slater,10,2,11,BDale @ Slater | BdaleRd@Sltrvl
+5744,Slaterville Rd,10,2,11,Slaterville Rd | Sltrvl@SnydrHil
+2320,Mecklenburg Rd,7,2,10,Mecklenburg Rd | Mcklbrg@VanDorn
+3115,East Shore Dr @,9,2,10,East Shore Dr @ | EShore@Waterwag
+773,Campbell @ Hopk,9,2,10,Campbell @ Hopk | Campbl@Hopkins
+785,TBurg @ Hopkins,7,2,9,TBurg @ Hopkins | Tburg@Hopkins
+1371,Northway @ Trip,3,2,6,Northway @ Trip | Northwy@Tripham
+721,Warren Pl @ Hoo,3,2,5,Warren Pl @ Hoo | WarrenPl@Hook
+747,413 Hector St,4,2,5,413 Hector St | 413 Hector
+2563,Tbrg@Woolf,2,2,3,Tbrg@Woolf | Trumansburg Rd
+745,Hector @ Fallvi,2,2,3,Hector @ Fallvi | Hector @ Fairvi
+4538,Dryden Rd @ Mai,1,2,2,Dryden Rd @ Mai | Rt 13@Rt 366
+1719,College @ Oak,95299,1,95299,College @ Oak
+1534,Sage Hall,94075,1,94075,Sage Hall
+1330,Appel Commons,70423,1,70423,Appel Commons
+103,Tioga @ Court,38445,1,38445,Tioga @ Court
+1546,Dairy Bar Acros,35732,1,35732,Dairy Bar Acros
+1541,Uris Hall,32136,1,32136,Uris Hall
+1547,Dairy Bar,22626,1,22626,Dairy Bar
+105,Court @ Linn,18982,1,18982,Court @ Linn
+1544,Bradfield Hall,16362,1,16362,Bradfield Hall
+1555,Vet School,15296,1,15296,Vet School
+998,TCAT Office,13744,1,13744,TCAT Office
+541,Wegmans,12761,1,12761,Wegmans
+1717,Oak @ College,8087,1,8087,Oak @ College
+1714,Catherine Commo,6381,1,6381,Catherine Commo
+1521,Milstein Hall,6331,1,6331,Milstein Hall
+3785,Airport,5423,1,5423,Airport
+2542,Overlook Apts,5270,1,5270,Overlook Apts
+535,Titus Towers,4838,1,4838,Titus Towers
+4783,TC3,4770,1,4770,TC3
+1562,Campus @ Tower,4766,1,4766,Campus @ Tower
+4365,Groton Speedway,3610,1,3610,Groton Speedway
+1520,Milstein Hall,3244,1,3244,Milstein Hall
+3587,Graham@Butler,2824,1,2824,Graham@Butler
+374,College Circle,2814,1,2814,College Circle
+1122,Lake @ Lincoln,2759,1,2759,Lake @ Lincoln
+543,HomeGoods,2623,1,2623,HomeGoods
+4512,Varna,2313,1,2313,Varna
+134,McGraw House,2002,1,2002,McGraw House
+1549,Garden@Tower,1770,1,1770,Garden@Tower
+523,Plain @ Wood,1552,1,1552,Plain @ Wood
+738,Conifer Village,1546,1,1546,Conifer Village
+2671,Compass MHC,1437,1,1437,Compass MHC
+6779,Main @ Bridge,1151,1,1151,Main @ Bridge
+551,Walmart South E,1147,1,1147,Walmart South E
+1770,CISER,1144,1,1144,CISER
+801,Cass Park,958,1,958,Cass Park
+930,Third @ Hancock,924,1,924,Third @ Hancock
+1536,Hoy @ Hoy Field,911,1,911,Hoy @ Hoy Field
+531,Meadow @ Wood,847,1,847,Meadow @ Wood
+532,Meadow @ Wood,779,1,779,Meadow @ Wood
+3584,YMCA,721,1,721,YMCA
+929,Third @ Hancock,696,1,696,Third @ Hancock
+1119,Auden Ithaca,585,1,585,Auden Ithaca
+512,Clinton @ Corn,528,1,528,Clinton @ Corn
+365,Longview,525,1,525,Longview
+4554,Creekwood Apts,502,1,502,Creekwood Apts
+4751,North @ Lee,499,1,499,North @ Lee
+4787,TC3 Dorms,483,1,483,TC3 Dorms
+1123,Falls @ Lake,450,1,450,Falls @ Lake
+133,McGraw House,390,1,390,McGraw House
+4553,Creekwood Apts,385,1,385,Creekwood Apts
+934,Third @ Adams,359,1,359,Third @ Adams
+6781,Main @ Pearl,342,1,342,Main @ Pearl
+3306,Asbury @ Warren,336,1,336,Asbury @ Warren
+2309,EcoVillage,330,1,330,EcoVillage
+4724,South @ Union,301,1,301,South @ Union
+2961,Taugh Park,279,1,279,Taugh Park
+3790,Langmuir Lab,268,1,268,Langmuir Lab
+368,Terrace Apts So,266,1,266,Terrace Apts So
+3750,Borg Warner,261,1,261,Borg Warner
+369,Danby @ Vista,260,1,260,Danby @ Vista
+3586,Butler@Graham,242,1,242,Butler@Graham
+573,Butter Falls,228,1,228,Butter Falls
+5540,Tower View @ Sl,218,1,218,Tower View @ Sl
+2641,Juniper Manor,213,1,213,Juniper Manor
+3748,Warren @ Bomax,193,1,193,Warren @ Bomax
+3550,Uptown @ Cinema,187,1,187,Uptown @ Cinema
+3923,128 Muriel St,173,1,173,128 Muriel St
+918,Dey @ Lincoln,171,1,171,Dey @ Lincoln
+6349,Danby Fire Stat,168,1,168,Danby Fire Stat
+4735,Keith @ Lake,167,1,167,Keith @ Lake
+358,Aurora @ Outloo,161,1,161,Aurora @ Outloo
+925,Tioga @ Falls,159,1,159,Tioga @ Falls
+117,Seneca @ Corn,138,1,138,Seneca @ Corn
+751,Elm Street @ El,136,1,136,Elm Street @ El
+732,Mecklenburg Rd,129,1,129,Mecklenburg Rd
+5547,Joanne @ Easter,128,1,128,Joanne @ Easter
+734,Hector @ Warren,126,1,126,Hector @ Warren
+524,Plain @ Wood,122,1,122,Plain @ Wood
+718,Haller @ Elm,117,1,117,Haller @ Elm
+4567,Upper Creek @ E,109,1,109,Upper Creek @ E
+720,Hook @ Haller,105,1,105,Hook @ Haller
+3954,Guthrie Hanshaw,102,1,102,Guthrie Hanshaw
+4561,Etna Rd @ Pinck,101,1,101,Etna Rd @ Pinck
+356,Aurora @ Hillvi,80,1,80,Aurora @ Hillvi
+5543,Park Ln @ Tudor,80,1,80,Park Ln @ Tudor
+4312,Freeville Rd at,76,1,76,Freeville Rd at
+755,Westhaven Road,74,1,74,Westhaven Road
+757,Westhaven Road,65,1,65,Westhaven Road
+3549,Cinema @ Uptown,63,1,63,Cinema @ Uptown
+1769,CISER,62,1,62,CISER
+6787,Main @ Vankirk,61,1,61,Main @ Vankirk
+4562,Etna @ Pinckney,56,1,56,Etna @ Pinckney
+5534,Grandview Park,52,1,52,Grandview Park
+3759,Warren @ Farrel,42,1,42,Warren @ Farrel
+1137,East Shore @ Ja,41,1,41,East Shore @ Ja
+767,Campbell @ Hect,38,1,38,Campbell @ Hect
+3309,Asbury @ Armstr,37,1,37,Asbury @ Armstr
+3315,Triphammer @ Pe,36,1,36,Triphammer @ Pe
+5795,Boiceville Cott,36,1,36,Boiceville Cott
+754,Westhaven Road,34,1,34,Westhaven Road
+4550,Lower Creek @ P,32,1,32,Lower Creek @ P
+571,Elmira @ Butter,31,1,31,Elmira @ Butter
+4505,Dryden Rd @ Gam,30,1,30,Dryden Rd @ Gam
+6717,Elmira Rd @ Enf,29,1,29,Elmira Rd @ Enf
+2316,Mecklenburg Rd,28,1,28,Mecklenburg Rd
+2549,Biggs Memorial,26,1,26,Biggs Memorial
+4723,South @ Union,26,1,26,South @ Union
+3120,East Shore Dr @,24,1,24,East Shore Dr @
+5722,Slaterville Rd,24,1,24,Slaterville Rd
+5788,BDale P+R,22,1,22,BDale P+R
+2934,Cayuga Nat Ctr,21,1,21,Cayuga Nat Ctr
+6718,Elmira Rd @ Enf,20,1,20,Elmira Rd @ Enf
+805,Ithaca Children,20,1,20,Ithaca Children
+4325,Rte 38 @ Fall C,16,1,16,Rte 38 @ Fall C
+926,Falls @ Tioga,16,1,16,Falls @ Tioga
+954,Hancock @ First,16,1,16,Hancock @ First
+4572,Lower Creek @ C,15,1,15,Lower Creek @ C
+753,Westhaven Road,15,1,15,Westhaven Road
+4569,Etna Mills Apts,14,1,14,Etna Mills Apts
+539,Cecil Malone Dr,14,1,14,Cecil Malone Dr
+4565,Etna Rd @ Wood,13,1,13,Etna Rd @ Wood
+6721,Elmira Rd @ Enf,13,1,13,Elmira Rd @ Enf
+804,Ithaca Children,13,1,13,Ithaca Children
+774,Campbell @ Hopk,12,1,12,Campbell @ Hopk
+719,Haller @ Hook,11,1,11,Haller @ Hook
+1121,Lake @ Falls,10,1,10,Lake @ Falls
+6350,Danby Fire Stat,10,1,10,Danby Fire Stat
+1709,State/MLK @ Cor,9,1,9,State/MLK @ Cor
+3312,Asbury @ Tripha,9,1,9,Asbury @ Tripha
+3752,Warren @ Dutch,9,1,9,Warren @ Dutch
+5786,Brooktondale St,9,1,9,Brooktondale St
+4780,Freeville Rd @,8,1,8,Freeville Rd @
+5742,Slaterville Rd,8,1,8,Slaterville Rd
+6352,Danby TH P+R,8,1,8,Danby TH P+R
+6353,Danby Rd @ Bald,8,1,8,Danby Rd @ Bald
+6363,Danby Rd @ Stea,8,1,8,Danby Rd @ Stea
+725,Warren Pl @ Sun,8,1,8,Warren Pl @ Sun
+756,Westhaven Road,8,1,8,Westhaven Road
+914,Lincoln @ Cayug,8,1,8,Lincoln @ Cayug
+3605,Triphammer @ Cr,7,1,7,Triphammer @ Cr
+3931,Hanshaw @ Sapsu,7,1,7,Hanshaw @ Sapsu
+1145,Stewart Park 22,6,1,6,Stewart Park 22
+3760,Warren @ Farrel,6,1,6,Warren @ Farrel
+5718,Slaterville @ P,6,1,6,Slaterville @ P
+572,Elmira @ Butter,6,1,6,Elmira @ Butter
+750,Elm Street @ Ha,6,1,6,Elm Street @ Ha
+752,Westhaven Road,6,1,6,Westhaven Road
+1124,Falls @ Lake,5,1,5,Falls @ Lake
+1138,East Shore @ Ja,5,1,5,East Shore @ Ja
+2670,Seneca @ Main (,5,1,5,Seneca @ Main (
+355,Aurora @ Hillvi,5,1,5,Aurora @ Hillvi
+4311,Freeville Rd at,5,1,5,Freeville Rd at
+4521,Dryden Rd @ Tur,5,1,5,Dryden Rd @ Tur
+6712,Elmira Rd @ Fiv,5,1,5,Elmira Rd @ Fiv
+717,Haller @ Elm,5,1,5,Haller @ Elm
+932,Hancock @ Third,5,1,5,Hancock @ Third
+1120,Auden Ithaca,4,1,4,Auden Ithaca
+1757,Pine Tree Rd @,4,1,4,Pine Tree Rd @
+2669,Main @ Seneca (,4,1,4,Main @ Seneca (
+3111,EShore@Burd Hil,4,1,4,EShore@Burd Hil
+4316,Railroad @ Cook,4,1,4,Railroad @ Cook
+5730,Slaterville Rd,4,1,4,Slaterville Rd
+6338,Danby Rd @ Muzz,4,1,4,Danby Rd @ Muzz
+4361,Main@RR Groton,3,1,3,Main@RR Groton
+4734,Rt 38 @ Keith,3,1,3,Rt 38 @ Keith
+5711,Rt79 @ Tower Vi,3,1,3,Rt79 @ Tower Vi
+5737,Slaterville Rd,3,1,3,Slaterville Rd
+6358,Danby Rd @ Mich,3,1,3,Danby Rd @ Mich
+1351,A Lot-UpperStop,2,1,2,A Lot-UpperStop
+1758,Pine Tree Rd @,2,1,2,Pine Tree Rd @
+2567,Trumansburg Rd,2,1,2,Trumansburg Rd
+2577,Trumansburg Rd,2,1,2,Trumansburg Rd
+2578,Trumansburg Rd,2,1,2,Trumansburg Rd
+2581,Trumansburg Rd,2,1,2,Trumansburg Rd
+2933,RT89 @ Cayuga N,2,1,2,RT89 @ Cayuga N
+2972,Taugh Overlook,2,1,2,Taugh Overlook
+3305,Warren @ Asbury,2,1,2,Warren @ Asbury
+5532,Pine Tree @ Hon,2,1,2,Pine Tree @ Hon
+5708,Slaterville Rd,2,1,2,Slaterville Rd
+5733,Sltrvl@BdaleRd,2,1,2,Sltrvl@BdaleRd
+6330,Danby Rd @ Comf,2,1,2,Danby Rd @ Comf
+920,Lincoln @ Dey,2,1,2,Lincoln @ Dey
+3140,East Shore Dr @,1,1,1,East Shore Dr @
+3613,Triphammer @ Tr,1,1,1,Triphammer @ Tr
+3614,Triphammer @ Wa,1,1,1,Triphammer @ Wa
+3743,Warren @ Northw,1,1,1,Warren @ Northw
+3905,Hanshaw @ Salem,1,1,1,Hanshaw @ Salem
+3908,Hanshaw@Muriel,1,1,1,Hanshaw@Muriel
+4352,Groton High Sch,1,1,1,Groton High Sch
+4537,Main St @ Dryde,1,1,1,Main St @ Dryde
+4713,W Main @ Hilton,1,1,1,W Main @ Hilton
+536,Cherry St. @ Ar,1,1,1,Cherry St. @ Ar
+5707,Slaterville Rd,1,1,1,Slaterville Rd
+5720,Pine Tree @ Sla,1,1,1,Pine Tree @ Sla
+5738,Sltrvl@BsmrHill,1,1,1,Sltrvl@BsmrHill
+5754,Boiceville @ Sl,1,1,1,Boiceville @ Sl
+6344,Danby Rd @ Mill,1,1,1,Danby Rd @ Mill
+6364,Danby Rd @ Stea,1,1,1,Danby Rd @ Stea
+6720,Elmira Rd @ Enf,1,1,1,Elmira Rd @ Enf

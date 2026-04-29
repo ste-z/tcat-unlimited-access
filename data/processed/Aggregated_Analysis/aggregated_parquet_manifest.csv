@@ -1,0 +1,6 @@
+path,source_report,rows,columns,size_mb
+data/processed/Aggregated_Analysis/apc_by_hour.parquet,Hour,408,7,0.016
+data/processed/Aggregated_Analysis/apc_by_trip.parquet,Trip,8965,7,0.126
+data/processed/Aggregated_Analysis/apc_by_stop.parquet,Stop,1371,7,0.04
+data/processed/Aggregated_Analysis/apc_by_month.parquet,Month,314,7,0.014
+data/processed/Aggregated_Analysis/apc_by_dotw.parquet,DoTW,178,7,0.011

@@ -1,0 +1,33 @@
+description_clean,media_text_clean,expected_media_text,match_status,rows
+Cornell Card,Cornell,Cornell,matched,1759327
+,,,both_blank,783619
+Second Left Arrow 16,Cornell,Cornell,matched,220550
+Ithaca College Pass,IC Pass,IC Pass,matched,92108
+15 Ride Pass Mobile,15 RIDE,15 RIDE,matched,49115
+1 Day Pass Mobile,1DAYPASS,1DAYPASS,matched,36925
+Pay As You Go,PayAsUGo,PayAsUGo,matched,36747
+Monthly Pass Mobile,MONTHLY,MONTHLY,matched,33238
+31-DAY TCARD,31 DAY,31 DAY,matched,32867
+RA1 Adult 18-59,TCARD,TCARD,matched,30299
+RA2  Senior 60 & Up,HalfFare,HalfFare,matched,21135
+1 Ride Pass Mobile,1 RIDE,1 RIDE,matched,20164
+LA1 Youth,Youth,Youth,matched,19310
+15 RIDE TCARD,15 RIDE,15 RIDE,matched,13675
+RA4  Transfer,Transfer,Transfer,matched,10187
+Third Left Arrow 17,IC,IC,matched,9338
+15 RIDE HALF-FARE TCARD,15 RIDE,15 RIDE,matched,6781
+2 Ride Pass Mobile,2 RIDE,2 RIDE,matched,6143
+1-DAY TCARD,1 DAY,1 DAY,matched,6134
+RA3  Disabled,CityPass,CityPass,matched,3714
+Weekly Pass Mobile,7DAYPASS,7DAYPASS,matched,3691
+2 Day Pass Mobile,2DAYPASS,2DAYPASS,matched,3260
+5 Day Pass Mobile,5DAYPASS,5DAYPASS,matched,2615
+ANNUAL PASS,ANNUAL,ANNUAL,matched,2529
+15 Ride Pass Half Fare Mobile,15 RIDE,15 RIDE,matched,1583
+5-DAY TCARD,5 DAY,5 DAY,matched,1289
+2-DAY TCARD,2 DAY,2 DAY,matched,335
+Fourth Left Arrow 18,TC3,TC3,matched,227
+PayAsYouGo,PayAsUGo,PayAsUGo,matched,130
+1 Ride Half Mobile,1 RIDE,1 RIDE,matched,102
+2 Ride Half Mobile,2 RIDE,2 RIDE,matched,75
+Empty TTP,,,matched,3

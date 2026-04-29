@@ -1,0 +1,8 @@
+issue,rows,corrected_riders
+excluded_text_record,0,0.0
+empty_ttp_record,3,3.0
+dropfile_exception,114162,114162.0
+fare_record_missing_description,184418,184418.0
+apc_only_missing_fare_description,594977,594977.0
+invalid_analysis_record,3,3.0
+off_policy_cornell_override,63946,63946.0

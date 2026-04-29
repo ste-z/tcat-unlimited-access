@@ -1,0 +1,8 @@
+,rows
+total_rows,3207215
+dropfile_blank_rows,1451134
+dropfile_nonblank_rows,1756081
+dropfile_exception_rows,114239
+dropfile_nonblank_nonexception_rows,1641842
+condition_match_rows,1641842
+condition_mismatch_rows,0

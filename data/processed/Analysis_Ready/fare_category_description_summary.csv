@@ -1,0 +1,33 @@
+fare_family,fare_family_slug,fare_category,fare_category_slug,description_clean,boards,rows
+Free,free,Cornell,cornell,Cornell Card,1740675,1740675
+Free,free,Cornell Override,cornell_override,Second Left Arrow 16,210814,210814
+Free,free,Free Fares,free_fares,LA1 Youth,19004,19004
+Free,free,IC,ic,Ithaca College Pass,91148,91148
+Free,free,IC Override,ic_override,Third Left Arrow 17,9267,9267
+Free,free,TC3 Override,tc3_override,Fourth Left Arrow 18,225,225
+Free,free,Transfer,transfer,RA4  Transfer,10022,10022
+Half Fare,half_fare,Ride-based Half Fares,ride_based_half_fares,RA1 Adult 18-59,29698,29698
+Half Fare,half_fare,Ride-based Half Fares,ride_based_half_fares,RA2  Senior 60 & Up,20852,20852
+Half Fare,half_fare,Ride-based Half Fares,ride_based_half_fares,15 RIDE HALF-FARE TCARD,6670,6670
+Half Fare,half_fare,Ride-based Half Fares,ride_based_half_fares,RA3  Disabled,3643,3643
+Half Fare,half_fare,Ride-based Half Fares,ride_based_half_fares,15 Ride Pass Half Fare Mobile,1554,1554
+Half Fare,half_fare,Ride-based Half Fares,ride_based_half_fares,1 Ride Half Mobile,102,102
+Half Fare,half_fare,Ride-based Half Fares,ride_based_half_fares,2 Ride Half Mobile,75,75
+Regular Fares,regular_fares,Period-based Regular Fares,period_based_regular_fares,1 Day Pass Mobile,36502,36502
+Regular Fares,regular_fares,Period-based Regular Fares,period_based_regular_fares,Monthly Pass Mobile,32832,32832
+Regular Fares,regular_fares,Period-based Regular Fares,period_based_regular_fares,31-DAY TCARD,32408,32408
+Regular Fares,regular_fares,Period-based Regular Fares,period_based_regular_fares,1-DAY TCARD,6039,6039
+Regular Fares,regular_fares,Period-based Regular Fares,period_based_regular_fares,Weekly Pass Mobile,3648,3648
+Regular Fares,regular_fares,Period-based Regular Fares,period_based_regular_fares,2 Day Pass Mobile,3228,3228
+Regular Fares,regular_fares,Period-based Regular Fares,period_based_regular_fares,5 Day Pass Mobile,2595,2595
+Regular Fares,regular_fares,Period-based Regular Fares,period_based_regular_fares,ANNUAL PASS,2495,2495
+Regular Fares,regular_fares,Period-based Regular Fares,period_based_regular_fares,5-DAY TCARD,1269,1269
+Regular Fares,regular_fares,Period-based Regular Fares,period_based_regular_fares,2-DAY TCARD,334,334
+Regular Fares,regular_fares,Ride-based Regular Fares,ride_based_regular_fares,,184176,184176
+Regular Fares,regular_fares,Ride-based Regular Fares,ride_based_regular_fares,15 Ride Pass Mobile,48517,48517
+Regular Fares,regular_fares,Ride-based Regular Fares,ride_based_regular_fares,Pay As You Go,36329,36329
+Regular Fares,regular_fares,Ride-based Regular Fares,ride_based_regular_fares,1 Ride Pass Mobile,19919,19919
+Regular Fares,regular_fares,Ride-based Regular Fares,ride_based_regular_fares,15 RIDE TCARD,13490,13490
+Regular Fares,regular_fares,Ride-based Regular Fares,ride_based_regular_fares,2 Ride Pass Mobile,6073,6073
+Regular Fares,regular_fares,Ride-based Regular Fares,ride_based_regular_fares,PayAsYouGo,125,125
+Unspecified,unspecified_fare,Unspecified / No Description,unspecified_fare,,594977,594977

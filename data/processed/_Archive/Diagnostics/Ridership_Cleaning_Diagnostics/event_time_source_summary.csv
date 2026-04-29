@@ -1,0 +1,4 @@
+event_time_source,has_fare_bool,has_apc_bool,rows
+ts_event,True,True,2166882
+ts_event,False,True,594977
+ts_event,True,False,413079

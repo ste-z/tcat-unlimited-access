@@ -1,0 +1,20 @@
+# Core processing pipeline
+numpy>=2.0
+pandas>=2.2
+pyarrow>=16.0
+
+# Notebook analysis and visualization
+matplotlib>=3.8
+seaborn>=0.13
+statsmodels>=0.14
+jupyterlab>=4.0
+notebook>=7.0
+ipykernel>=6.0
+nbformat>=5.10
+
+# File formats used by the legacy aggregated-ridership notebook
+openpyxl>=3.1
+
+# Optional university matching notebook
+geopandas>=1.0
+boxsdk>=10.0

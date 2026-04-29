@@ -1,0 +1,19 @@
+profile: local_spatial
+description: "Steven's local run profile for this project."
+conda_env: spatial
+conda_executable: "/Users/stevenzhou/miniconda3/bin/conda"
+working_directory: "."
+
+commands:
+  install_requirements: "/Users/stevenzhou/miniconda3/bin/conda run -n spatial python -m pip install -r requirements.txt"
+  build_analysis_ready: "/Users/stevenzhou/miniconda3/bin/conda run -n spatial python scripts/build_analysis_ready_ridership.py"
+  build_aggregated_parquet: "/Users/stevenzhou/miniconda3/bin/conda run -n spatial python scripts/build_aggregated_ridership_parquet.py"
+  open_notebooks: "/Users/stevenzhou/miniconda3/bin/conda run -n spatial jupyter lab"
+  make_build: "make build"
+  make_aggregated: "make aggregated"
+  make_notebook: "make notebook"
+
+notes:
+  - "The Makefile defaults to CONDA_ENV=spatial, so `make build` uses the same environment."
+  - "The Makefile also defaults to this local conda executable; override with `make build CONDA=conda` on another machine."
+  - "Override the environment with `make build CONDA_ENV=<env-name>` when running elsewhere."

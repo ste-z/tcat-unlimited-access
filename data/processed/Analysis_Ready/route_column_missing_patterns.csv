@@ -1,0 +1,7 @@
+route_is_canonical,corrected_route_is_canonical,Route_vhist_is_canonical,swiftly_route_id_is_canonical,route_is_blank,corrected_route_is_blank,Route_vhist_is_blank,swiftly_route_id_is_blank,rows
+True,True,True,False,False,False,False,True,2103797
+False,True,True,False,True,False,False,True,594977
+True,True,False,False,False,False,True,True,388569
+False,True,True,False,False,False,False,True,63140
+False,False,False,False,False,False,True,True,31210
+False,True,False,False,False,False,True,True,25522

@@ -1,0 +1,82 @@
+path,category,size_mb,analysis_use,note
+_Archive/Diagnostics/DiDisc_Group_Diagnostics/candidate_route_set_diagnostics.csv,archived_diagnostic,0.002,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/DiDisc_Group_Diagnostics/fare_category_by_policy_period.csv,archived_diagnostic,0.0,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/DiDisc_Group_Diagnostics/fare_family_by_policy_period.csv,archived_diagnostic,0.0,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/DiDisc_Group_Diagnostics/fare_group_by_policy_period.csv,archived_diagnostic,0.0,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/DiDisc_Group_Diagnostics/old_route_sets_hourly_fare_groups.csv,archived_diagnostic,0.002,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/DiDisc_Group_Diagnostics/route_cornell_exposure_summary.csv,archived_diagnostic,0.012,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/DiDisc_Group_Diagnostics/route_near_6pm_summary.csv,archived_diagnostic,0.004,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/DiDisc_Group_Diagnostics/stop_cornell_exposure_summary.csv,archived_diagnostic,0.072,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Direction_Diagnostics/direction_column_summary.csv,archived_diagnostic,0.001,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Direction_Diagnostics/direction_equals_stop_id_sample.csv,archived_diagnostic,0.016,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Direction_Diagnostics/direction_rows_sample.csv,archived_diagnostic,0.016,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Direction_Diagnostics/direction_sequence_sample.csv,archived_diagnostic,2.296,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Direction_Diagnostics/direction_value_counts.csv,archived_diagnostic,0.002,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Direction_Diagnostics/inbound_outbound_by_route.csv,archived_diagnostic,0.001,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Ridership_Cleaning_Diagnostics/duplicate_candidate_rows_sample.csv,archived_diagnostic,0.024,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Ridership_Cleaning_Diagnostics/duplicate_candidate_summary.csv,archived_diagnostic,0.0,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Ridership_Cleaning_Diagnostics/event_time_source_summary.csv,archived_diagnostic,0.0,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Ridership_Cleaning_Diagnostics/fare_category_description_summary.csv,archived_diagnostic,0.003,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Ridership_Cleaning_Diagnostics/fare_category_lookup.csv,archived_diagnostic,0.003,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Ridership_Cleaning_Diagnostics/fare_category_policy_corrected_riders.csv,archived_diagnostic,0.0,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Ridership_Cleaning_Diagnostics/fare_family_policy_corrected_riders.csv,archived_diagnostic,0.0,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Ridership_Cleaning_Diagnostics/fare_group_policy_corrected_riders.csv,archived_diagnostic,0.0,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Ridership_Cleaning_Diagnostics/monthly_quality_summary.csv,archived_diagnostic,0.001,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Ridership_Cleaning_Diagnostics/off_policy_cornell_override_by_route.csv,archived_diagnostic,0.001,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Ridership_Cleaning_Diagnostics/quality_summary.csv,archived_diagnostic,0.001,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Ridership_Cleaning_Diagnostics/record_issue_by_route.csv,archived_diagnostic,0.004,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Ridership_Cleaning_Diagnostics/record_issue_summary.csv,archived_diagnostic,0.0,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Ridership_Cleaning_Diagnostics/route_source_summary.csv,archived_diagnostic,0.0,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Ridership_Cleaning_Diagnostics/route_stop_didisc_group_candidates.csv,archived_diagnostic,0.085,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Ridership_Cleaning_Diagnostics/stop_name_canonicalization_lookup.csv,archived_diagnostic,0.038,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Diagnostics/Ridership_Cleaning_Diagnostics/upstream_excluded_text_summary.csv,archived_diagnostic,0.0,no,"Diagnostic outputs retained for audit, not modeling."
+_Archive/Exploration/Notebook_Exploration/corrected_route_missing_vhist_summary.csv,archived_exploration,0.001,no,Older notebook exploration outputs retained for audit.
+_Archive/Exploration/Notebook_Exploration/corrected_route_noncanonical_summary.csv,archived_exploration,0.003,no,Older notebook exploration outputs retained for audit.
+_Archive/Exploration/Notebook_Exploration/corrected_route_through_run_bus_day_summary.csv,archived_exploration,0.002,no,Older notebook exploration outputs retained for audit.
+_Archive/Exploration/Notebook_Exploration/corrected_route_through_run_candidates.csv,archived_exploration,0.001,no,Older notebook exploration outputs retained for audit.
+_Archive/Exploration/Notebook_Exploration/corrected_route_through_run_rows.csv,archived_exploration,0.104,no,Older notebook exploration outputs retained for audit.
+_Archive/Exploration/Notebook_Exploration/description_media_match_status_summary.csv,archived_exploration,0.0,no,Older notebook exploration outputs retained for audit.
+_Archive/Exploration/Notebook_Exploration/description_media_mismatch_rows.csv,archived_exploration,0.0,no,Older notebook exploration outputs retained for audit.
+_Archive/Exploration/Notebook_Exploration/description_media_pair_summary.csv,archived_exploration,0.001,no,Older notebook exploration outputs retained for audit.
+_Archive/Exploration/Notebook_Exploration/dropfile_parameter_blank_combo_summary.csv,archived_exploration,0.002,no,Older notebook exploration outputs retained for audit.
+_Archive/Exploration/Notebook_Exploration/dropfile_parameter_combo_summary.csv,archived_exploration,0.001,no,Older notebook exploration outputs retained for audit.
+_Archive/Exploration/Notebook_Exploration/dropfile_parameter_condition_mismatch_rows.csv,archived_exploration,0.0,no,Older notebook exploration outputs retained for audit.
+_Archive/Exploration/Notebook_Exploration/dropfile_parameter_condition_summary.csv,archived_exploration,0.0,no,Older notebook exploration outputs retained for audit.
+_Archive/Exploration/Notebook_Exploration/dropfile_parameter_exception_sample.csv,archived_exploration,0.003,no,Older notebook exploration outputs retained for audit.
+_Archive/Exploration/Notebook_Exploration/dropfile_parameter_value_summary.csv,archived_exploration,0.0,no,Older notebook exploration outputs retained for audit.
+_Archive/Exploration/Notebook_Exploration/media_text_description_summary.csv,archived_exploration,0.001,no,Older notebook exploration outputs retained for audit.
+Analysis_Ready/analysis_ready_cleaning_summary.csv,canonical,0.001,yes,Use these ride-event and 15-minute panel files for modeling.
+Analysis_Ready/analysis_record_issue_summary.csv,canonical,0.0,yes,Use these ride-event and 15-minute panel files for modeling.
+Analysis_Ready/fare_category_description_summary.csv,canonical,0.003,yes,Use these ride-event and 15-minute panel files for modeling.
+Analysis_Ready/fare_category_lookup.csv,canonical,0.003,yes,Use these ride-event and 15-minute panel files for modeling.
+Analysis_Ready/ride_events_analysis_ready.csv.gz,canonical,16.587,yes,Use these ride-event and 15-minute panel files for modeling.
+Analysis_Ready/ride_events_analysis_ready.parquet,canonical,22.188,yes,Use these ride-event and 15-minute panel files for modeling.
+Analysis_Ready/route_15min_panel.csv,canonical,37.303,yes,Use these ride-event and 15-minute panel files for modeling.
+Analysis_Ready/route_15min_panel.parquet,canonical,4.129,yes,Use these ride-event and 15-minute panel files for modeling.
+Analysis_Ready/route_column_coverage.csv,canonical,0.0,yes,Use these ride-event and 15-minute panel files for modeling.
+Analysis_Ready/route_column_missing_patterns.csv,canonical,0.001,yes,Use these ride-event and 15-minute panel files for modeling.
+Analysis_Ready/route_column_pairwise_disagreements.csv,canonical,0.0,yes,Use these ride-event and 15-minute panel files for modeling.
+Analysis_Ready/route_column_top_disagreements.csv,canonical,0.012,yes,Use these ride-event and 15-minute panel files for modeling.
+Analysis_Ready/route_group_lookup.csv,canonical,0.001,yes,Use these ride-event and 15-minute panel files for modeling.
+Analysis_Ready/route_resolution_by_month.csv,canonical,0.003,yes,Use these ride-event and 15-minute panel files for modeling.
+Analysis_Ready/route_resolution_summary.csv,canonical,0.0,yes,Use these ride-event and 15-minute panel files for modeling.
+Analysis_Ready/route_stop_15min_panel.csv,canonical,147.597,yes,Use these ride-event and 15-minute panel files for modeling.
+Analysis_Ready/route_stop_15min_panel.parquet,canonical,10.758,yes,Use these ride-event and 15-minute panel files for modeling.
+Analysis_Ready/route_stop_group_lookup.csv,canonical,0.085,yes,Use these ride-event and 15-minute panel files for modeling.
+Analysis_Ready/stop_name_lookup.csv,canonical,0.038,yes,Use these ride-event and 15-minute panel files for modeling.
+Aggregated_Analysis/README.md,documentation,0.001,no,Processed-data documentation.
+Analysis_Ready/README.md,documentation,0.003,no,Processed-data documentation.
+README.md,documentation,0.002,no,Processed-data documentation.
+_Archive/Diagnostics/DiDisc_Group_Diagnostics/README.md,documentation,0.001,no,Processed-data documentation.
+_Archive/Diagnostics/Direction_Diagnostics/README.md,documentation,0.001,no,Processed-data documentation.
+_Archive/Diagnostics/Ridership_Cleaning_Diagnostics/README.md,documentation,0.001,no,Processed-data documentation.
+_Archive/Exploration/Notebook_Exploration/README.md,documentation,0.001,no,Processed-data documentation.
+_Archive/README.md,documentation,0.0,no,Processed-data documentation.
+processed_outputs_manifest.csv,documentation,0.01,no,Generated inventory of processed outputs.
+Aggregated_Analysis/aggregated_parquet_manifest.csv,legacy_aggregated,0.0,no,Concatenated Parquet copies of older aggregated APC reports.
+Aggregated_Analysis/apc_by_dotw.parquet,legacy_aggregated,0.011,no,Concatenated Parquet copies of older aggregated APC reports.
+Aggregated_Analysis/apc_by_hour.parquet,legacy_aggregated,0.016,no,Concatenated Parquet copies of older aggregated APC reports.
+Aggregated_Analysis/apc_by_month.parquet,legacy_aggregated,0.014,no,Concatenated Parquet copies of older aggregated APC reports.
+Aggregated_Analysis/apc_by_stop.parquet,legacy_aggregated,0.04,no,Concatenated Parquet copies of older aggregated APC reports.
+Aggregated_Analysis/apc_by_trip.parquet,legacy_aggregated,0.126,no,Concatenated Parquet copies of older aggregated APC reports.
+.DS_Store,legacy_or_unclassified,0.006,no,Review before using in analysis.

@@ -1,0 +1,33 @@
+description_clean,fare_family,fare_category,fare_family_slug,fare_category_slug
+Cornell Card,Free,Cornell,free,cornell
+Second Left Arrow 16,Free,Cornell Override,free,cornell_override
+LA1 Youth,Free,Free Fares,free,free_fares
+Ithaca College Pass,Free,IC,free,ic
+Third Left Arrow 17,Free,IC Override,free,ic_override
+Fourth Left Arrow 18,Free,TC3 Override,free,tc3_override
+RA4  Transfer,Free,Transfer,free,transfer
+1 Ride Half Mobile,Half Fare,Ride-based Half Fares,half_fare,ride_based_half_fares
+15 RIDE HALF-FARE TCARD,Half Fare,Ride-based Half Fares,half_fare,ride_based_half_fares
+15 Ride Pass Half Fare Mobile,Half Fare,Ride-based Half Fares,half_fare,ride_based_half_fares
+2 Ride Half Mobile,Half Fare,Ride-based Half Fares,half_fare,ride_based_half_fares
+RA1 Adult 18-59,Half Fare,Ride-based Half Fares,half_fare,ride_based_half_fares
+RA2  Senior 60 & Up,Half Fare,Ride-based Half Fares,half_fare,ride_based_half_fares
+RA3  Disabled,Half Fare,Ride-based Half Fares,half_fare,ride_based_half_fares
+1 Day Pass Mobile,Regular Fares,Period-based Regular Fares,regular_fares,period_based_regular_fares
+1-DAY TCARD,Regular Fares,Period-based Regular Fares,regular_fares,period_based_regular_fares
+2 Day Pass Mobile,Regular Fares,Period-based Regular Fares,regular_fares,period_based_regular_fares
+2-DAY TCARD,Regular Fares,Period-based Regular Fares,regular_fares,period_based_regular_fares
+31-DAY TCARD,Regular Fares,Period-based Regular Fares,regular_fares,period_based_regular_fares
+5 Day Pass Mobile,Regular Fares,Period-based Regular Fares,regular_fares,period_based_regular_fares
+5-DAY TCARD,Regular Fares,Period-based Regular Fares,regular_fares,period_based_regular_fares
+ANNUAL PASS,Regular Fares,Period-based Regular Fares,regular_fares,period_based_regular_fares
+Monthly Pass Mobile,Regular Fares,Period-based Regular Fares,regular_fares,period_based_regular_fares
+Weekly Pass Mobile,Regular Fares,Period-based Regular Fares,regular_fares,period_based_regular_fares
+1 Ride Pass Mobile,Regular Fares,Ride-based Regular Fares,regular_fares,ride_based_regular_fares
+15 RIDE TCARD,Regular Fares,Ride-based Regular Fares,regular_fares,ride_based_regular_fares
+15 Ride Pass Mobile,Regular Fares,Ride-based Regular Fares,regular_fares,ride_based_regular_fares
+2 Ride Pass Mobile,Regular Fares,Ride-based Regular Fares,regular_fares,ride_based_regular_fares
+Pay As You Go,Regular Fares,Ride-based Regular Fares,regular_fares,ride_based_regular_fares
+PayAsYouGo,Regular Fares,Ride-based Regular Fares,regular_fares,ride_based_regular_fares
+,Unspecified,Unspecified / No Description,unspecified_fare,unspecified_fare
+Empty TTP,Unspecified,Unspecified / No Description,unspecified_fare,unspecified_fare
